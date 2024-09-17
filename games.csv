@@ -1,0 +1,1139 @@
+,Week,Day,Date,Time,Boxscore,W/L,OT,Rec,H/A,Oppon,Tm,Opp,1stDO,TotYdO,PassYO,RushYO,TOO,1stDD,TotYdD,PassYD,RushYD,TOD,Offense,Defense,Sp. Tms, Teams
+0,1,Mon,September 11,8:15PM ET,boxscore,L,OT,0-1,A,New York Jets,16.0,22.0,19.0,314.0,217.0,97.0,4.0,13.0,289.0,117.0,172.0,1.0,-4.85,1.19,-2.27,buf
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,1-1,H,Las Vegas Raiders,38.0,10.0,29.0,450.0,267.0,183.0,H,13.0,240.0,185.0,55.0,3.0,27.19,4.89,-3.85,buf
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,2-1,A,Washington Commanders,37.0,3.0,20.0,386.0,218.0,168.0,1.0,15.0,230.0,125.0,105.0,5.0,10.16,23.07,-1.39,buf
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,3-1,H,Miami Dolphins,48.0,20.0,24.0,414.0,310.0,104.0,H,20.0,393.0,251.0,142.0,2.0,27.56,2.09,-1.37,buf
+4,5,Sun,October 8,9:30AM ET,boxscore,L,H,3-2,H,Jacksonville Jaguars,20.0,25.0,18.0,388.0,359.0,29.0,2.0,29.0,474.0,278.0,196.0,2.0,6.27,-13.93,-2.21,buf
+5,6,Sun,October 15,8:20PM ET,boxscore,W,H,4-2,H,New York Giants,14.0,9.0,22.0,297.0,169.0,128.0,2.0,20.0,317.0,185.0,132.0,H,2.9,-3.02,-6.7,buf
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,4-3,A,New England Patriots,25.0,29.0,24.0,339.0,258.0,81.0,2.0,21.0,364.0,268.0,96.0,1.0,11.63,-10.65,-5.61,buf
+7,8,Thu,October 26,8:15PM ET,boxscore,W,H,5-3,H,Tampa Bay Buccaneers,24.0,18.0,25.0,427.0,312.0,115.0,1.0,17.0,302.0,224.0,78.0,H,9.78,-3.38,-1.24,buf
+8,9,Sun,November 5,8:20PM ET,boxscore,L,H,5-4,A,Cincinnati Bengals,18.0,24.0,21.0,317.0,249.0,68.0,2.0,23.0,397.0,343.0,54.0,H,6.05,-14.35,0.96,buf
+9,10,Mon,November 13,8:15PM ET,boxscore,L,H,5-5,H,Denver Broncos,22.0,24.0,18.0,369.0,177.0,192.0,4.0,19.0,300.0,178.0,122.0,1.0,-0.44,4.09,-4.65,buf
+10,11,Sun,November 19,4:25PM ET,boxscore,W,H,6-5,H,New York Jets,32.0,6.0,22.0,393.0,263.0,130.0,1.0,14.0,155.0,92.0,63.0,4.0,14.64,15.34,1.82,buf
+11,12,Sun,November 26,4:25PM ET,boxscore,L,OT,6-6,A,Philadelphia Eagles,34.0,37.0,29.0,505.0,332.0,173.0,1.0,24.0,378.0,193.0,185.0,2.0,13.85,-7.6,-9.18,buf
+13,14,Sun,December 10,4:25PM ET,boxscore,W,H,7-6,A,Kansas City Chiefs,20.0,17.0,21.0,327.0,209.0,118.0,1.0,21.0,346.0,264.0,82.0,2.0,1.78,2.22,0.36,buf
+14,15,Sun,December 17,4:25PM ET,boxscore,W,H,8-6,H,Dallas Cowboys,31.0,10.0,28.0,351.0,85.0,266.0,H,14.0,195.0,106.0,89.0,1.0,19.98,3.23,-3.82,buf
+15,16,Sat,December 23,8:00PM ET,boxscore,W,H,9-6,A,Los Angeles Chargers,24.0,22.0,16.0,335.0,230.0,105.0,3.0,18.0,273.0,175.0,98.0,H,7.67,4.02,-9.12,buf
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,10-6,H,New England Patriots,27.0,21.0,19.0,281.0,154.0,127.0,1.0,16.0,294.0,191.0,103.0,4.0,0.15,11.94,-1.73,buf
+17,18,Sun,January 7,8:20PM ET,boxscore,W,H,11-6,A,Miami Dolphins,21.0,14.0,26.0,473.0,345.0,128.0,3.0,16.0,275.0,167.0,108.0,2.0,12.65,-3.92,3.03,buf
+19,Wild Card,Mon,January 15,4:30PM ET,boxscore,W,H,12-6,H,Pittsburgh Steelers,31.0,17.0,24.0,368.0,189.0,179.0,H,22.0,324.0,218.0,106.0,2.0,16.05,2.33,-7.99,buf
+20,Division,Sun,January 21,6:30PM ET,boxscore,L,H,12-7,H,Kansas City Chiefs,24.0,27.0,27.0,368.0,186.0,182.0,H,21.0,361.0,215.0,146.0,1.0,14.55,-11.85,-4.08,buf
+0,1,Sun,September 10,4:25PM ET,boxscore,W,H,1-0,A,Los Angeles Chargers,36.0,34.0,30.0,536.0,466.0,70.0,2.0,30.0,433.0,200.0,233.0,H,26.53,-18.83,-3.22,mia
+1,2,Sun,September 17,8:20PM ET,boxscore,W,H,2-0,A,New England Patriots,24.0,17.0,22.0,389.0,244.0,145.0,1.0,23.0,288.0,200.0,88.0,2.0,13.09,0.98,-7.69,mia
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,3-0,H,Denver Broncos,70.0,20.0,30.0,726.0,376.0,350.0,H,16.0,363.0,294.0,69.0,3.0,48.65,13.39,-12.38,mia
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,3-1,A,Buffalo Bills,20.0,48.0,20.0,393.0,251.0,142.0,2.0,24.0,414.0,310.0,104.0,H,-2.09,-27.56,1.37,mia
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,4-1,H,New York Giants,31.0,16.0,22.0,524.0,302.0,222.0,3.0,15.0,268.0,183.0,85.0,H,10.45,6.46,-1.72,mia
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,5-1,H,Carolina Panthers,42.0,21.0,23.0,424.0,262.0,162.0,1.0,21.0,296.0,188.0,108.0,H,14.79,6.44,-0.33,mia
+6,7,Sun,October 22,8:20PM ET,boxscore,L,H,5-2,A,Philadelphia Eagles,17.0,31.0,12.0,244.0,199.0,45.0,1.0,26.0,355.0,256.0,99.0,2.0,-7.17,-11.06,2.9,mia
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,6-2,H,New England Patriots,31.0,17.0,24.0,390.0,312.0,78.0,2.0,13.0,218.0,141.0,77.0,1.0,10.64,9.73,-3.59,mia
+8,9,Sun,November 5,9:30AM ET,boxscore,L,H,6-3,A,Kansas City Chiefs,14.0,21.0,20.0,292.0,175.0,117.0,1.0,16.0,267.0,174.0,93.0,1.0,-9.86,1.1,1.0,mia
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,7-3,H,Las Vegas Raiders,20.0,13.0,21.0,422.0,323.0,99.0,3.0,12.0,296.0,260.0,36.0,3.0,1.48,15.77,-8.12,mia
+11,12,Fri,November 24,3:00PM ET,boxscore,W,H,8-3,A,New York Jets,34.0,13.0,22.0,395.0,228.0,167.0,3.0,12.0,159.0,130.0,29.0,2.0,3.64,20.96,-2.09,mia
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,9-3,A,Washington Commanders,45.0,15.0,20.0,406.0,283.0,123.0,H,11.0,245.0,107.0,138.0,1.0,25.98,6.88,-0.52,mia
+13,14,Mon,December 11,8:15PM ET,boxscore,L,H,9-4,H,Tennessee Titans,27.0,28.0,20.0,366.0,208.0,158.0,1.0,22.0,403.0,320.0,83.0,3.0,-0.67,-1.86,0.42,mia
+14,15,Sun,December 17,1:00PM ET,boxscore,W,H,10-4,H,New York Jets,30.0,0.0,16.0,290.0,213.0,77.0,H,11.0,103.0,80.0,23.0,4.0,4.37,28.99,-5.48,mia
+15,16,Sun,December 24,4:25PM ET,boxscore,W,H,11-4,H,Dallas Cowboys,22.0,20.0,22.0,375.0,284.0,91.0,H,19.0,339.0,242.0,97.0,1.0,6.06,-8.66,4.74,mia
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,11-5,A,Baltimore Ravens,19.0,56.0,20.0,375.0,221.0,154.0,3.0,24.0,491.0,331.0,160.0,1.0,-10.36,-31.09,1.21,mia
+17,18,Sun,January 7,8:20PM ET,boxscore,L,H,11-6,H,Buffalo Bills,14.0,21.0,16.0,275.0,167.0,108.0,2.0,26.0,473.0,345.0,128.0,3.0,3.92,-12.65,-3.03,mia
+19,Wild Card,Sat,January 13,8:10PM ET,boxscore,L,H,11-7,A,Kansas City Chiefs,7.0,26.0,13.0,264.0,188.0,76.0,1.0,25.0,409.0,262.0,147.0,1.0,-10.55,-9.58,4.67,mia
+0,1,Mon,September 11,8:15PM ET,boxscore,W,OT,1-0,H,Buffalo Bills,22.0,16.0,13.0,289.0,117.0,172.0,1.0,19.0,314.0,217.0,97.0,4.0,-1.19,4.85,2.27,nyj
+1,2,Sun,September 17,4:25PM ET,boxscore,L,H,1-1,A,Dallas Cowboys,10.0,30.0,12.0,215.0,151.0,64.0,4.0,26.0,382.0,248.0,134.0,H,-14.82,-7.01,2.25,nyj
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,1-2,H,New England Patriots,10.0,15.0,12.0,171.0,133.0,38.0,H,17.0,358.0,201.0,157.0,H,-15.2,2.13,6.78,nyj
+3,4,Sun,October 1,8:20PM ET,boxscore,L,H,1-3,H,Kansas City Chiefs,20.0,23.0,18.0,336.0,228.0,108.0,1.0,24.0,401.0,197.0,204.0,2.0,3.25,-10.22,-1.48,nyj
+4,5,Sun,October 8,4:25PM ET,boxscore,W,H,2-3,A,Denver Broncos,31.0,21.0,18.0,407.0,173.0,234.0,2.0,18.0,308.0,169.0,139.0,3.0,5.79,6.26,2.75,nyj
+5,6,Sun,October 15,4:25PM ET,boxscore,W,H,3-3,H,Philadelphia Eagles,20.0,14.0,17.0,244.0,155.0,89.0,H,24.0,348.0,268.0,80.0,4.0,-7.52,5.91,8.89,nyj
+7,8,Sun,October 29,1:00PM ET,boxscore,W,OT,4-3,A,New York Giants,13.0,10.0,12.0,251.0,193.0,58.0,2.0,12.0,194.0,-9.0,203.0,H,-20.78,20.38,1.41,nyj
+8,9,Mon,November 6,8:15PM ET,boxscore,L,H,4-4,H,Los Angeles Chargers,6.0,27.0,17.0,270.0,206.0,64.0,3.0,14.0,191.0,107.0,84.0,H,-25.2,6.47,-1.49,nyj
+9,10,Sun,November 12,8:20PM ET,boxscore,L,H,4-5,A,Las Vegas Raiders,12.0,16.0,14.0,365.0,257.0,108.0,1.0,15.0,274.0,126.0,148.0,2.0,-7.21,8.01,-3.38,nyj
+10,11,Sun,November 19,4:25PM ET,boxscore,L,H,4-6,A,Buffalo Bills,6.0,32.0,14.0,155.0,92.0,63.0,4.0,22.0,393.0,263.0,130.0,1.0,-15.34,-14.64,-1.82,nyj
+11,12,Fri,November 24,3:00PM ET,boxscore,L,H,4-7,H,Miami Dolphins,13.0,34.0,12.0,159.0,130.0,29.0,2.0,22.0,395.0,228.0,167.0,3.0,-20.96,-3.64,2.09,nyj
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,4-8,H,Atlanta Falcons,8.0,13.0,14.0,259.0,197.0,62.0,3.0,15.0,194.0,104.0,90.0,H,-20.36,11.41,1.05,nyj
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,5-8,H,Houston Texans,30.0,6.0,20.0,347.0,268.0,79.0,1.0,10.0,135.0,54.0,81.0,H,2.85,22.37,-3.08,nyj
+14,15,Sun,December 17,1:00PM ET,boxscore,L,H,5-9,A,Miami Dolphins,0.0,30.0,11.0,103.0,80.0,23.0,4.0,16.0,290.0,213.0,77.0,H,-28.99,-4.37,5.48,nyj
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,6-9,H,Washington Commanders,30.0,28.0,26.0,381.0,217.0,164.0,2.0,18.0,245.0,143.0,102.0,3.0,-15.58,3.65,8.61,nyj
+16,17,Thu,December 28,8:15PM ET,boxscore,L,H,6-10,A,Cleveland Browns,20.0,37.0,17.0,360.0,253.0,107.0,2.0,20.0,428.0,301.0,127.0,3.0,-7.73,-3.15,-3.99,nyj
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,7-10,A,New England Patriots,17.0,3.0,13.0,254.0,69.0,185.0,1.0,6.0,119.0,31.0,88.0,2.0,-10.78,27.43,-3.32,nyj
+0,1,Sun,September 10,4:25PM ET,boxscore,L,H,0-1,H,Philadelphia Eagles,20.0,25.0,24.0,382.0,306.0,76.0,2.0,17.0,251.0,154.0,97.0,1.0,-12.04,10.42,-4.39,nwe
+1,2,Sun,September 17,8:20PM ET,boxscore,L,H,0-2,H,Miami Dolphins,17.0,24.0,23.0,288.0,200.0,88.0,2.0,22.0,389.0,244.0,145.0,1.0,-0.98,-13.09,7.69,nwe
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,1-2,A,New York Jets,15.0,10.0,17.0,358.0,201.0,157.0,H,12.0,171.0,133.0,38.0,H,-2.13,15.2,-6.78,nwe
+3,4,Sun,October 1,4:25PM ET,boxscore,L,H,1-3,A,Dallas Cowboys,3.0,38.0,10.0,253.0,200.0,53.0,3.0,22.0,377.0,253.0,124.0,H,-26.22,-8.01,-0.2,nwe
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,1-4,H,New Orleans Saints,0.0,34.0,8.0,156.0,111.0,45.0,3.0,17.0,304.0,168.0,136.0,H,-33.72,1.91,-3.4,nwe
+5,6,Sun,October 15,4:05PM ET,boxscore,L,H,1-5,A,Las Vegas Raiders,17.0,21.0,17.0,259.0,176.0,83.0,1.0,19.0,348.0,264.0,84.0,1.0,3.68,-2.79,-5.62,nwe
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,2-5,H,Buffalo Bills,29.0,25.0,21.0,364.0,268.0,96.0,1.0,24.0,339.0,258.0,81.0,2.0,10.65,-11.63,5.61,nwe
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,2-6,A,Miami Dolphins,17.0,31.0,13.0,218.0,141.0,77.0,1.0,24.0,390.0,312.0,78.0,2.0,-9.73,-10.64,3.59,nwe
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,2-7,H,Washington Commanders,17.0,20.0,18.0,327.0,220.0,107.0,1.0,23.0,432.0,308.0,124.0,2.0,0.28,-3.37,-1.3,nwe
+9,10,Sun,November 12,9:30AM ET,boxscore,L,H,2-8,H,Indianapolis Colts,6.0,10.0,21.0,340.0,173.0,167.0,2.0,14.0,264.0,194.0,70.0,1.0,-0.42,-0.31,-0.28,nwe
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,2-9,A,New York Giants,7.0,10.0,18.0,283.0,136.0,147.0,3.0,10.0,220.0,162.0,58.0,1.0,-12.51,12.44,-2.86,nwe
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,2-10,H,Los Angeles Chargers,0.0,6.0,13.0,257.0,109.0,148.0,1.0,13.0,241.0,212.0,29.0,H,-13.06,9.06,-4.71,nwe
+13,14,Thu,December 7,8:15PM ET,boxscore,W,H,3-10,A,Pittsburgh Steelers,21.0,18.0,14.0,303.0,222.0,81.0,1.0,18.0,264.0,182.0,82.0,1.0,-4.53,9.55,-2.96,nwe
+14,15,Mon,December 17,1:00PM ET,boxscore,L,H,3-11,H,Kansas City Chiefs,17.0,27.0,10.0,206.0,154.0,52.0,1.0,19.0,326.0,283.0,43.0,2.0,-16.05,5.95,0.09,nwe
+15,16,Sun,December 24,8:15PM ET,boxscore,W,H,4-11,A,Denver Broncos,26.0,23.0,12.0,289.0,230.0,59.0,1.0,19.0,276.0,193.0,83.0,2.0,-1.42,0.12,4.11,nwe
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,4-12,A,Buffalo Bills,21.0,27.0,16.0,294.0,191.0,103.0,4.0,19.0,281.0,154.0,127.0,1.0,-11.94,-0.15,1.73,nwe
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,4-13,H,New York Jets,3.0,17.0,6.0,119.0,31.0,88.0,2.0,13.0,254.0,69.0,185.0,1.0,-27.43,10.78,3.32,nwe
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,H,Houston Texans,25.0,9.0,18.0,265.0,155.0,110.0,2.0,18.0,268.0,196.0,72.0,1.0,-0.55,15.24,-0.49,rav
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,2-0,A,Cincinnati Bengals,27.0,24.0,26.0,415.0,237.0,178.0,H,19.0,282.0,216.0,66.0,1.0,18.73,-6.95,-6.67,rav
+2,3,Sun,September 24,1:00PM ET,boxscore,L,OT,2-1,H,Indianapolis Colts,19.0,22.0,20.0,364.0,178.0,186.0,2.0,19.0,327.0,188.0,139.0,H,-5.27,13.57,-10.63,rav
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,3-1,A,Cleveland Browns,28.0,3.0,16.0,296.0,165.0,131.0,1.0,13.0,166.0,73.0,93.0,3.0,2.36,25.42,-2.71,rav
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,3-2,A,Pittsburgh Steelers,10.0,17.0,19.0,335.0,210.0,125.0,3.0,17.0,289.0,202.0,87.0,1.0,-16.12,5.08,3.84,rav
+5,6,Sun,October 15,9:30AM ET,boxscore,W,H,4-2,A,Tennessee Titans,24.0,16.0,20.0,360.0,221.0,139.0,1.0,17.0,233.0,104.0,129.0,2.0,3.16,1.3,4.65,rav
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,5-2,H,Detroit Lions,38.0,6.0,23.0,503.0,357.0,146.0,1.0,18.0,337.0,253.0,84.0,1.0,26.48,6.4,-3.38,rav
+7,8,Sun,October 29,4:25PM ET,boxscore,W,H,6-2,A,Arizona Cardinals,31.0,24.0,21.0,268.0,138.0,130.0,H,22.0,310.0,181.0,129.0,2.0,9.2,3.72,-1.65,rav
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,7-2,H,Seattle Seahawks,37.0,3.0,29.0,515.0,217.0,298.0,2.0,6.0,151.0,123.0,28.0,2.0,17.08,21.73,-5.23,rav
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,7-3,H,Cleveland Browns,31.0,33.0,18.0,306.0,200.0,106.0,2.0,24.0,373.0,195.0,178.0,2.0,2.49,-6.32,1.1,rav
+10,11,Thu,November 16,8:15PM ET,boxscore,W,H,8-3,H,Cincinnati Bengals,34.0,20.0,22.0,405.0,248.0,157.0,H,20.0,272.0,136.0,136.0,H,19.09,-4.61,1.27,rav
+11,12,Sun,November 26,8:20PM ET,boxscore,W,H,9-3,A,Los Angeles Chargers,20.0,10.0,20.0,361.0,164.0,197.0,H,16.0,279.0,193.0,86.0,4.0,1.22,16.16,-5.76,rav
+13,14,Sun,December 10,1:00PM ET,boxscore,W,OT,10-3,H,Los Angeles Rams,37.0,31.0,23.0,449.0,310.0,139.0,1.0,24.0,410.0,282.0,128.0,H,13.48,-7.96,0.55,rav
+14,15,Sun,December 17,8:20PM ET,boxscore,W,H,11-3,A,Jacksonville Jaguars,23.0,7.0,25.0,396.0,145.0,251.0,1.0,16.0,333.0,258.0,75.0,2.0,8.41,3.03,2.47,rav
+15,16,Mon,December 25,8:15PM ET,boxscore,W,H,12-3,A,San Francisco 49ers,33.0,19.0,23.0,343.0,241.0,102.0,H,21.0,429.0,308.0,121.0,5.0,11.84,4.26,-1.31,rav
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,13-3,H,Miami Dolphins,56.0,19.0,24.0,491.0,331.0,160.0,1.0,20.0,375.0,221.0,154.0,3.0,31.09,10.36,-1.21,rav
+17,18,Sat,January 6,4:30PM ET,boxscore,L,H,13-4,H,Pittsburgh Steelers,10.0,17.0,13.0,224.0,118.0,106.0,2.0,16.0,289.0,134.0,155.0,2.0,-12.05,7.1,-3.24,rav
+19,Division,Sat,January 20,4:30PM ET,boxscore,W,H,14-4,H,Houston Texans,34.0,10.0,22.0,352.0,123.0,229.0,H,10.0,213.0,175.0,38.0,H,15.37,10.33,-2.77,rav
+20,Conf. Champ.,Sun,January 28,3:00PM ET,boxscore,L,H,14-5,H,Kansas City Chiefs,10.0,17.0,16.0,336.0,255.0,81.0,3.0,22.0,319.0,230.0,89.0,H,-7.2,-4.1,2.43,rav
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,H,Cincinnati Bengals,24.0,3.0,21.0,350.0,144.0,206.0,2.0,6.0,142.0,67.0,75.0,H,-6.77,23.57,3.92,cle
+1,2,Mon,September 18,8:15PM ET,boxscore,L,H,1-1,A,Pittsburgh Steelers,22.0,26.0,20.0,408.0,210.0,198.0,4.0,9.0,255.0,200.0,55.0,2.0,-19.51,16.63,-2.81,cle
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,2-1,H,Tennessee Titans,27.0,3.0,23.0,341.0,263.0,78.0,1.0,6.0,94.0,68.0,26.0,H,13.99,13.12,-4.04,cle
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,2-2,H,Baltimore Ravens,3.0,28.0,13.0,166.0,73.0,93.0,3.0,16.0,296.0,165.0,131.0,1.0,-25.42,-2.36,2.71,cle
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,3-2,H,San Francisco 49ers,19.0,17.0,18.0,334.0,174.0,160.0,2.0,15.0,215.0,107.0,108.0,1.0,-11.32,6.05,7.34,cle
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,4-2,A,Indianapolis Colts,39.0,38.0,18.0,316.0,166.0,150.0,2.0,20.0,456.0,288.0,168.0,4.0,-5.3,-1.77,10.23,cle
+7,8,Sun,October 29,4:05PM ET,boxscore,L,H,4-3,A,Seattle Seahawks,20.0,24.0,23.0,385.0,230.0,155.0,3.0,17.0,362.0,248.0,114.0,2.0,0.0,-6.04,-2.5,cle
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,5-3,H,Arizona Cardinals,27.0,0.0,17.0,326.0,213.0,113.0,H,7.0,58.0,17.0,41.0,3.0,0.59,35.86,-7.62,cle
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,6-3,A,Baltimore Ravens,33.0,31.0,24.0,373.0,195.0,178.0,2.0,18.0,306.0,200.0,106.0,2.0,6.32,-2.49,-1.1,cle
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,7-3,H,Pittsburgh Steelers,13.0,10.0,20.0,259.0,163.0,96.0,1.0,12.0,249.0,77.0,172.0,H,-6.18,6.04,1.74,cle
+11,12,Sun,November 26,4:05PM ET,boxscore,L,H,7-4,A,Denver Broncos,12.0,29.0,19.0,269.0,162.0,107.0,3.0,17.0,294.0,125.0,169.0,1.0,-14.0,-3.83,0.36,cle
+12,13,Sun,December 3,4:25PM ET,boxscore,L,H,7-5,A,Los Angeles Rams,19.0,36.0,20.0,327.0,240.0,87.0,1.0,20.0,399.0,279.0,120.0,H,-1.73,-16.49,1.43,cle
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,8-5,H,Jacksonville Jaguars,31.0,27.0,16.0,389.0,307.0,82.0,3.0,20.0,293.0,235.0,58.0,4.0,-8.29,8.51,5.12,cle
+14,15,Sun,December 17,1:00PM ET,boxscore,W,H,9-5,H,Chicago Bears,20.0,17.0,14.0,377.0,348.0,29.0,3.0,12.0,236.0,148.0,88.0,3.0,-20.66,20.51,3.15,cle
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,10-5,A,Houston Texans,36.0,22.0,26.0,418.0,364.0,54.0,2.0,20.0,250.0,178.0,72.0,2.0,12.38,9.69,-8.56,cle
+16,17,Thu,December 28,8:15PM ET,boxscore,W,H,11-5,H,New York Jets,37.0,20.0,20.0,428.0,301.0,127.0,3.0,17.0,360.0,253.0,107.0,2.0,3.15,7.73,3.99,cle
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,11-6,A,Cincinnati Bengals,14.0,31.0,13.0,244.0,140.0,104.0,2.0,22.0,328.0,145.0,183.0,1.0,-8.3,-8.81,1.32,cle
+19,Wild Card,Sat,January 13,4:30PM ET,boxscore,L,H,11-7,A,Houston Texans,14.0,45.0,18.0,324.0,268.0,56.0,2.0,14.0,356.0,280.0,76.0,H,-19.5,-15.45,3.91,cle
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,H,San Francisco 49ers,7.0,30.0,15.0,239.0,198.0,41.0,2.0,22.0,391.0,203.0,188.0,1.0,-13.55,-9.73,0.78,pit
+1,2,Mon,September 18,8:15PM ET,boxscore,W,H,1-1,H,Cleveland Browns,26.0,22.0,9.0,255.0,200.0,55.0,2.0,20.0,408.0,210.0,198.0,4.0,-16.63,19.51,2.81,pit
+2,3,Sun,September 24,8:20PM ET,boxscore,W,H,2-1,A,Las Vegas Raiders,23.0,18.0,17.0,333.0,228.0,105.0,H,19.0,362.0,293.0,69.0,3.0,5.43,3.82,0.12,pit
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,2-2,A,Houston Texans,6.0,30.0,12.0,225.0,111.0,114.0,1.0,24.0,451.0,312.0,139.0,H,-8.54,-15.66,2.59,pit
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,3-2,H,Baltimore Ravens,17.0,10.0,17.0,289.0,202.0,87.0,1.0,19.0,335.0,210.0,125.0,3.0,-5.08,16.12,-3.84,pit
+6,7,Sun,October 22,4:05PM ET,boxscore,W,H,4-2,A,Los Angeles Rams,24.0,17.0,17.0,300.0,214.0,86.0,H,19.0,354.0,219.0,135.0,1.0,4.14,-3.06,6.47,pit
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,4-3,H,Jacksonville Jaguars,10.0,20.0,17.0,261.0,191.0,70.0,2.0,20.0,377.0,271.0,106.0,3.0,-3.68,2.59,-2.01,pit
+8,9,Thu,November 2,8:15PM ET,boxscore,W,H,5-3,H,Tennessee Titans,20.0,16.0,22.0,326.0,160.0,166.0,H,23.0,340.0,235.0,105.0,1.0,10.92,-3.61,-3.77,pit
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,6-3,H,Green Bay Packers,23.0,19.0,21.0,324.0,119.0,205.0,H,17.0,399.0,283.0,116.0,2.0,7.06,-8.81,3.18,pit
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,6-4,A,Cleveland Browns,10.0,13.0,12.0,249.0,77.0,172.0,H,20.0,259.0,163.0,96.0,1.0,-6.04,6.18,-1.74,pit
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,7-4,A,Cincinnati Bengals,16.0,10.0,22.0,421.0,268.0,153.0,1.0,10.0,222.0,197.0,25.0,1.0,4.32,6.04,-3.05,pit
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,7-5,H,Arizona Cardinals,10.0,24.0,18.0,317.0,187.0,130.0,1.0,18.0,282.0,132.0,150.0,H,-2.22,-6.39,-7.39,pit
+13,14,Thu,December 7,8:15PM ET,boxscore,L,H,7-6,H,New England Patriots,18.0,21.0,18.0,264.0,182.0,82.0,1.0,14.0,303.0,222.0,81.0,1.0,-9.55,4.53,2.96,pit
+14,15,Sun,December 16,4:30PM ET,boxscore,L,H,7-7,A,Indianapolis Colts,13.0,30.0,13.0,216.0,142.0,74.0,3.0,19.0,372.0,202.0,170.0,H,-9.21,-11.18,3.34,pit
+15,16,Sat,December 23,4:30PM ET,boxscore,W,H,8-7,H,Cincinnati Bengals,34.0,11.0,16.0,397.0,284.0,113.0,H,17.0,368.0,309.0,59.0,3.0,15.02,7.25,-1.38,pit
+16,17,Sun,December 31,4:05PM ET,boxscore,W,H,9-7,A,Seattle Seahawks,30.0,23.0,25.0,468.0,266.0,202.0,H,17.0,369.0,281.0,88.0,1.0,20.36,-7.51,-0.67,pit
+17,18,Sat,January 6,4:30PM ET,boxscore,W,H,10-7,A,Baltimore Ravens,17.0,10.0,16.0,289.0,134.0,155.0,2.0,13.0,224.0,118.0,106.0,2.0,-7.1,12.05,3.24,pit
+19,Wild Card,Mon,January 15,4:30PM ET,boxscore,L,H,10-8,A,Buffalo Bills,17.0,31.0,22.0,324.0,218.0,106.0,2.0,24.0,368.0,189.0,179.0,H,-2.33,-16.05,7.99,pit
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,A,Cleveland Browns,3.0,24.0,6.0,142.0,67.0,75.0,H,21.0,350.0,144.0,206.0,2.0,-23.57,6.77,-3.92,cin
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,0-2,H,Baltimore Ravens,24.0,27.0,19.0,282.0,216.0,66.0,1.0,26.0,415.0,237.0,178.0,H,6.95,-18.73,6.67,cin
+2,3,Mon,September 25,8:15PM ET,boxscore,W,H,1-2,H,Los Angeles Rams,19.0,16.0,19.0,309.0,242.0,67.0,1.0,15.0,292.0,221.0,71.0,2.0,-8.0,7.34,3.79,cin
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,1-3,A,Tennessee Titans,3.0,27.0,14.0,211.0,139.0,72.0,1.0,23.0,400.0,227.0,173.0,1.0,-9.18,-18.97,1.14,cin
+4,5,Sun,October 8,4:05PM ET,boxscore,W,H,2-3,A,Arizona Cardinals,34.0,20.0,27.0,380.0,287.0,93.0,1.0,15.0,294.0,152.0,142.0,3.0,4.11,9.49,0.68,cin
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,3-3,H,Seattle Seahawks,17.0,13.0,15.0,214.0,168.0,46.0,1.0,24.0,384.0,297.0,87.0,2.0,-1.37,3.89,1.98,cin
+7,8,Sun,October 29,4:25PM ET,boxscore,W,H,4-3,A,San Francisco 49ers,31.0,17.0,29.0,400.0,266.0,134.0,1.0,24.0,460.0,347.0,113.0,3.0,18.3,-9.25,-2.48,cin
+8,9,Sun,November 5,8:20PM ET,boxscore,W,H,5-3,H,Buffalo Bills,24.0,18.0,23.0,397.0,343.0,54.0,H,21.0,317.0,249.0,68.0,2.0,14.35,-6.05,-0.96,cin
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,5-4,H,Houston Texans,27.0,30.0,20.0,380.0,314.0,66.0,2.0,28.0,544.0,356.0,188.0,3.0,4.94,-13.25,4.46,cin
+10,11,Thu,November 16,8:15PM ET,boxscore,L,H,5-5,A,Baltimore Ravens,20.0,34.0,20.0,272.0,136.0,136.0,H,22.0,405.0,248.0,157.0,H,4.61,-19.09,-1.27,cin
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,5-6,H,Pittsburgh Steelers,10.0,16.0,10.0,222.0,197.0,25.0,1.0,22.0,421.0,268.0,153.0,1.0,-6.04,-4.32,3.05,cin
+12,13,Mon,December 4,8:15PM ET,boxscore,W,OT,6-6,A,Jacksonville Jaguars,34.0,31.0,27.0,491.0,335.0,156.0,1.0,23.0,376.0,305.0,71.0,H,17.41,-13.98,0.31,cin
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,7-6,H,Indianapolis Colts,34.0,14.0,19.0,385.0,274.0,111.0,1.0,19.0,272.0,226.0,46.0,2.0,6.86,4.37,8.34,cin
+14,15,Sun,December 16,1:00PM ET,boxscore,W,OT,8-6,H,Minnesota Vikings,27.0,24.0,22.0,378.0,298.0,80.0,1.0,24.0,424.0,281.0,143.0,2.0,9.29,-8.62,1.35,cin
+15,16,Sat,December 23,4:30PM ET,boxscore,L,H,8-7,A,Pittsburgh Steelers,11.0,34.0,17.0,368.0,309.0,59.0,3.0,16.0,397.0,284.0,113.0,H,-7.25,-15.02,1.38,cin
+16,17,Sun,December 31,4:25PM ET,boxscore,L,H,8-8,A,Kansas City Chiefs,17.0,25.0,20.0,263.0,159.0,104.0,H,15.0,373.0,241.0,132.0,1.0,1.31,-5.05,-3.55,cin
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,9-8,H,Cleveland Browns,31.0,14.0,22.0,328.0,145.0,183.0,1.0,13.0,244.0,140.0,104.0,2.0,8.81,8.3,-1.32,cin
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,A,Baltimore Ravens,9.0,25.0,18.0,268.0,196.0,72.0,1.0,18.0,265.0,155.0,110.0,2.0,-15.24,0.55,0.49,htx
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,0-2,H,Indianapolis Colts,20.0,31.0,24.0,389.0,337.0,52.0,1.0,19.0,353.0,227.0,126.0,H,7.88,-14.21,-4.04,htx
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,1-2,A,Jacksonville Jaguars,37.0,17.0,15.0,366.0,280.0,86.0,H,22.0,404.0,288.0,116.0,2.0,13.65,-3.88,10.46,htx
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,2-2,H,Pittsburgh Steelers,30.0,6.0,24.0,451.0,312.0,139.0,H,12.0,225.0,111.0,114.0,1.0,15.66,8.54,-2.59,htx
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,2-3,A,Atlanta Falcons,19.0,21.0,17.0,313.0,249.0,64.0,H,26.0,447.0,351.0,96.0,2.0,2.73,-6.01,1.01,htx
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,3-3,H,New Orleans Saints,20.0,13.0,19.0,297.0,177.0,120.0,1.0,24.0,430.0,341.0,89.0,2.0,8.1,-5.96,3.91,htx
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,3-4,A,Carolina Panthers,13.0,15.0,16.0,229.0,119.0,110.0,1.0,20.0,224.0,180.0,44.0,H,-3.6,-0.91,2.13,htx
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,4-4,H,Tampa Bay Buccaneers,39.0,37.0,26.0,496.0,443.0,53.0,1.0,21.0,332.0,251.0,81.0,1.0,16.65,-13.23,-5.81,htx
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,5-4,A,Cincinnati Bengals,30.0,27.0,28.0,544.0,356.0,188.0,3.0,20.0,380.0,314.0,66.0,2.0,13.25,-4.94,-4.46,htx
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,6-4,H,Arizona Cardinals,21.0,16.0,22.0,419.0,308.0,111.0,3.0,20.0,319.0,196.0,123.0,2.0,4.22,1.11,-0.49,htx
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,6-5,H,Jacksonville Jaguars,21.0,24.0,19.0,352.0,261.0,91.0,H,22.0,445.0,364.0,81.0,1.0,8.2,-13.92,-3.64,htx
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,7-5,H,Denver Broncos,22.0,17.0,14.0,353.0,264.0,89.0,H,16.0,282.0,164.0,118.0,3.0,-1.15,4.63,0.91,htx
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,7-6,A,New York Jets,6.0,30.0,10.0,135.0,54.0,81.0,H,20.0,347.0,268.0,79.0,1.0,-22.37,-2.85,3.08,htx
+14,15,Sun,December 17,1:00PM ET,boxscore,W,OT,8-6,A,Tennessee Titans,19.0,16.0,21.0,340.0,192.0,148.0,1.0,14.0,204.0,138.0,66.0,1.0,-9.0,8.62,3.38,htx
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,8-7,H,Cleveland Browns,22.0,36.0,20.0,250.0,178.0,72.0,2.0,26.0,418.0,364.0,54.0,2.0,-9.69,-12.38,8.56,htx
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,9-7,H,Tennessee Titans,26.0,3.0,20.0,312.0,201.0,111.0,H,11.0,187.0,134.0,53.0,1.0,3.77,18.77,-1.45,htx
+17,18,Sat,January 6,8:15PM ET,boxscore,W,H,10-7,A,Indianapolis Colts,23.0,19.0,16.0,306.0,246.0,60.0,H,21.0,360.0,133.0,227.0,1.0,5.93,-3.98,-1.85,htx
+19,Wild Card,Sat,January 13,4:30PM ET,boxscore,W,H,11-7,H,Cleveland Browns,45.0,14.0,14.0,356.0,280.0,76.0,H,18.0,324.0,268.0,56.0,2.0,15.45,19.5,-3.91,htx
+20,Division,Sat,January 20,4:30PM ET,boxscore,L,H,11-8,A,Baltimore Ravens,10.0,34.0,10.0,213.0,175.0,38.0,H,22.0,352.0,123.0,229.0,H,-10.33,-15.37,2.77,htx
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,A,Indianapolis Colts,31.0,21.0,20.0,342.0,237.0,105.0,2.0,18.0,280.0,215.0,65.0,3.0,-9.8,17.62,2.44,jax
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,1-1,H,Kansas City Chiefs,9.0,17.0,18.0,271.0,197.0,74.0,1.0,19.0,399.0,298.0,101.0,3.0,-10.72,-7.01,6.76,jax
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,1-2,H,Houston Texans,17.0,37.0,22.0,404.0,288.0,116.0,2.0,15.0,366.0,280.0,86.0,H,3.88,-13.65,-10.46,jax
+3,4,Sun,October 1,9:30AM ET,boxscore,W,H,2-2,H,Atlanta Falcons,23.0,7.0,16.0,300.0,195.0,105.0,H,17.0,287.0,160.0,127.0,3.0,0.72,15.78,-0.86,jax
+4,5,Sun,October 8,9:30AM ET,boxscore,W,H,3-2,A,Buffalo Bills,25.0,20.0,29.0,474.0,278.0,196.0,2.0,18.0,388.0,359.0,29.0,2.0,13.93,-6.27,2.21,jax
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,4-2,H,Indianapolis Colts,37.0,20.0,17.0,233.0,148.0,85.0,1.0,18.0,354.0,310.0,44.0,4.0,-0.16,12.21,4.88,jax
+6,7,Thu,October 19,8:15PM ET,boxscore,W,H,5-2,A,New Orleans Saints,31.0,24.0,18.0,330.0,217.0,113.0,2.0,25.0,407.0,295.0,112.0,1.0,2.64,4.83,-1.15,jax
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,6-2,A,Pittsburgh Steelers,20.0,10.0,20.0,377.0,271.0,106.0,3.0,17.0,261.0,191.0,70.0,2.0,-2.59,3.68,2.01,jax
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,6-3,H,San Francisco 49ers,3.0,34.0,12.0,221.0,162.0,59.0,4.0,20.0,437.0,293.0,144.0,H,-18.16,-15.13,3.53,jax
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,7-3,H,Tennessee Titans,34.0,14.0,24.0,389.0,261.0,128.0,H,12.0,235.0,143.0,92.0,2.0,21.06,-3.96,2.84,jax
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,8-3,A,Houston Texans,24.0,21.0,22.0,445.0,364.0,81.0,1.0,19.0,352.0,261.0,91.0,H,13.92,-8.2,3.64,jax
+12,13,Mon,December 4,8:15PM ET,boxscore,L,OT,8-4,H,Cincinnati Bengals,31.0,34.0,23.0,376.0,305.0,71.0,H,27.0,491.0,335.0,156.0,1.0,13.98,-17.41,-0.31,jax
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,8-5,A,Cleveland Browns,27.0,31.0,20.0,293.0,235.0,58.0,4.0,16.0,389.0,307.0,82.0,3.0,-8.51,8.29,-5.12,jax
+14,15,Sun,December 17,8:20PM ET,boxscore,L,H,8-6,H,Baltimore Ravens,7.0,23.0,16.0,333.0,258.0,75.0,2.0,25.0,396.0,145.0,251.0,1.0,-3.03,-8.41,-2.47,jax
+15,16,Sun,December 24,4:05PM ET,boxscore,L,H,8-7,A,Tampa Bay Buccaneers,12.0,30.0,23.0,305.0,268.0,37.0,4.0,22.0,335.0,265.0,70.0,H,-9.43,-8.09,-4.78,jax
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,9-7,H,Carolina Panthers,26.0,0.0,16.0,317.0,162.0,155.0,H,7.0,124.0,67.0,57.0,1.0,6.77,24.8,-4.36,jax
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,9-8,A,Tennessee Titans,20.0,28.0,20.0,362.0,280.0,82.0,2.0,19.0,327.0,152.0,175.0,1.0,-0.86,-7.12,-0.99,jax
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,H,Jacksonville Jaguars,21.0,31.0,18.0,280.0,215.0,65.0,3.0,20.0,342.0,237.0,105.0,2.0,-17.62,9.8,-2.44,clt
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,1-1,A,Houston Texans,31.0,20.0,19.0,353.0,227.0,126.0,H,24.0,389.0,337.0,52.0,1.0,14.21,-7.88,4.04,clt
+2,3,Sun,September 24,1:00PM ET,boxscore,W,OT,2-1,A,Baltimore Ravens,22.0,19.0,19.0,327.0,188.0,139.0,H,20.0,364.0,178.0,186.0,2.0,-13.57,5.27,10.63,clt
+3,4,Sun,October 1,1:00PM ET,boxscore,L,OT,2-2,H,Los Angeles Rams,23.0,29.0,19.0,329.0,196.0,133.0,1.0,27.0,467.0,303.0,164.0,1.0,5.51,-15.52,0.74,clt
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,3-2,H,Tennessee Titans,23.0,16.0,21.0,429.0,236.0,193.0,H,19.0,348.0,259.0,89.0,1.0,16.77,-6.32,-0.89,clt
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,3-3,A,Jacksonville Jaguars,20.0,37.0,18.0,354.0,310.0,44.0,4.0,17.0,233.0,148.0,85.0,1.0,-12.21,0.16,-4.88,clt
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,3-4,H,Cleveland Browns,38.0,39.0,20.0,456.0,288.0,168.0,4.0,18.0,316.0,166.0,150.0,2.0,1.77,5.3,-10.23,clt
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,3-5,H,New Orleans Saints,27.0,38.0,19.0,371.0,207.0,164.0,1.0,24.0,511.0,350.0,161.0,1.0,8.38,-23.78,3.03,clt
+8,9,Sun,November 5,4:05PM ET,boxscore,W,H,4-5,A,Carolina Panthers,27.0,13.0,17.0,198.0,120.0,78.0,1.0,17.0,275.0,137.0,138.0,3.0,-3.93,23.07,-2.92,clt
+9,10,Sun,November 12,9:30AM ET,boxscore,W,H,5-5,A,New England Patriots,10.0,6.0,14.0,264.0,194.0,70.0,1.0,21.0,340.0,173.0,167.0,2.0,0.31,0.42,0.28,clt
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,6-5,H,Tampa Bay Buccaneers,27.0,20.0,26.0,394.0,239.0,155.0,1.0,17.0,298.0,173.0,125.0,2.0,10.81,0.3,1.18,clt
+12,13,Sun,December 3,1:00PM ET,boxscore,W,OT,7-5,A,Tennessee Titans,31.0,28.0,19.0,355.0,300.0,55.0,2.0,25.0,381.0,204.0,177.0,2.0,2.48,-3.29,6.88,clt
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,7-6,A,Cincinnati Bengals,14.0,34.0,19.0,272.0,226.0,46.0,2.0,19.0,385.0,274.0,111.0,1.0,-4.37,-6.86,-8.34,clt
+14,15,Sun,December 16,4:30PM ET,boxscore,W,H,8-6,H,Pittsburgh Steelers,30.0,13.0,19.0,372.0,202.0,170.0,H,13.0,216.0,142.0,74.0,3.0,11.18,9.21,-3.34,clt
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,8-7,A,Atlanta Falcons,10.0,29.0,20.0,262.0,170.0,92.0,1.0,23.0,406.0,229.0,177.0,H,-4.99,-13.44,1.88,clt
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,9-7,H,Las Vegas Raiders,23.0,20.0,16.0,349.0,215.0,134.0,H,26.0,370.0,286.0,84.0,H,11.41,-8.69,1.73,clt
+17,18,Sat,January 6,8:15PM ET,boxscore,L,H,9-8,H,Houston Texans,19.0,23.0,21.0,360.0,133.0,227.0,1.0,16.0,306.0,246.0,60.0,H,3.98,-5.93,1.85,clt
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,A,New Orleans Saints,15.0,16.0,16.0,285.0,181.0,104.0,3.0,15.0,351.0,282.0,69.0,2.0,-8.64,-0.83,4.03,oti
+1,2,Sun,September 17,1:00PM ET,boxscore,W,OT,1-1,H,Los Angeles Chargers,27.0,24.0,22.0,341.0,200.0,141.0,H,19.0,342.0,281.0,61.0,H,9.86,-6.8,-0.06,oti
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,1-2,A,Cleveland Browns,3.0,27.0,6.0,94.0,68.0,26.0,H,23.0,341.0,263.0,78.0,1.0,-13.12,-13.99,4.04,oti
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,2-2,H,Cincinnati Bengals,27.0,3.0,23.0,400.0,227.0,173.0,1.0,14.0,211.0,139.0,72.0,1.0,18.97,9.18,-1.14,oti
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,2-3,A,Indianapolis Colts,16.0,23.0,19.0,348.0,259.0,89.0,1.0,21.0,429.0,236.0,193.0,H,6.32,-16.77,0.89,oti
+5,6,Sun,October 15,9:30AM ET,boxscore,L,H,2-4,H,Baltimore Ravens,16.0,24.0,17.0,233.0,104.0,129.0,2.0,20.0,360.0,221.0,139.0,1.0,-1.3,-3.16,-4.65,oti
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,3-4,H,Atlanta Falcons,28.0,23.0,17.0,375.0,226.0,149.0,1.0,17.0,342.0,202.0,140.0,1.0,4.14,3.34,0.17,oti
+8,9,Thu,November 2,8:15PM ET,boxscore,L,H,3-5,A,Pittsburgh Steelers,16.0,20.0,23.0,340.0,235.0,105.0,1.0,22.0,326.0,160.0,166.0,H,3.61,-10.92,3.77,oti
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,3-6,A,Tampa Bay Buccaneers,6.0,20.0,14.0,209.0,167.0,42.0,1.0,19.0,340.0,263.0,77.0,1.0,-14.75,-7.05,4.53,oti
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,3-7,A,Jacksonville Jaguars,14.0,34.0,12.0,235.0,143.0,92.0,2.0,24.0,389.0,261.0,128.0,H,3.96,-21.06,-2.84,oti
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,4-7,H,Carolina Panthers,17.0,10.0,15.0,264.0,184.0,80.0,H,19.0,258.0,162.0,96.0,1.0,0.52,7.57,0.58,oti
+12,13,Sun,December 3,1:00PM ET,boxscore,L,OT,4-8,H,Indianapolis Colts,28.0,31.0,25.0,381.0,204.0,177.0,2.0,19.0,355.0,300.0,55.0,2.0,3.29,-2.48,-6.88,oti
+13,14,Mon,December 11,8:15PM ET,boxscore,W,H,5-8,A,Miami Dolphins,28.0,27.0,22.0,403.0,320.0,83.0,3.0,20.0,366.0,208.0,158.0,1.0,1.86,0.67,-0.42,oti
+14,15,Sun,December 17,1:00PM ET,boxscore,L,OT,5-9,H,Houston Texans,16.0,19.0,14.0,204.0,138.0,66.0,1.0,21.0,340.0,192.0,148.0,1.0,-8.62,9.0,-3.38,oti
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,5-10,H,Seattle Seahawks,17.0,20.0,23.0,287.0,125.0,162.0,H,21.0,273.0,215.0,58.0,H,9.37,-13.04,-0.67,oti
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,5-11,A,Houston Texans,3.0,26.0,11.0,187.0,134.0,53.0,1.0,20.0,312.0,201.0,111.0,H,-18.77,-3.77,1.45,oti
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,6-11,H,Jacksonville Jaguars,28.0,20.0,19.0,327.0,152.0,175.0,1.0,20.0,362.0,280.0,82.0,2.0,7.12,0.86,0.99,oti
+0,1,Thu,September 7,8:20PM ET,boxscore,L,H,0-1,H,Detroit Lions,20.0,21.0,17.0,316.0,226.0,90.0,1.0,19.0,368.0,250.0,118.0,1.0,-4.17,-2.6,2.11,kan
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,1-1,A,Jacksonville Jaguars,17.0,9.0,19.0,399.0,298.0,101.0,3.0,18.0,271.0,197.0,74.0,1.0,7.01,10.72,-6.76,kan
+2,3,Sun,September 24,4:25PM ET,boxscore,W,H,2-1,H,Chicago Bears,41.0,10.0,31.0,456.0,303.0,153.0,2.0,11.0,203.0,87.0,116.0,2.0,20.09,13.6,-1.47,kan
+3,4,Sun,October 1,8:20PM ET,boxscore,W,H,3-1,A,New York Jets,23.0,20.0,24.0,401.0,197.0,204.0,2.0,18.0,336.0,228.0,108.0,1.0,10.22,-3.25,1.48,kan
+4,5,Sun,October 8,4:25PM ET,boxscore,W,H,4-1,A,Minnesota Vikings,27.0,20.0,21.0,333.0,266.0,67.0,H,24.0,329.0,259.0,70.0,1.0,15.55,-10.22,0.17,kan
+5,6,Thu,October 12,8:15PM ET,boxscore,W,H,5-1,H,Denver Broncos,19.0,8.0,22.0,389.0,293.0,96.0,1.0,14.0,197.0,82.0,115.0,3.0,1.99,13.65,-1.97,kan
+6,7,Sun,October 22,4:25PM ET,boxscore,W,H,6-1,H,Los Angeles Chargers,31.0,17.0,25.0,483.0,415.0,68.0,2.0,16.0,358.0,219.0,139.0,2.0,19.19,-3.03,-2.58,kan
+7,8,Sun,October 29,4:25PM ET,boxscore,L,H,6-2,A,Denver Broncos,9.0,24.0,18.0,274.0,212.0,62.0,5.0,19.0,240.0,87.0,153.0,1.0,-11.85,1.52,-4.12,kan
+8,9,Sun,November 5,9:30AM ET,boxscore,W,H,7-2,H,Miami Dolphins,21.0,14.0,16.0,267.0,174.0,93.0,1.0,20.0,292.0,175.0,117.0,1.0,-1.1,9.86,-1.0,kan
+10,11,Mon,November 20,8:15PM ET,boxscore,L,H,7-3,H,Philadelphia Eagles,17.0,21.0,23.0,336.0,168.0,168.0,2.0,16.0,238.0,124.0,114.0,1.0,-3.4,2.22,-3.61,kan
+11,12,Sun,November 26,4:25PM ET,boxscore,W,H,8-3,A,Las Vegas Raiders,31.0,17.0,23.0,360.0,291.0,69.0,H,16.0,358.0,235.0,123.0,H,14.0,-6.49,5.9,kan
+12,13,Sun,December 3,8:20PM ET,boxscore,L,H,8-4,A,Green Bay Packers,19.0,27.0,25.0,337.0,189.0,148.0,1.0,24.0,382.0,253.0,129.0,H,9.54,-19.21,0.96,kan
+13,14,Sun,December 10,4:25PM ET,boxscore,L,H,8-5,H,Buffalo Bills,17.0,20.0,21.0,346.0,264.0,82.0,2.0,21.0,327.0,209.0,118.0,1.0,-2.22,-1.78,-0.36,kan
+14,15,Mon,December 17,1:00PM ET,boxscore,W,H,9-5,A,New England Patriots,27.0,17.0,19.0,326.0,283.0,43.0,2.0,10.0,206.0,154.0,52.0,1.0,-5.95,16.05,-0.09,kan
+15,16,Mon,December 25,1:00PM ET,boxscore,L,H,9-6,H,Las Vegas Raiders,14.0,20.0,19.0,308.0,223.0,85.0,2.0,12.0,205.0,48.0,157.0,H,-11.63,8.4,-3.27,kan
+16,17,Sun,December 31,4:25PM ET,boxscore,W,H,10-6,H,Cincinnati Bengals,25.0,17.0,15.0,373.0,241.0,132.0,1.0,20.0,263.0,159.0,104.0,H,5.05,-1.31,3.55,kan
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,11-6,A,Los Angeles Chargers,13.0,12.0,12.0,268.0,145.0,123.0,1.0,22.0,353.0,235.0,118.0,1.0,-3.31,8.89,-1.81,kan
+19,Wild Card,Sat,January 13,8:10PM ET,boxscore,W,H,12-6,H,Miami Dolphins,26.0,7.0,25.0,409.0,262.0,147.0,1.0,13.0,264.0,188.0,76.0,1.0,9.58,10.55,-4.67,kan
+20,Division,Sun,January 21,6:30PM ET,boxscore,W,H,13-6,A,Buffalo Bills,27.0,24.0,21.0,361.0,215.0,146.0,1.0,27.0,368.0,186.0,182.0,H,11.85,-14.55,4.08,kan
+21,Conf. Champ.,Sun,January 28,3:00PM ET,boxscore,W,H,14-6,A,Baltimore Ravens,17.0,10.0,22.0,319.0,230.0,89.0,H,16.0,336.0,255.0,81.0,3.0,4.1,7.2,-2.43,kan
+22,SuperBowl,Sun,February 11,6:30PM ET,boxscore,W,OT,15-6,N,San Francisco 49ers,25.0,22.0,24.0,455.0,325.0,130.0,2.0,23.0,382.0,272.0,110.0,2.0,3.42,-4.68,3.39,kan
+0,1,Sun,September 10,4:25PM ET,boxscore,W,H,1-0,A,Denver Broncos,17.0,16.0,22.0,261.0,200.0,61.0,1.0,22.0,260.0,166.0,94.0,H,9.59,-10.75,3.68,rai
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,1-1,A,Buffalo Bills,10.0,38.0,13.0,240.0,185.0,55.0,3.0,29.0,450.0,267.0,183.0,H,-4.89,-27.19,3.85,rai
+2,3,Sun,September 24,8:20PM ET,boxscore,L,H,1-2,H,Pittsburgh Steelers,18.0,23.0,19.0,362.0,293.0,69.0,3.0,17.0,333.0,228.0,105.0,H,-3.82,-5.43,-0.12,rai
+3,4,Sun,October 1,4:05PM ET,boxscore,L,H,1-3,A,Los Angeles Chargers,17.0,24.0,22.0,264.0,188.0,76.0,3.0,16.0,305.0,150.0,155.0,1.0,-8.27,-4.86,6.07,rai
+4,5,Mon,October 9,8:15PM ET,boxscore,W,H,2-3,H,Green Bay Packers,17.0,13.0,19.0,279.0,183.0,96.0,1.0,18.0,285.0,175.0,110.0,3.0,-1.23,6.99,-5.61,rai
+5,6,Sun,October 15,4:05PM ET,boxscore,W,H,3-3,H,New England Patriots,21.0,17.0,19.0,348.0,264.0,84.0,1.0,17.0,259.0,176.0,83.0,1.0,2.79,-3.68,5.62,rai
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,3-4,A,Chicago Bears,12.0,30.0,20.0,235.0,196.0,39.0,3.0,23.0,323.0,150.0,173.0,H,-6.37,-12.58,-2.41,rai
+7,8,Mon,October 30,8:15PM ET,boxscore,L,H,3-5,A,Detroit Lions,14.0,26.0,12.0,157.0,77.0,80.0,1.0,29.0,486.0,264.0,222.0,3.0,-15.25,-0.57,2.81,rai
+8,9,Sun,November 5,4:25PM ET,boxscore,W,H,4-5,H,New York Giants,30.0,6.0,15.0,334.0,209.0,125.0,H,15.0,277.0,154.0,123.0,2.0,1.99,18.96,1.85,rai
+9,10,Sun,November 12,8:20PM ET,boxscore,W,H,5-5,H,New York Jets,16.0,12.0,15.0,274.0,126.0,148.0,2.0,14.0,365.0,257.0,108.0,1.0,-8.01,7.21,3.38,rai
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,5-6,A,Miami Dolphins,13.0,20.0,12.0,296.0,260.0,36.0,3.0,21.0,422.0,323.0,99.0,3.0,-15.77,-1.48,8.12,rai
+11,12,Sun,November 26,4:25PM ET,boxscore,L,H,5-7,H,Kansas City Chiefs,17.0,31.0,16.0,358.0,235.0,123.0,H,23.0,360.0,291.0,69.0,H,6.49,-14.0,-5.9,rai
+13,14,Sun,December 10,4:05PM ET,boxscore,L,H,5-8,H,Minnesota Vikings,0.0,3.0,8.0,202.0,146.0,56.0,3.0,16.0,231.0,99.0,132.0,H,-20.46,10.05,6.43,rai
+14,15,Thu,December 14,8:15PM ET,boxscore,W,H,6-8,H,Los Angeles Chargers,63.0,21.0,20.0,378.0,254.0,124.0,H,18.0,326.0,234.0,92.0,5.0,22.25,15.82,3.05,rai
+15,16,Mon,December 25,1:00PM ET,boxscore,W,H,7-8,A,Kansas City Chiefs,20.0,14.0,12.0,205.0,48.0,157.0,H,19.0,308.0,223.0,85.0,2.0,-8.4,11.63,3.27,rai
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,7-9,A,Indianapolis Colts,20.0,23.0,26.0,370.0,286.0,84.0,H,16.0,349.0,215.0,134.0,H,8.69,-11.41,-1.73,rai
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,8-9,H,Denver Broncos,27.0,14.0,22.0,359.0,230.0,129.0,H,17.0,286.0,238.0,48.0,1.0,12.72,-1.3,0.08,rai
+0,1,Sun,September 10,4:25PM ET,boxscore,L,H,0-1,H,Las Vegas Raiders,16.0,17.0,22.0,260.0,166.0,94.0,H,22.0,261.0,200.0,61.0,1.0,10.75,-9.59,-3.68,den
+1,2,Sun,September 17,4:25PM ET,boxscore,L,H,0-2,H,Washington Commanders,33.0,35.0,21.0,399.0,277.0,122.0,2.0,26.0,388.0,266.0,122.0,H,11.6,-16.73,3.13,den
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,0-3,A,Miami Dolphins,20.0,70.0,16.0,363.0,294.0,69.0,3.0,30.0,726.0,376.0,350.0,H,-13.39,-48.65,12.38,den
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,1-3,A,Chicago Bears,31.0,28.0,17.0,311.0,214.0,97.0,H,26.0,471.0,300.0,171.0,2.0,13.54,-13.11,1.5,den
+4,5,Sun,October 8,4:25PM ET,boxscore,L,H,1-4,H,New York Jets,21.0,31.0,18.0,308.0,169.0,139.0,3.0,18.0,407.0,173.0,234.0,2.0,-6.26,-5.79,-2.75,den
+5,6,Thu,October 12,8:15PM ET,boxscore,L,H,1-5,A,Kansas City Chiefs,8.0,19.0,14.0,197.0,82.0,115.0,3.0,22.0,389.0,293.0,96.0,1.0,-13.65,-1.99,1.97,den
+6,7,Sun,October 22,4:25PM ET,boxscore,W,H,2-5,H,Green Bay Packers,19.0,17.0,18.0,339.0,194.0,145.0,H,20.0,331.0,194.0,137.0,1.0,9.89,-11.33,2.65,den
+7,8,Sun,October 29,4:25PM ET,boxscore,W,H,3-5,H,Kansas City Chiefs,24.0,9.0,19.0,240.0,87.0,153.0,1.0,18.0,274.0,212.0,62.0,5.0,-1.52,11.85,4.12,den
+9,10,Mon,November 13,8:15PM ET,boxscore,W,H,4-5,A,Buffalo Bills,24.0,22.0,19.0,300.0,178.0,122.0,1.0,18.0,369.0,177.0,192.0,4.0,-4.09,0.44,4.65,den
+10,11,Sun,November 19,8:20PM ET,boxscore,W,H,5-5,H,Minnesota Vikings,21.0,20.0,13.0,295.0,249.0,46.0,H,19.0,385.0,210.0,175.0,3.0,-3.68,1.96,5.21,den
+11,12,Sun,November 26,4:05PM ET,boxscore,W,H,6-5,H,Cleveland Browns,29.0,12.0,17.0,294.0,125.0,169.0,1.0,19.0,269.0,162.0,107.0,3.0,3.83,14.0,-0.36,den
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,6-6,A,Houston Texans,17.0,22.0,16.0,282.0,164.0,118.0,3.0,14.0,353.0,264.0,89.0,H,-4.63,1.15,-0.91,den
+13,14,Sun,December 10,4:25PM ET,boxscore,W,H,7-6,A,Los Angeles Chargers,24.0,7.0,19.0,322.0,216.0,106.0,1.0,17.0,283.0,207.0,76.0,2.0,-1.17,21.6,-2.39,den
+14,15,Sun,December 16,8:15PM ET,boxscore,L,H,7-7,A,Detroit Lions,17.0,42.0,20.0,287.0,204.0,83.0,1.0,29.0,448.0,263.0,185.0,H,3.2,-29.35,3.14,den
+15,16,Sun,December 24,8:15PM ET,boxscore,L,H,7-8,H,New England Patriots,23.0,26.0,19.0,276.0,193.0,83.0,2.0,12.0,289.0,230.0,59.0,1.0,-0.12,1.42,-4.11,den
+16,17,Sun,December 31,4:25PM ET,boxscore,W,H,8-8,H,Los Angeles Chargers,16.0,9.0,16.0,313.0,212.0,101.0,H,17.0,301.0,215.0,86.0,1.0,2.08,5.75,1.2,den
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,8-9,A,Las Vegas Raiders,14.0,27.0,17.0,286.0,238.0,48.0,1.0,22.0,359.0,230.0,129.0,H,1.3,-12.72,-0.08,den
+0,1,Sun,September 10,4:25PM ET,boxscore,L,H,0-1,H,Miami Dolphins,34.0,36.0,30.0,433.0,200.0,233.0,H,30.0,536.0,466.0,70.0,2.0,18.83,-26.53,3.22,sdg
+1,2,Sun,September 17,1:00PM ET,boxscore,L,OT,0-2,A,Tennessee Titans,24.0,27.0,19.0,342.0,281.0,61.0,H,22.0,341.0,200.0,141.0,H,6.8,-9.86,0.06,sdg
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,1-2,A,Minnesota Vikings,28.0,24.0,24.0,475.0,445.0,30.0,1.0,29.0,475.0,345.0,130.0,2.0,15.21,-8.26,-4.83,sdg
+3,4,Sun,October 1,4:05PM ET,boxscore,W,H,2-2,H,Las Vegas Raiders,24.0,17.0,16.0,305.0,150.0,155.0,1.0,22.0,264.0,188.0,76.0,3.0,4.86,8.27,-6.07,sdg
+5,6,Mon,October 16,8:15PM ET,boxscore,L,H,2-3,H,Dallas Cowboys,17.0,20.0,18.0,272.0,219.0,53.0,1.0,20.0,342.0,246.0,96.0,1.0,-1.3,-8.96,5.38,sdg
+6,7,Sun,October 22,4:25PM ET,boxscore,L,H,2-4,A,Kansas City Chiefs,17.0,31.0,16.0,358.0,219.0,139.0,2.0,25.0,483.0,415.0,68.0,2.0,3.03,-19.19,2.58,sdg
+7,8,Sun,October 29,8:20PM ET,boxscore,W,H,3-4,H,Chicago Bears,30.0,13.0,20.0,352.0,298.0,54.0,1.0,17.0,295.0,222.0,73.0,2.0,7.29,6.71,5.12,sdg
+8,9,Mon,November 6,8:15PM ET,boxscore,W,H,4-4,A,New York Jets,27.0,6.0,14.0,191.0,107.0,84.0,H,17.0,270.0,206.0,64.0,3.0,-6.47,25.2,1.49,sdg
+9,10,Sun,November 12,4:05PM ET,boxscore,L,H,4-5,H,Detroit Lions,38.0,41.0,24.0,421.0,323.0,98.0,1.0,23.0,533.0,333.0,200.0,H,25.22,-31.55,2.59,sdg
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,4-6,A,Green Bay Packers,20.0,23.0,17.0,394.0,244.0,150.0,1.0,23.0,397.0,295.0,102.0,H,2.45,-12.8,4.58,sdg
+11,12,Sun,November 26,8:20PM ET,boxscore,L,H,4-7,H,Baltimore Ravens,10.0,20.0,16.0,279.0,193.0,86.0,4.0,20.0,361.0,164.0,197.0,H,-16.16,-1.22,5.76,sdg
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,5-7,A,New England Patriots,6.0,0.0,13.0,241.0,212.0,29.0,H,13.0,257.0,109.0,148.0,1.0,-9.06,13.06,4.71,sdg
+13,14,Sun,December 10,4:25PM ET,boxscore,L,H,5-8,H,Denver Broncos,7.0,24.0,17.0,283.0,207.0,76.0,2.0,19.0,322.0,216.0,106.0,1.0,-21.6,1.17,2.39,sdg
+14,15,Thu,December 14,8:15PM ET,boxscore,L,H,5-9,A,Las Vegas Raiders,21.0,63.0,18.0,326.0,234.0,92.0,5.0,20.0,378.0,254.0,124.0,H,-15.82,-22.25,-3.05,sdg
+15,16,Sat,December 23,8:00PM ET,boxscore,L,H,5-10,H,Buffalo Bills,22.0,24.0,18.0,273.0,175.0,98.0,H,16.0,335.0,230.0,105.0,3.0,-4.02,-7.67,9.12,sdg
+16,17,Sun,December 31,4:25PM ET,boxscore,L,H,5-11,A,Denver Broncos,9.0,16.0,17.0,301.0,215.0,86.0,1.0,16.0,313.0,212.0,101.0,H,-5.75,-2.08,-1.2,sdg
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,5-12,H,Kansas City Chiefs,12.0,13.0,22.0,353.0,235.0,118.0,1.0,12.0,268.0,145.0,123.0,1.0,-8.89,3.31,1.81,sdg
+0,1,Sun,September 10,8:20PM ET,boxscore,W,H,1-0,A,New York Giants,40.0,0.0,18.0,265.0,143.0,122.0,H,14.0,171.0,63.0,108.0,3.0,9.37,27.25,5.36,dal
+1,2,Sun,September 17,4:25PM ET,boxscore,W,H,2-0,H,New York Jets,30.0,10.0,26.0,382.0,248.0,134.0,H,12.0,215.0,151.0,64.0,4.0,7.01,14.82,-2.25,dal
+2,3,Sun,September 24,4:25PM ET,boxscore,L,H,2-1,A,Arizona Cardinals,16.0,28.0,26.0,416.0,231.0,185.0,1.0,20.0,400.0,178.0,222.0,H,6.78,-18.46,-1.14,dal
+3,4,Sun,October 1,4:25PM ET,boxscore,W,H,3-1,H,New England Patriots,38.0,3.0,22.0,377.0,253.0,124.0,H,10.0,253.0,200.0,53.0,3.0,8.01,26.22,0.2,dal
+4,5,Sun,October 8,8:20PM ET,boxscore,L,H,3-2,A,San Francisco 49ers,10.0,42.0,8.0,197.0,140.0,57.0,4.0,25.0,421.0,251.0,170.0,1.0,-23.12,-12.84,5.21,dal
+5,6,Mon,October 16,8:15PM ET,boxscore,W,H,4-2,A,Los Angeles Chargers,20.0,17.0,20.0,342.0,246.0,96.0,1.0,18.0,272.0,219.0,53.0,1.0,8.96,1.3,-5.38,dal
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,5-2,H,Los Angeles Rams,43.0,20.0,24.0,387.0,285.0,102.0,1.0,15.0,280.0,188.0,92.0,1.0,15.46,8.68,1.87,dal
+8,9,Sun,November 5,4:25PM ET,boxscore,L,H,5-3,A,Philadelphia Eagles,23.0,28.0,27.0,406.0,333.0,73.0,1.0,20.0,292.0,183.0,109.0,H,10.9,-15.0,-2.75,dal
+9,10,Sun,November 12,4:25PM ET,boxscore,W,H,6-3,H,New York Giants,49.0,17.0,32.0,640.0,472.0,168.0,2.0,16.0,172.0,61.0,111.0,1.0,31.0,8.61,-8.0,dal
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,7-3,A,Carolina Panthers,33.0,10.0,23.0,311.0,204.0,107.0,H,13.0,187.0,77.0,110.0,2.0,14.98,13.81,-6.04,dal
+11,12,Thu,November 23,4:30PM ET,boxscore,W,H,8-3,H,Washington Commanders,45.0,10.0,21.0,431.0,331.0,100.0,H,23.0,376.0,268.0,108.0,1.0,25.86,9.65,-2.36,dal
+12,13,Thu,November 30,8:15PM ET,boxscore,W,H,9-3,H,Seattle Seahawks,41.0,35.0,33.0,411.0,275.0,136.0,H,25.0,406.0,334.0,72.0,1.0,24.14,-20.82,3.78,dal
+13,14,Sun,December 10,8:20PM ET,boxscore,W,H,10-3,H,Philadelphia Eagles,33.0,13.0,24.0,394.0,256.0,138.0,1.0,17.0,324.0,218.0,106.0,3.0,10.85,4.61,2.77,dal
+14,15,Sun,December 17,4:25PM ET,boxscore,L,H,10-4,A,Buffalo Bills,10.0,31.0,14.0,195.0,106.0,89.0,1.0,28.0,351.0,85.0,266.0,H,-3.23,-19.98,3.82,dal
+15,16,Sun,December 24,4:25PM ET,boxscore,L,H,10-5,A,Miami Dolphins,20.0,22.0,19.0,339.0,242.0,97.0,1.0,22.0,375.0,284.0,91.0,H,8.66,-6.06,-4.74,dal
+16,17,Sat,December 30,8:15PM ET,boxscore,W,H,11-5,H,Detroit Lions,20.0,19.0,17.0,384.0,323.0,61.0,2.0,21.0,420.0,295.0,125.0,2.0,0.39,0.45,1.92,dal
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,12-5,A,Washington Commanders,38.0,10.0,31.0,440.0,309.0,131.0,1.0,12.0,180.0,130.0,50.0,3.0,25.23,9.84,-7.97,dal
+19,Wild Card,Sun,January 14,4:30PM ET,boxscore,L,H,12-6,H,Green Bay Packers,32.0,48.0,37.0,510.0,387.0,123.0,2.0,22.0,415.0,272.0,143.0,H,11.47,-27.79,-2.74,dal
+0,1,Sun,September 10,4:25PM ET,boxscore,W,H,1-0,A,New England Patriots,25.0,20.0,17.0,251.0,154.0,97.0,1.0,24.0,382.0,306.0,76.0,2.0,-10.42,12.04,4.39,phi
+1,2,Thu,September 14,8:15PM ET,boxscore,W,H,2-0,H,Minnesota Vikings,34.0,28.0,24.0,430.0,171.0,259.0,1.0,19.0,374.0,346.0,28.0,4.0,14.53,-7.44,-0.51,phi
+2,3,Mon,September 25,7:15PM ET,boxscore,W,H,3-0,A,Tampa Bay Buccaneers,25.0,11.0,27.0,472.0,271.0,201.0,2.0,12.0,174.0,133.0,41.0,2.0,14.08,7.28,-1.78,phi
+3,4,Sun,October 1,1:00PM ET,boxscore,W,OT,4-0,H,Washington Commanders,34.0,31.0,23.0,415.0,311.0,104.0,H,26.0,365.0,258.0,107.0,H,18.21,-17.68,2.47,phi
+4,5,Sun,October 8,4:05PM ET,boxscore,W,H,5-0,A,Los Angeles Rams,23.0,14.0,28.0,454.0,295.0,159.0,1.0,17.0,249.0,195.0,54.0,H,16.56,-6.25,-2.84,phi
+5,6,Sun,October 15,4:25PM ET,boxscore,L,H,5-1,A,New York Jets,14.0,20.0,24.0,348.0,268.0,80.0,4.0,17.0,244.0,155.0,89.0,H,-5.91,7.52,-8.89,phi
+6,7,Sun,October 22,8:20PM ET,boxscore,W,H,6-1,H,Miami Dolphins,31.0,17.0,26.0,355.0,256.0,99.0,2.0,12.0,244.0,199.0,45.0,1.0,11.06,7.17,-2.9,phi
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,7-1,A,Washington Commanders,38.0,31.0,21.0,374.0,315.0,59.0,2.0,26.0,472.0,388.0,84.0,1.0,15.23,-10.32,4.32,phi
+8,9,Sun,November 5,4:25PM ET,boxscore,W,H,8-1,H,Dallas Cowboys,28.0,23.0,20.0,292.0,183.0,109.0,H,27.0,406.0,333.0,73.0,1.0,15.0,-10.9,2.75,phi
+10,11,Mon,November 20,8:15PM ET,boxscore,W,H,9-1,A,Kansas City Chiefs,21.0,17.0,16.0,238.0,124.0,114.0,1.0,23.0,336.0,168.0,168.0,2.0,-2.22,3.4,3.61,phi
+11,12,Sun,November 26,4:25PM ET,boxscore,W,OT,10-1,H,Buffalo Bills,37.0,34.0,24.0,378.0,193.0,185.0,2.0,29.0,505.0,332.0,173.0,1.0,7.6,-13.85,9.18,phi
+12,13,Sun,December 3,4:25PM ET,boxscore,L,H,10-2,H,San Francisco 49ers,19.0,42.0,23.0,333.0,287.0,46.0,H,24.0,456.0,310.0,146.0,H,6.22,-33.55,2.11,phi
+13,14,Sun,December 10,8:20PM ET,boxscore,L,H,10-3,A,Dallas Cowboys,13.0,33.0,17.0,324.0,218.0,106.0,3.0,24.0,394.0,256.0,138.0,1.0,-4.61,-10.85,-2.77,phi
+14,15,Sun,December 18,8:15PM ET,boxscore,L,H,10-4,A,Seattle Seahawks,17.0,20.0,23.0,321.0,143.0,178.0,2.0,16.0,297.0,197.0,100.0,H,5.2,-6.27,0.39,phi
+15,16,Mon,December 25,4:30PM ET,boxscore,W,H,11-4,H,New York Giants,33.0,25.0,28.0,465.0,295.0,170.0,2.0,14.0,292.0,186.0,106.0,1.0,10.41,0.93,-3.34,phi
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,11-5,H,Arizona Cardinals,31.0,35.0,17.0,275.0,184.0,91.0,1.0,32.0,449.0,228.0,221.0,1.0,13.61,-21.16,3.99,phi
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,11-6,A,New York Giants,10.0,27.0,19.0,299.0,166.0,133.0,4.0,22.0,415.0,306.0,109.0,1.0,-14.58,-7.04,4.08,phi
+19,Wild Card,Mon,January 15,8:15PM ET,boxscore,L,H,11-7,A,Tampa Bay Buccaneers,9.0,32.0,13.0,276.0,234.0,42.0,H,23.0,426.0,307.0,119.0,H,-9.0,-14.65,0.96,phi
+0,1,Sun,September 10,8:20PM ET,boxscore,L,H,0-1,H,Dallas Cowboys,0.0,40.0,14.0,171.0,63.0,108.0,3.0,18.0,265.0,143.0,122.0,H,-27.25,-9.37,-5.36,nyg
+1,2,Sun,September 17,4:05PM ET,boxscore,W,H,1-1,A,Arizona Cardinals,31.0,28.0,26.0,439.0,312.0,127.0,1.0,24.0,379.0,228.0,151.0,H,16.76,-15.48,2.39,nyg
+2,3,Thu,September 21,8:15PM ET,boxscore,L,H,1-2,A,San Francisco 49ers,12.0,30.0,10.0,150.0,121.0,29.0,1.0,26.0,441.0,300.0,141.0,H,-11.82,-19.0,9.72,nyg
+3,4,Mon,October 2,8:15PM ET,boxscore,L,H,1-3,H,Seattle Seahawks,3.0,24.0,17.0,248.0,136.0,112.0,3.0,13.0,281.0,160.0,121.0,H,-29.37,7.86,-0.33,nyg
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,1-4,A,Miami Dolphins,16.0,31.0,15.0,268.0,183.0,85.0,H,22.0,524.0,302.0,222.0,3.0,-6.46,-10.45,1.72,nyg
+5,6,Sun,October 15,8:20PM ET,boxscore,L,H,1-5,A,Buffalo Bills,9.0,14.0,20.0,317.0,185.0,132.0,H,22.0,297.0,169.0,128.0,2.0,3.02,-2.9,6.7,nyg
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,2-5,H,Washington Commanders,14.0,7.0,16.0,356.0,250.0,106.0,2.0,14.0,273.0,197.0,76.0,1.0,-3.64,16.05,-8.94,nyg
+7,8,Sun,October 29,1:00PM ET,boxscore,L,OT,2-6,H,New York Jets,10.0,13.0,12.0,194.0,-9.0,203.0,H,12.0,251.0,193.0,58.0,2.0,-20.38,20.78,-1.41,nyg
+8,9,Sun,November 5,4:25PM ET,boxscore,L,H,2-7,A,Las Vegas Raiders,6.0,30.0,15.0,277.0,154.0,123.0,2.0,15.0,334.0,209.0,125.0,H,-18.96,-1.99,-1.85,nyg
+9,10,Sun,November 12,4:25PM ET,boxscore,L,H,2-8,A,Dallas Cowboys,17.0,49.0,16.0,172.0,61.0,111.0,1.0,32.0,640.0,472.0,168.0,2.0,-8.61,-31.0,8.0,nyg
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,3-8,A,Washington Commanders,31.0,19.0,13.0,292.0,201.0,91.0,H,28.0,404.0,230.0,174.0,6.0,0.33,2.78,6.95,nyg
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,4-8,H,New England Patriots,10.0,7.0,10.0,220.0,162.0,58.0,1.0,18.0,283.0,136.0,147.0,3.0,-12.44,12.51,2.86,nyg
+13,14,Mon,December 11,8:15PM ET,boxscore,W,H,5-8,H,Green Bay Packers,24.0,22.0,18.0,367.0,158.0,209.0,2.0,19.0,326.0,203.0,123.0,3.0,2.39,-0.04,-0.2,nyg
+14,15,Sun,December 17,1:00PM ET,boxscore,L,H,5-9,A,New Orleans Saints,6.0,24.0,12.0,193.0,133.0,60.0,H,20.0,296.0,209.0,87.0,H,-15.39,-8.51,7.4,nyg
+15,16,Mon,December 25,4:30PM ET,boxscore,L,H,5-10,A,Philadelphia Eagles,25.0,33.0,14.0,292.0,186.0,106.0,1.0,28.0,465.0,295.0,170.0,2.0,-0.93,-10.41,3.34,nyg
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,5-11,H,Los Angeles Rams,25.0,26.0,17.0,389.0,284.0,105.0,1.0,22.0,391.0,286.0,105.0,3.0,-4.35,-2.7,4.87,nyg
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,6-11,H,Philadelphia Eagles,27.0,10.0,22.0,415.0,306.0,109.0,1.0,19.0,299.0,166.0,133.0,4.0,7.04,14.58,-4.08,nyg
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,H,Arizona Cardinals,20.0,16.0,21.0,248.0,156.0,92.0,3.0,13.0,210.0,114.0,96.0,2.0,-9.25,19.87,-4.96,was
+1,2,Sun,September 17,4:25PM ET,boxscore,W,H,2-0,A,Denver Broncos,35.0,33.0,26.0,388.0,266.0,122.0,H,21.0,399.0,277.0,122.0,2.0,16.73,-11.6,-3.13,was
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,2-1,H,Buffalo Bills,3.0,37.0,15.0,230.0,125.0,105.0,5.0,20.0,386.0,218.0,168.0,1.0,-23.07,-10.16,1.39,was
+3,4,Sun,October 1,1:00PM ET,boxscore,L,OT,2-2,A,Philadelphia Eagles,31.0,34.0,26.0,365.0,258.0,107.0,H,23.0,415.0,311.0,104.0,H,17.68,-18.21,-2.47,was
+4,5,Thu,October 5,8:15PM ET,boxscore,L,H,2-3,H,Chicago Bears,20.0,40.0,23.0,388.0,359.0,29.0,2.0,18.0,451.0,273.0,178.0,H,4.63,-19.81,-0.51,was
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,3-3,A,Atlanta Falcons,24.0,16.0,13.0,193.0,121.0,72.0,H,25.0,402.0,296.0,106.0,3.0,-0.45,5.68,3.28,was
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,3-4,A,New York Giants,7.0,14.0,14.0,273.0,197.0,76.0,1.0,16.0,356.0,250.0,106.0,2.0,-16.05,3.64,8.94,was
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,3-5,H,Philadelphia Eagles,31.0,38.0,26.0,472.0,388.0,84.0,1.0,21.0,374.0,315.0,59.0,2.0,10.32,-15.23,-4.32,was
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,4-5,A,New England Patriots,20.0,17.0,23.0,432.0,308.0,124.0,2.0,18.0,327.0,220.0,107.0,1.0,3.37,-0.28,1.3,was
+9,10,Sun,November 12,4:25PM ET,boxscore,L,H,4-6,A,Seattle Seahawks,26.0,29.0,16.0,356.0,288.0,68.0,1.0,27.0,489.0,369.0,120.0,H,7.66,-15.28,2.61,was
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,4-7,H,New York Giants,19.0,31.0,28.0,404.0,230.0,174.0,6.0,13.0,292.0,201.0,91.0,H,-2.78,-0.33,-6.95,was
+11,12,Thu,November 23,4:30PM ET,boxscore,L,H,4-8,A,Dallas Cowboys,10.0,45.0,23.0,376.0,268.0,108.0,1.0,21.0,431.0,331.0,100.0,H,-9.65,-25.86,2.36,was
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,4-9,H,Miami Dolphins,15.0,45.0,11.0,245.0,107.0,138.0,1.0,20.0,406.0,283.0,123.0,H,-6.88,-25.98,0.52,was
+14,15,Sun,December 17,4:05PM ET,boxscore,L,H,4-10,A,Los Angeles Rams,20.0,28.0,14.0,297.0,218.0,79.0,1.0,23.0,445.0,249.0,196.0,2.0,-2.14,-8.81,3.33,was
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,4-11,A,New York Jets,28.0,30.0,18.0,245.0,143.0,102.0,3.0,26.0,381.0,217.0,164.0,2.0,-3.65,15.58,-8.61,was
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,4-12,H,San Francisco 49ers,10.0,27.0,12.0,225.0,163.0,62.0,2.0,28.0,408.0,224.0,184.0,H,-6.62,-16.3,3.5,was
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,4-13,H,Dallas Cowboys,10.0,38.0,12.0,180.0,130.0,50.0,3.0,31.0,440.0,309.0,131.0,1.0,-9.84,-25.23,7.97,was
+0,1,Thu,September 7,8:20PM ET,boxscore,W,H,1-0,A,Kansas City Chiefs,21.0,20.0,19.0,368.0,250.0,118.0,1.0,17.0,316.0,226.0,90.0,1.0,2.6,4.17,-2.11,det
+1,2,Sun,September 17,1:00PM ET,boxscore,L,OT,1-1,H,Seattle Seahawks,31.0,37.0,25.0,418.0,316.0,102.0,3.0,28.0,393.0,311.0,82.0,H,4.65,-18.0,7.35,det
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,2-1,H,Atlanta Falcons,20.0,6.0,18.0,358.0,243.0,115.0,1.0,16.0,183.0,139.0,44.0,1.0,1.31,15.09,-0.59,det
+3,4,Thu,September 28,8:15PM ET,boxscore,W,H,3-1,A,Green Bay Packers,34.0,20.0,25.0,401.0,190.0,211.0,1.0,15.0,230.0,203.0,27.0,2.0,8.47,8.6,2.13,det
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,4-1,H,Carolina Panthers,42.0,24.0,23.0,377.0,218.0,159.0,H,26.0,342.0,243.0,99.0,3.0,21.57,-4.1,0.86,det
+5,6,Sun,October 15,4:25PM ET,boxscore,W,H,5-1,A,Tampa Bay Buccaneers,20.0,6.0,19.0,380.0,340.0,40.0,H,13.0,251.0,205.0,46.0,1.0,8.54,11.72,-6.91,det
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,5-2,A,Baltimore Ravens,6.0,38.0,18.0,337.0,253.0,84.0,1.0,23.0,503.0,357.0,146.0,1.0,-6.4,-26.48,3.38,det
+7,8,Mon,October 30,8:15PM ET,boxscore,W,H,6-2,H,Las Vegas Raiders,26.0,14.0,29.0,486.0,264.0,222.0,3.0,12.0,157.0,77.0,80.0,1.0,0.57,15.25,-2.81,det
+9,10,Sun,November 12,4:05PM ET,boxscore,W,H,7-2,A,Los Angeles Chargers,41.0,38.0,23.0,533.0,333.0,200.0,H,24.0,421.0,323.0,98.0,1.0,31.55,-25.22,-2.59,det
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,8-2,H,Chicago Bears,31.0,26.0,23.0,338.0,223.0,115.0,4.0,25.0,334.0,151.0,183.0,1.0,11.72,-4.18,-1.3,det
+11,12,Thu,November 23,12:30PM ET,boxscore,L,H,8-3,H,Green Bay Packers,22.0,29.0,25.0,464.0,324.0,140.0,3.0,17.0,377.0,268.0,109.0,H,-1.02,-9.91,-1.64,det
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,9-3,A,New Orleans Saints,33.0,28.0,18.0,347.0,205.0,142.0,H,23.0,362.0,249.0,113.0,2.0,9.55,-6.28,2.62,det
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,9-4,A,Chicago Bears,13.0,28.0,13.0,267.0,127.0,140.0,3.0,20.0,336.0,194.0,142.0,H,-10.07,-3.69,0.72,det
+14,15,Sun,December 16,8:15PM ET,boxscore,W,H,10-4,H,Denver Broncos,42.0,17.0,29.0,448.0,263.0,185.0,H,20.0,287.0,204.0,83.0,1.0,29.35,-3.2,-3.14,det
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,11-4,A,Minnesota Vikings,30.0,24.0,28.0,389.0,246.0,143.0,1.0,19.0,390.0,373.0,17.0,4.0,15.44,-11.43,0.61,det
+16,17,Sat,December 30,8:15PM ET,boxscore,L,H,11-5,A,Dallas Cowboys,19.0,20.0,21.0,420.0,295.0,125.0,2.0,17.0,384.0,323.0,61.0,2.0,-0.45,-0.39,-1.92,det
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,12-5,H,Minnesota Vikings,30.0,20.0,19.0,381.0,311.0,70.0,H,24.0,448.0,359.0,89.0,2.0,17.81,-4.55,1.13,det
+19,Wild Card,Sun,January 14,8:15PM ET,boxscore,W,H,13-5,H,Los Angeles Rams,24.0,23.0,23.0,334.0,255.0,79.0,H,22.0,425.0,357.0,68.0,H,15.39,-19.93,4.78,det
+20,Division,Sun,January 21,3:00PM ET,boxscore,W,H,14-5,H,Tampa Bay Buccaneers,31.0,23.0,26.0,391.0,277.0,114.0,H,23.0,408.0,319.0,89.0,2.0,15.79,-7.77,2.23,det
+21,Conf. Champ.,Sun,January 28,6:30PM ET,boxscore,L,H,14-6,A,San Francisco 49ers,31.0,34.0,28.0,442.0,260.0,182.0,1.0,23.0,413.0,258.0,155.0,1.0,14.76,-19.87,1.23,det
+0,1,Sun,September 10,4:25PM ET,boxscore,W,H,1-0,A,Chicago Bears,38.0,20.0,15.0,329.0,237.0,92.0,H,22.0,311.0,189.0,122.0,2.0,8.05,6.45,2.11,gnb
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,1-1,A,Atlanta Falcons,24.0,25.0,17.0,224.0,140.0,84.0,H,27.0,446.0,235.0,211.0,1.0,7.85,-13.12,0.97,gnb
+2,3,Sun,September 24,1:00PM ET,boxscore,W,H,2-1,H,New Orleans Saints,18.0,17.0,21.0,340.0,245.0,95.0,1.0,15.0,252.0,175.0,77.0,H,1.99,3.02,-6.26,gnb
+3,4,Thu,September 28,8:15PM ET,boxscore,L,H,2-2,H,Detroit Lions,20.0,34.0,15.0,230.0,203.0,27.0,2.0,25.0,401.0,190.0,211.0,1.0,-8.6,-8.47,-2.13,gnb
+4,5,Mon,October 9,8:15PM ET,boxscore,L,H,2-3,A,Las Vegas Raiders,13.0,17.0,18.0,285.0,175.0,110.0,3.0,19.0,279.0,183.0,96.0,1.0,-6.99,1.23,5.61,gnb
+6,7,Sun,October 22,4:25PM ET,boxscore,L,H,2-4,A,Denver Broncos,17.0,19.0,20.0,331.0,194.0,137.0,1.0,18.0,339.0,194.0,145.0,H,11.33,-9.89,-2.65,gnb
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,2-5,H,Minnesota Vikings,10.0,24.0,16.0,270.0,196.0,74.0,1.0,24.0,346.0,284.0,62.0,1.0,-10.54,-13.6,9.64,gnb
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,3-5,H,Los Angeles Rams,20.0,3.0,21.0,391.0,207.0,184.0,2.0,10.0,187.0,119.0,68.0,2.0,2.46,20.49,-1.58,gnb
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,3-6,A,Pittsburgh Steelers,19.0,23.0,17.0,399.0,283.0,116.0,2.0,21.0,324.0,119.0,205.0,H,8.81,-7.06,-3.18,gnb
+10,11,Sun,November 19,1:00PM ET,boxscore,W,H,4-6,H,Los Angeles Chargers,23.0,20.0,23.0,397.0,295.0,102.0,H,17.0,394.0,244.0,150.0,1.0,12.8,-2.45,-4.58,gnb
+11,12,Thu,November 23,12:30PM ET,boxscore,W,H,5-6,A,Detroit Lions,29.0,22.0,17.0,377.0,268.0,109.0,H,25.0,464.0,324.0,140.0,3.0,9.91,1.02,1.64,gnb
+12,13,Sun,December 3,8:20PM ET,boxscore,W,H,6-6,H,Kansas City Chiefs,27.0,19.0,24.0,382.0,253.0,129.0,H,25.0,337.0,189.0,148.0,1.0,19.21,-9.54,-0.96,gnb
+13,14,Mon,December 11,8:15PM ET,boxscore,L,H,6-7,A,New York Giants,22.0,24.0,19.0,326.0,203.0,123.0,3.0,18.0,367.0,158.0,209.0,2.0,0.04,-2.39,0.2,gnb
+14,15,Sun,December 17,1:00PM ET,boxscore,L,H,6-8,H,Tampa Bay Buccaneers,20.0,34.0,18.0,321.0,261.0,60.0,1.0,22.0,452.0,353.0,99.0,1.0,5.02,-21.36,-0.81,gnb
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,7-8,A,Carolina Panthers,33.0,30.0,25.0,369.0,207.0,162.0,H,26.0,394.0,298.0,96.0,H,19.16,-20.51,1.99,gnb
+16,17,Sun,December 31,8:20PM ET,boxscore,W,H,8-8,A,Minnesota Vikings,33.0,10.0,28.0,470.0,293.0,177.0,1.0,13.0,211.0,144.0,67.0,2.0,22.54,14.27,-12.19,gnb
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,9-8,H,Chicago Bears,17.0,9.0,24.0,432.0,308.0,124.0,1.0,13.0,192.0,117.0,75.0,H,20.31,1.05,-8.08,gnb
+19,Wild Card,Sun,January 14,4:30PM ET,boxscore,W,H,10-8,A,Dallas Cowboys,48.0,32.0,22.0,415.0,272.0,143.0,H,37.0,510.0,387.0,123.0,2.0,27.79,-11.47,2.74,gnb
+20,Division,Sat,January 20,8:15PM ET,boxscore,L,H,10-9,A,San Francisco 49ers,21.0,24.0,20.0,330.0,194.0,136.0,2.0,19.0,356.0,245.0,111.0,H,5.63,-12.57,1.49,gnb
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,H,Tampa Bay Buccaneers,17.0,20.0,18.0,369.0,328.0,41.0,3.0,16.0,242.0,169.0,73.0,H,0.1,3.09,-7.66,min
+1,2,Thu,September 14,8:15PM ET,boxscore,L,H,0-2,A,Philadelphia Eagles,28.0,34.0,19.0,374.0,346.0,28.0,4.0,24.0,430.0,171.0,259.0,1.0,7.44,-14.53,0.51,min
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,0-3,H,Los Angeles Chargers,24.0,28.0,29.0,475.0,345.0,130.0,2.0,24.0,475.0,445.0,30.0,1.0,8.26,-15.21,4.83,min
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,1-3,A,Carolina Panthers,21.0,13.0,14.0,265.0,130.0,135.0,2.0,20.0,232.0,149.0,83.0,1.0,-5.73,14.29,0.38,min
+4,5,Sun,October 8,4:25PM ET,boxscore,L,H,1-4,H,Kansas City Chiefs,20.0,27.0,24.0,329.0,259.0,70.0,1.0,21.0,333.0,266.0,67.0,H,10.22,-15.55,-0.17,min
+5,6,Sun,October 15,1:00PM ET,boxscore,W,H,2-4,A,Chicago Bears,19.0,13.0,12.0,220.0,174.0,46.0,1.0,18.0,275.0,113.0,162.0,3.0,-8.38,15.39,0.79,min
+6,7,Mon,October 23,8:15PM ET,boxscore,W,H,3-4,H,San Francisco 49ers,22.0,17.0,24.0,452.0,378.0,74.0,1.0,19.0,325.0,260.0,65.0,3.0,16.3,-5.43,-6.07,min
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,4-4,A,Green Bay Packers,24.0,10.0,24.0,346.0,284.0,62.0,1.0,16.0,270.0,196.0,74.0,1.0,13.6,10.54,-9.64,min
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,5-4,A,Atlanta Falcons,31.0,28.0,23.0,363.0,217.0,146.0,2.0,18.0,370.0,260.0,110.0,2.0,1.9,3.4,-3.43,min
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,6-4,H,New Orleans Saints,27.0,19.0,23.0,388.0,263.0,125.0,H,16.0,280.0,215.0,65.0,2.0,10.78,0.04,-4.27,min
+10,11,Sun,November 19,8:20PM ET,boxscore,L,H,6-5,A,Denver Broncos,20.0,21.0,19.0,385.0,210.0,175.0,3.0,13.0,295.0,249.0,46.0,H,-1.96,3.68,-5.21,min
+11,12,Mon,November 27,8:15PM ET,boxscore,L,H,6-6,H,Chicago Bears,10.0,12.0,15.0,242.0,169.0,73.0,4.0,18.0,317.0,199.0,118.0,2.0,-10.19,7.29,3.55,min
+13,14,Sun,December 10,4:05PM ET,boxscore,W,H,7-6,A,Las Vegas Raiders,3.0,0.0,16.0,231.0,99.0,132.0,H,8.0,202.0,146.0,56.0,3.0,-10.05,20.46,-6.43,min
+14,15,Sun,December 16,1:00PM ET,boxscore,L,OT,7-7,A,Cincinnati Bengals,24.0,27.0,24.0,424.0,281.0,143.0,2.0,22.0,378.0,298.0,80.0,1.0,8.62,-9.29,-1.35,min
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,7-8,H,Detroit Lions,24.0,30.0,19.0,390.0,373.0,17.0,4.0,28.0,389.0,246.0,143.0,1.0,11.43,-15.44,-0.61,min
+16,17,Sun,December 31,8:20PM ET,boxscore,L,H,7-9,H,Green Bay Packers,10.0,33.0,13.0,211.0,144.0,67.0,2.0,28.0,470.0,293.0,177.0,1.0,-14.27,-22.54,12.19,min
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,7-10,A,Detroit Lions,20.0,30.0,24.0,448.0,359.0,89.0,2.0,19.0,381.0,311.0,70.0,H,4.55,-17.81,-1.13,min
+0,1,Sun,September 10,4:25PM ET,boxscore,L,H,0-1,H,Green Bay Packers,20.0,38.0,22.0,311.0,189.0,122.0,2.0,15.0,329.0,237.0,92.0,H,-6.45,-8.05,-2.11,chi
+1,2,Sun,September 17,1:00PM ET,boxscore,L,H,0-2,A,Tampa Bay Buccaneers,17.0,27.0,14.0,236.0,169.0,67.0,2.0,19.0,437.0,317.0,120.0,H,-7.04,-14.15,8.78,chi
+2,3,Sun,September 24,4:25PM ET,boxscore,L,H,0-3,A,Kansas City Chiefs,10.0,41.0,11.0,203.0,87.0,116.0,2.0,31.0,456.0,303.0,153.0,2.0,-13.6,-20.09,1.47,chi
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,0-4,H,Denver Broncos,28.0,31.0,26.0,471.0,300.0,171.0,2.0,17.0,311.0,214.0,97.0,H,13.11,-13.54,-1.5,chi
+4,5,Thu,October 5,8:15PM ET,boxscore,W,H,1-4,A,Washington Commanders,40.0,20.0,18.0,451.0,273.0,178.0,H,23.0,388.0,359.0,29.0,2.0,19.81,-4.63,0.51,chi
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,1-5,H,Minnesota Vikings,13.0,19.0,18.0,275.0,113.0,162.0,3.0,12.0,220.0,174.0,46.0,1.0,-15.39,8.38,-0.79,chi
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,2-5,H,Las Vegas Raiders,30.0,12.0,23.0,323.0,150.0,173.0,H,20.0,235.0,196.0,39.0,3.0,12.58,6.37,2.41,chi
+7,8,Sun,October 29,8:20PM ET,boxscore,L,H,2-6,A,Los Angeles Chargers,13.0,30.0,17.0,295.0,222.0,73.0,2.0,20.0,352.0,298.0,54.0,1.0,-6.71,-7.29,-5.12,chi
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,2-7,A,New Orleans Saints,17.0,24.0,20.0,368.0,212.0,156.0,5.0,18.0,301.0,214.0,87.0,H,-5.71,-5.1,-3.16,chi
+9,10,Thu,November 9,8:15PM ET,boxscore,W,H,3-7,H,Carolina Panthers,16.0,13.0,21.0,295.0,162.0,133.0,H,12.0,213.0,170.0,43.0,H,-0.42,6.28,-1.84,chi
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,3-8,A,Detroit Lions,26.0,31.0,25.0,334.0,151.0,183.0,1.0,23.0,338.0,223.0,115.0,4.0,4.18,-11.72,1.3,chi
+11,12,Mon,November 27,8:15PM ET,boxscore,W,H,4-8,A,Minnesota Vikings,12.0,10.0,18.0,317.0,199.0,118.0,2.0,15.0,242.0,169.0,73.0,4.0,-7.29,10.19,-3.55,chi
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,5-8,H,Detroit Lions,28.0,13.0,20.0,336.0,194.0,142.0,H,13.0,267.0,127.0,140.0,3.0,3.69,10.07,-0.72,chi
+14,15,Sun,December 17,1:00PM ET,boxscore,L,H,5-9,A,Cleveland Browns,17.0,20.0,12.0,236.0,148.0,88.0,3.0,14.0,377.0,348.0,29.0,3.0,-20.51,20.66,-3.15,chi
+15,16,Sun,December 24,4:25PM ET,boxscore,W,H,6-9,H,Arizona Cardinals,27.0,16.0,22.0,420.0,170.0,250.0,1.0,16.0,306.0,213.0,93.0,H,9.8,4.06,-4.35,chi
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,7-9,H,Atlanta Falcons,37.0,17.0,22.0,432.0,240.0,192.0,H,15.0,307.0,173.0,134.0,4.0,10.27,4.29,7.6,chi
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,7-10,A,Green Bay Packers,9.0,17.0,13.0,192.0,117.0,75.0,H,24.0,432.0,308.0,124.0,1.0,-1.05,-20.31,8.08,chi
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,A,Minnesota Vikings,20.0,17.0,16.0,242.0,169.0,73.0,H,18.0,369.0,328.0,41.0,3.0,-3.09,-0.1,7.66,tam
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,2-0,H,Chicago Bears,27.0,17.0,19.0,437.0,317.0,120.0,H,14.0,236.0,169.0,67.0,2.0,14.15,7.04,-8.78,tam
+2,3,Mon,September 25,7:15PM ET,boxscore,L,H,2-1,H,Philadelphia Eagles,11.0,25.0,12.0,174.0,133.0,41.0,2.0,27.0,472.0,271.0,201.0,2.0,-7.28,-14.08,1.78,tam
+3,4,Sun,October 1,1:00PM ET,boxscore,W,H,3-1,A,New Orleans Saints,26.0,9.0,21.0,353.0,239.0,114.0,1.0,16.0,197.0,127.0,70.0,3.0,3.79,14.93,-2.25,tam
+5,6,Sun,October 15,4:25PM ET,boxscore,L,H,3-2,H,Detroit Lions,6.0,20.0,13.0,251.0,205.0,46.0,1.0,19.0,380.0,340.0,40.0,H,-11.72,-8.54,6.91,tam
+6,7,Sun,October 22,1:00PM ET,boxscore,L,H,3-3,H,Atlanta Falcons,13.0,16.0,21.0,329.0,256.0,73.0,2.0,20.0,401.0,245.0,156.0,3.0,-2.11,0.8,-1.89,tam
+7,8,Thu,October 26,8:15PM ET,boxscore,L,H,3-4,A,Buffalo Bills,18.0,24.0,17.0,302.0,224.0,78.0,H,25.0,427.0,312.0,115.0,1.0,3.38,-9.78,1.24,tam
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,3-5,A,Houston Texans,37.0,39.0,21.0,332.0,251.0,81.0,1.0,26.0,496.0,443.0,53.0,1.0,13.23,-16.65,5.81,tam
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,4-5,H,Tennessee Titans,20.0,6.0,19.0,340.0,263.0,77.0,1.0,14.0,209.0,167.0,42.0,1.0,7.05,14.75,-4.53,tam
+10,11,Sun,November 19,4:05PM ET,boxscore,L,H,4-6,A,San Francisco 49ers,14.0,27.0,22.0,287.0,221.0,66.0,2.0,22.0,420.0,305.0,115.0,H,-2.05,-14.22,2.57,tam
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,4-7,A,Indianapolis Colts,20.0,27.0,17.0,298.0,173.0,125.0,2.0,26.0,394.0,239.0,155.0,1.0,-0.3,-10.81,-1.18,tam
+12,13,Sun,December 3,4:05PM ET,boxscore,W,H,5-7,H,Carolina Panthers,21.0,18.0,15.0,322.0,194.0,128.0,1.0,15.0,282.0,149.0,133.0,1.0,1.83,4.36,-1.51,tam
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,6-7,A,Atlanta Falcons,29.0,25.0,16.0,290.0,142.0,148.0,H,23.0,434.0,338.0,96.0,1.0,0.22,-7.82,9.28,tam
+14,15,Sun,December 17,1:00PM ET,boxscore,W,H,7-7,A,Green Bay Packers,34.0,20.0,22.0,452.0,353.0,99.0,1.0,18.0,321.0,261.0,60.0,1.0,21.36,-5.02,0.81,tam
+15,16,Sun,December 24,4:05PM ET,boxscore,W,H,8-7,H,Jacksonville Jaguars,30.0,12.0,22.0,335.0,265.0,70.0,H,23.0,305.0,268.0,37.0,4.0,8.09,9.43,4.78,tam
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,8-8,H,New Orleans Saints,13.0,23.0,13.0,349.0,292.0,57.0,4.0,20.0,310.0,202.0,108.0,H,-3.93,-0.67,-5.28,tam
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,9-8,A,Carolina Panthers,9.0,0.0,14.0,228.0,115.0,113.0,H,11.0,199.0,68.0,131.0,2.0,-7.74,13.18,6.13,tam
+19,Wild Card,Mon,January 15,8:15PM ET,boxscore,W,H,10-8,H,Philadelphia Eagles,32.0,9.0,23.0,426.0,307.0,119.0,H,13.0,276.0,234.0,42.0,H,14.65,9.0,-0.96,tam
+20,Division,Sun,January 21,3:00PM ET,boxscore,L,H,10-9,A,Detroit Lions,23.0,31.0,23.0,408.0,319.0,89.0,2.0,26.0,391.0,277.0,114.0,H,7.77,-15.79,-2.23,tam
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,H,Tennessee Titans,16.0,15.0,15.0,351.0,282.0,69.0,2.0,16.0,285.0,181.0,104.0,3.0,0.83,8.64,-4.03,nor
+1,2,Mon,September 18,7:15PM ET,boxscore,W,H,2-0,A,Carolina Panthers,20.0,17.0,23.0,341.0,207.0,134.0,1.0,14.0,239.0,139.0,100.0,1.0,3.81,6.94,-6.1,nor
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,2-1,A,Green Bay Packers,17.0,18.0,15.0,252.0,175.0,77.0,H,21.0,340.0,245.0,95.0,1.0,-3.02,-1.99,6.26,nor
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,2-2,H,Tampa Bay Buccaneers,9.0,26.0,16.0,197.0,127.0,70.0,3.0,21.0,353.0,239.0,114.0,1.0,-14.93,-3.79,2.25,nor
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,3-2,A,New England Patriots,34.0,0.0,17.0,304.0,168.0,136.0,H,8.0,156.0,111.0,45.0,3.0,-1.91,33.72,3.4,nor
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,3-3,A,Houston Texans,13.0,20.0,24.0,430.0,341.0,89.0,2.0,19.0,297.0,177.0,120.0,1.0,5.96,-8.1,-3.91,nor
+6,7,Thu,October 19,8:15PM ET,boxscore,L,H,3-4,H,Jacksonville Jaguars,24.0,31.0,25.0,407.0,295.0,112.0,1.0,18.0,330.0,217.0,113.0,2.0,-4.83,-2.64,1.15,nor
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,4-4,A,Indianapolis Colts,38.0,27.0,24.0,511.0,350.0,161.0,1.0,19.0,371.0,207.0,164.0,1.0,23.78,-8.38,-3.03,nor
+8,9,Sun,November 5,1:00PM ET,boxscore,W,H,5-4,H,Chicago Bears,24.0,17.0,18.0,301.0,214.0,87.0,H,20.0,368.0,212.0,156.0,5.0,5.1,5.71,3.16,nor
+9,10,Sun,November 12,1:00PM ET,boxscore,L,H,5-5,A,Minnesota Vikings,19.0,27.0,16.0,280.0,215.0,65.0,2.0,23.0,388.0,263.0,125.0,H,-0.04,-10.78,4.27,nor
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,5-6,A,Atlanta Falcons,15.0,24.0,22.0,444.0,296.0,148.0,2.0,25.0,396.0,168.0,228.0,2.0,-3.48,-7.53,0.04,nor
+12,13,Sun,December 3,1:00PM ET,boxscore,L,H,5-7,H,Detroit Lions,28.0,33.0,23.0,362.0,249.0,113.0,2.0,18.0,347.0,205.0,142.0,H,6.28,-9.55,-2.62,nor
+13,14,Sun,December 10,1:00PM ET,boxscore,W,H,6-7,H,Carolina Panthers,28.0,6.0,14.0,207.0,110.0,97.0,1.0,16.0,303.0,99.0,204.0,2.0,-2.19,20.04,1.99,nor
+14,15,Sun,December 17,1:00PM ET,boxscore,W,H,7-7,H,New York Giants,24.0,6.0,20.0,296.0,209.0,87.0,H,12.0,193.0,133.0,60.0,H,8.51,15.39,-7.4,nor
+15,16,Thu,December 21,8:15PM ET,boxscore,L,H,7-8,A,Los Angeles Rams,22.0,30.0,18.0,339.0,304.0,35.0,1.0,23.0,458.0,325.0,133.0,H,1.69,-18.19,4.89,nor
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,8-8,A,Tampa Bay Buccaneers,23.0,13.0,20.0,310.0,202.0,108.0,H,13.0,349.0,292.0,57.0,4.0,0.67,3.93,5.28,nor
+17,18,Sun,January 7,1:00PM ET,boxscore,W,H,9-8,H,Atlanta Falcons,48.0,17.0,27.0,400.0,246.0,154.0,H,14.0,389.0,311.0,78.0,3.0,20.65,11.97,-3.08,nor
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,H,Carolina Panthers,24.0,10.0,13.0,221.0,91.0,130.0,H,20.0,281.0,127.0,154.0,3.0,-2.92,16.61,-0.2,atl
+1,2,Sun,September 17,1:00PM ET,boxscore,W,H,2-0,H,Green Bay Packers,25.0,24.0,27.0,446.0,235.0,211.0,1.0,17.0,224.0,140.0,84.0,H,13.12,-7.85,-0.97,atl
+2,3,Sun,September 24,1:00PM ET,boxscore,L,H,2-1,A,Detroit Lions,6.0,20.0,16.0,183.0,139.0,44.0,1.0,18.0,358.0,243.0,115.0,1.0,-15.09,-1.31,0.59,atl
+3,4,Sun,October 1,9:30AM ET,boxscore,L,H,2-2,A,Jacksonville Jaguars,7.0,23.0,17.0,287.0,160.0,127.0,3.0,16.0,300.0,195.0,105.0,H,-15.78,-0.72,0.86,atl
+4,5,Sun,October 8,1:00PM ET,boxscore,W,H,3-2,H,Houston Texans,21.0,19.0,26.0,447.0,351.0,96.0,2.0,17.0,313.0,249.0,64.0,H,6.01,-2.73,-1.01,atl
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,3-3,H,Washington Commanders,16.0,24.0,25.0,402.0,296.0,106.0,3.0,13.0,193.0,121.0,72.0,H,-5.68,0.45,-3.28,atl
+6,7,Sun,October 22,1:00PM ET,boxscore,W,H,4-3,A,Tampa Bay Buccaneers,16.0,13.0,20.0,401.0,245.0,156.0,3.0,21.0,329.0,256.0,73.0,2.0,-0.8,2.11,1.89,atl
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,4-4,A,Tennessee Titans,23.0,28.0,17.0,342.0,202.0,140.0,1.0,17.0,375.0,226.0,149.0,1.0,-3.34,-4.14,-0.17,atl
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,4-5,H,Minnesota Vikings,28.0,31.0,18.0,370.0,260.0,110.0,2.0,23.0,363.0,217.0,146.0,2.0,-3.4,-1.9,3.43,atl
+9,10,Sun,November 12,4:05PM ET,boxscore,L,H,4-6,A,Arizona Cardinals,23.0,25.0,20.0,254.0,70.0,184.0,H,20.0,352.0,230.0,122.0,1.0,4.7,-0.59,-6.18,atl
+11,12,Sun,November 26,1:00PM ET,boxscore,W,H,5-6,H,New Orleans Saints,24.0,15.0,25.0,396.0,168.0,228.0,2.0,22.0,444.0,296.0,148.0,2.0,7.53,3.48,-0.04,atl
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,6-6,A,New York Jets,13.0,8.0,15.0,194.0,104.0,90.0,H,14.0,259.0,197.0,62.0,3.0,-11.41,20.36,-1.05,atl
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,6-7,H,Tampa Bay Buccaneers,25.0,29.0,23.0,434.0,338.0,96.0,1.0,16.0,290.0,142.0,148.0,H,7.82,-0.22,-9.28,atl
+14,15,Sun,December 17,1:00PM ET,boxscore,L,H,6-8,A,Carolina Panthers,7.0,9.0,12.0,204.0,152.0,52.0,2.0,17.0,283.0,154.0,129.0,H,-10.46,9.24,-0.79,atl
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,7-8,H,Indianapolis Colts,29.0,10.0,23.0,406.0,229.0,177.0,H,20.0,262.0,170.0,92.0,1.0,13.44,4.99,-1.88,atl
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,7-9,A,Chicago Bears,17.0,37.0,15.0,307.0,173.0,134.0,4.0,22.0,432.0,240.0,192.0,H,-4.29,-10.27,-7.6,atl
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,7-10,A,New Orleans Saints,17.0,48.0,14.0,389.0,311.0,78.0,3.0,27.0,400.0,246.0,154.0,H,-11.97,-20.65,3.08,atl
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,A,Atlanta Falcons,10.0,24.0,20.0,281.0,127.0,154.0,3.0,13.0,221.0,91.0,130.0,H,-16.61,2.92,0.2,car
+1,2,Mon,September 18,7:15PM ET,boxscore,L,H,0-2,H,New Orleans Saints,17.0,20.0,14.0,239.0,139.0,100.0,1.0,23.0,341.0,207.0,134.0,1.0,-6.94,-3.81,6.1,car
+2,3,Sun,September 24,4:05PM ET,boxscore,L,H,0-3,A,Seattle Seahawks,27.0,37.0,23.0,378.0,334.0,44.0,H,27.0,425.0,279.0,146.0,1.0,6.08,-10.21,-4.29,car
+3,4,Sun,October 1,1:00PM ET,boxscore,L,H,0-4,H,Minnesota Vikings,13.0,21.0,20.0,232.0,149.0,83.0,1.0,14.0,265.0,130.0,135.0,2.0,-14.29,5.73,-0.38,car
+4,5,Sun,October 8,1:00PM ET,boxscore,L,H,0-5,A,Detroit Lions,24.0,42.0,26.0,342.0,243.0,99.0,3.0,23.0,377.0,218.0,159.0,H,4.1,-21.57,-0.86,car
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,0-6,A,Miami Dolphins,21.0,42.0,21.0,296.0,188.0,108.0,H,23.0,424.0,262.0,162.0,1.0,-6.44,-14.79,0.33,car
+7,8,Sun,October 29,1:00PM ET,boxscore,W,H,1-6,H,Houston Texans,15.0,13.0,20.0,224.0,180.0,44.0,H,16.0,229.0,119.0,110.0,1.0,0.91,3.6,-2.13,car
+8,9,Sun,November 5,4:05PM ET,boxscore,L,H,1-7,H,Indianapolis Colts,13.0,27.0,17.0,275.0,137.0,138.0,3.0,17.0,198.0,120.0,78.0,1.0,-23.07,3.93,2.92,car
+9,10,Thu,November 9,8:15PM ET,boxscore,L,H,1-8,A,Chicago Bears,13.0,16.0,12.0,213.0,170.0,43.0,H,21.0,295.0,162.0,133.0,H,-6.28,0.42,1.84,car
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,1-9,H,Dallas Cowboys,10.0,33.0,13.0,187.0,77.0,110.0,2.0,23.0,311.0,204.0,107.0,H,-13.81,-14.98,6.04,car
+11,12,Sun,November 26,1:00PM ET,boxscore,L,H,1-10,A,Tennessee Titans,10.0,17.0,19.0,258.0,162.0,96.0,1.0,15.0,264.0,184.0,80.0,H,-7.57,-0.52,-0.58,car
+12,13,Sun,December 3,4:05PM ET,boxscore,L,H,1-11,A,Tampa Bay Buccaneers,18.0,21.0,15.0,282.0,149.0,133.0,1.0,15.0,322.0,194.0,128.0,1.0,-4.36,-1.83,1.51,car
+13,14,Sun,December 10,1:00PM ET,boxscore,L,H,1-12,A,New Orleans Saints,6.0,28.0,16.0,303.0,99.0,204.0,2.0,14.0,207.0,110.0,97.0,1.0,-20.04,2.19,-1.99,car
+14,15,Sun,December 17,1:00PM ET,boxscore,W,H,2-12,H,Atlanta Falcons,9.0,7.0,17.0,283.0,154.0,129.0,H,12.0,204.0,152.0,52.0,2.0,-9.24,10.46,0.79,car
+15,16,Sun,December 24,1:00PM ET,boxscore,L,H,2-13,H,Green Bay Packers,30.0,33.0,26.0,394.0,298.0,96.0,H,25.0,369.0,207.0,162.0,H,20.51,-19.16,-1.99,car
+16,17,Sun,December 31,1:00PM ET,boxscore,L,H,2-14,A,Jacksonville Jaguars,0.0,26.0,7.0,124.0,67.0,57.0,1.0,16.0,317.0,162.0,155.0,H,-24.8,-6.77,4.36,car
+17,18,Sun,January 7,1:00PM ET,boxscore,L,H,2-15,H,Tampa Bay Buccaneers,0.0,9.0,11.0,199.0,68.0,131.0,2.0,14.0,228.0,115.0,113.0,H,-13.18,7.74,-6.13,car
+0,1,Sun,September 10,1:00PM ET,boxscore,W,H,1-0,A,Pittsburgh Steelers,30.0,7.0,22.0,391.0,203.0,188.0,1.0,15.0,239.0,198.0,41.0,2.0,9.73,13.55,-0.78,sfo
+1,2,Sun,September 17,4:05PM ET,boxscore,W,H,2-0,A,Los Angeles Rams,30.0,23.0,21.0,365.0,206.0,159.0,H,28.0,386.0,297.0,89.0,2.0,12.36,-3.31,-2.05,sfo
+2,3,Thu,September 21,8:15PM ET,boxscore,W,H,3-0,H,New York Giants,30.0,12.0,26.0,441.0,300.0,141.0,H,10.0,150.0,121.0,29.0,1.0,19.0,11.82,-9.72,sfo
+3,4,Sun,October 1,4:25PM ET,boxscore,W,H,4-0,H,Arizona Cardinals,35.0,16.0,30.0,395.0,271.0,124.0,H,23.0,362.0,257.0,105.0,H,30.46,-9.72,-1.63,sfo
+4,5,Sun,October 8,8:20PM ET,boxscore,W,H,5-0,H,Dallas Cowboys,42.0,10.0,25.0,421.0,251.0,170.0,1.0,8.0,197.0,140.0,57.0,4.0,12.84,23.12,-5.21,sfo
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,5-1,A,Cleveland Browns,17.0,19.0,15.0,215.0,107.0,108.0,1.0,18.0,334.0,174.0,160.0,2.0,-6.05,11.32,-7.34,sfo
+6,7,Mon,October 23,8:15PM ET,boxscore,L,H,5-2,A,Minnesota Vikings,17.0,22.0,19.0,325.0,260.0,65.0,3.0,24.0,452.0,378.0,74.0,1.0,5.43,-16.3,6.07,sfo
+7,8,Sun,October 29,4:25PM ET,boxscore,L,H,5-3,H,Cincinnati Bengals,17.0,31.0,24.0,460.0,347.0,113.0,3.0,29.0,400.0,266.0,134.0,1.0,9.25,-18.3,2.48,sfo
+9,10,Sun,November 12,1:00PM ET,boxscore,W,H,6-3,A,Jacksonville Jaguars,34.0,3.0,20.0,437.0,293.0,144.0,H,12.0,221.0,162.0,59.0,4.0,15.13,18.16,-3.53,sfo
+10,11,Sun,November 19,4:05PM ET,boxscore,W,H,7-3,H,Tampa Bay Buccaneers,27.0,14.0,22.0,420.0,305.0,115.0,H,22.0,287.0,221.0,66.0,2.0,14.22,2.05,-2.57,sfo
+11,12,Thu,November 23,8:20PM ET,boxscore,W,H,8-3,A,Seattle Seahawks,31.0,13.0,23.0,377.0,208.0,169.0,1.0,14.0,220.0,132.0,88.0,2.0,8.06,10.62,-0.59,sfo
+12,13,Sun,December 3,4:25PM ET,boxscore,W,H,9-3,A,Philadelphia Eagles,42.0,19.0,24.0,456.0,310.0,146.0,H,23.0,333.0,287.0,46.0,H,33.55,-6.22,-2.11,sfo
+13,14,Sun,December 10,4:05PM ET,boxscore,W,H,10-3,H,Seattle Seahawks,28.0,16.0,19.0,527.0,354.0,173.0,2.0,17.0,324.0,254.0,70.0,2.0,19.7,1.61,-3.47,sfo
+14,15,Sun,December 17,4:05PM ET,boxscore,W,H,11-3,A,Arizona Cardinals,45.0,29.0,24.0,406.0,262.0,144.0,H,22.0,436.0,202.0,234.0,2.0,26.28,-5.83,-1.07,sfo
+15,16,Mon,December 25,8:15PM ET,boxscore,L,H,11-4,H,Baltimore Ravens,19.0,33.0,21.0,429.0,308.0,121.0,5.0,23.0,343.0,241.0,102.0,H,-4.26,-11.84,1.31,sfo
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,12-4,A,Washington Commanders,27.0,10.0,28.0,408.0,224.0,184.0,H,12.0,225.0,163.0,62.0,2.0,16.3,6.62,-3.5,sfo
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,12-5,H,Los Angeles Rams,20.0,21.0,20.0,300.0,175.0,125.0,1.0,19.0,258.0,149.0,109.0,1.0,9.48,-11.3,-2.42,sfo
+19,Division,Sat,January 20,8:15PM ET,boxscore,W,H,13-5,H,Green Bay Packers,24.0,21.0,19.0,356.0,245.0,111.0,H,20.0,330.0,194.0,136.0,2.0,12.57,-5.63,-1.49,sfo
+20,Conf. Champ.,Sun,January 28,6:30PM ET,boxscore,W,H,14-5,H,Detroit Lions,34.0,31.0,23.0,413.0,258.0,155.0,1.0,28.0,442.0,260.0,182.0,1.0,19.87,-14.76,-1.23,sfo
+21,SuperBowl,Sun,February 11,6:30PM ET,boxscore,L,OT,14-6,N,Kansas City Chiefs,22.0,25.0,23.0,382.0,272.0,110.0,2.0,24.0,455.0,325.0,130.0,2.0,4.68,-3.42,-3.39,sfo
+0,1,Sun,September 10,4:25PM ET,boxscore,W,H,1-0,A,Seattle Seahawks,30.0,13.0,27.0,426.0,334.0,92.0,H,13.0,180.0,95.0,85.0,H,20.95,1.77,-5.73,ram
+1,2,Sun,September 17,4:05PM ET,boxscore,L,H,1-1,H,San Francisco 49ers,23.0,30.0,28.0,386.0,297.0,89.0,2.0,21.0,365.0,206.0,159.0,H,3.31,-12.36,2.05,ram
+2,3,Mon,September 25,8:15PM ET,boxscore,L,H,1-2,A,Cincinnati Bengals,16.0,19.0,15.0,292.0,221.0,71.0,2.0,19.0,309.0,242.0,67.0,1.0,-7.34,8.0,-3.79,ram
+3,4,Sun,October 1,1:00PM ET,boxscore,W,OT,2-2,A,Indianapolis Colts,29.0,23.0,27.0,467.0,303.0,164.0,1.0,19.0,329.0,196.0,133.0,1.0,15.52,-5.51,-0.74,ram
+4,5,Sun,October 8,4:05PM ET,boxscore,L,H,2-3,H,Philadelphia Eagles,14.0,23.0,17.0,249.0,195.0,54.0,H,28.0,454.0,295.0,159.0,1.0,6.25,-16.56,2.84,ram
+5,6,Sun,October 15,4:25PM ET,boxscore,W,H,3-3,H,Arizona Cardinals,26.0,9.0,17.0,382.0,203.0,179.0,1.0,20.0,345.0,215.0,130.0,2.0,10.25,12.85,-7.36,ram
+6,7,Sun,October 22,4:05PM ET,boxscore,L,H,3-4,H,Pittsburgh Steelers,17.0,24.0,19.0,354.0,219.0,135.0,1.0,17.0,300.0,214.0,86.0,H,3.06,-4.14,-6.47,ram
+7,8,Sun,October 29,1:00PM ET,boxscore,L,H,3-5,A,Dallas Cowboys,20.0,43.0,15.0,280.0,188.0,92.0,1.0,24.0,387.0,285.0,102.0,1.0,-8.68,-15.46,-1.87,ram
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,3-6,A,Green Bay Packers,3.0,20.0,10.0,187.0,119.0,68.0,2.0,21.0,391.0,207.0,184.0,2.0,-20.49,-2.46,1.58,ram
+10,11,Sun,November 19,4:25PM ET,boxscore,W,H,4-6,H,Seattle Seahawks,17.0,16.0,20.0,267.0,185.0,82.0,1.0,16.0,291.0,223.0,68.0,1.0,2.26,-0.28,0.2,ram
+11,12,Sun,November 26,4:05PM ET,boxscore,W,H,5-6,A,Arizona Cardinals,37.0,14.0,25.0,457.0,229.0,228.0,1.0,19.0,292.0,219.0,73.0,H,22.85,1.35,-4.78,ram
+12,13,Sun,December 3,4:25PM ET,boxscore,W,H,6-6,H,Cleveland Browns,36.0,19.0,20.0,399.0,279.0,120.0,H,20.0,327.0,240.0,87.0,1.0,16.49,1.73,-1.43,ram
+13,14,Sun,December 10,1:00PM ET,boxscore,L,OT,6-7,A,Baltimore Ravens,31.0,37.0,24.0,410.0,282.0,128.0,H,23.0,449.0,310.0,139.0,1.0,7.96,-13.48,-0.55,ram
+14,15,Sun,December 17,4:05PM ET,boxscore,W,H,7-7,H,Washington Commanders,28.0,20.0,23.0,445.0,249.0,196.0,2.0,14.0,297.0,218.0,79.0,1.0,8.81,2.14,-3.33,ram
+15,16,Thu,December 21,8:15PM ET,boxscore,W,H,8-7,H,New Orleans Saints,30.0,22.0,23.0,458.0,325.0,133.0,H,18.0,339.0,304.0,35.0,1.0,18.19,-1.69,-4.89,ram
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,9-7,A,New York Giants,26.0,25.0,22.0,391.0,286.0,105.0,3.0,17.0,389.0,284.0,105.0,1.0,2.7,4.35,-4.87,ram
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,10-7,A,San Francisco 49ers,21.0,20.0,19.0,258.0,149.0,109.0,1.0,20.0,300.0,175.0,125.0,1.0,11.3,-9.48,2.42,ram
+19,Wild Card,Sun,January 14,8:15PM ET,boxscore,L,H,10-8,A,Detroit Lions,23.0,24.0,22.0,425.0,357.0,68.0,H,23.0,334.0,255.0,79.0,H,19.93,-15.39,-4.78,ram
+0,1,Sun,September 10,4:25PM ET,boxscore,L,H,0-1,H,Los Angeles Rams,13.0,30.0,13.0,180.0,95.0,85.0,H,27.0,426.0,334.0,92.0,H,-1.77,-20.95,5.73,sea
+1,2,Sun,September 17,1:00PM ET,boxscore,W,OT,1-1,A,Detroit Lions,37.0,31.0,28.0,393.0,311.0,82.0,H,25.0,418.0,316.0,102.0,3.0,18.0,-4.65,-7.35,sea
+2,3,Sun,September 24,4:05PM ET,boxscore,W,H,2-1,H,Carolina Panthers,37.0,27.0,27.0,425.0,279.0,146.0,1.0,23.0,378.0,334.0,44.0,H,10.21,-6.08,4.29,sea
+3,4,Mon,October 2,8:15PM ET,boxscore,W,H,3-1,A,New York Giants,24.0,3.0,13.0,281.0,160.0,121.0,H,17.0,248.0,136.0,112.0,3.0,-7.86,29.37,0.33,sea
+5,6,Sun,October 15,1:00PM ET,boxscore,L,H,3-2,A,Cincinnati Bengals,13.0,17.0,24.0,384.0,297.0,87.0,2.0,15.0,214.0,168.0,46.0,1.0,-3.89,1.37,-1.98,sea
+6,7,Sun,October 22,4:05PM ET,boxscore,W,H,4-2,H,Arizona Cardinals,20.0,10.0,18.0,318.0,203.0,115.0,3.0,15.0,249.0,122.0,127.0,H,2.2,10.34,-3.57,sea
+7,8,Sun,October 29,4:05PM ET,boxscore,W,H,5-2,H,Cleveland Browns,24.0,20.0,17.0,362.0,248.0,114.0,2.0,23.0,385.0,230.0,155.0,3.0,6.04,0.0,2.5,sea
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,5-3,A,Baltimore Ravens,3.0,37.0,6.0,151.0,123.0,28.0,2.0,29.0,515.0,217.0,298.0,2.0,-21.73,-17.08,5.23,sea
+9,10,Sun,November 12,4:25PM ET,boxscore,W,H,6-3,H,Washington Commanders,29.0,26.0,27.0,489.0,369.0,120.0,H,16.0,356.0,288.0,68.0,1.0,15.28,-7.66,-2.61,sea
+10,11,Sun,November 19,4:25PM ET,boxscore,L,H,6-4,A,Los Angeles Rams,16.0,17.0,16.0,291.0,223.0,68.0,1.0,20.0,267.0,185.0,82.0,1.0,0.28,-2.26,-0.2,sea
+11,12,Thu,November 23,8:20PM ET,boxscore,L,H,6-5,H,San Francisco 49ers,13.0,31.0,14.0,220.0,132.0,88.0,2.0,23.0,377.0,208.0,169.0,1.0,-10.62,-8.06,0.59,sea
+12,13,Thu,November 30,8:15PM ET,boxscore,L,H,6-6,A,Dallas Cowboys,35.0,41.0,25.0,406.0,334.0,72.0,1.0,33.0,411.0,275.0,136.0,H,20.82,-24.14,-3.78,sea
+13,14,Sun,December 10,4:05PM ET,boxscore,L,H,6-7,A,San Francisco 49ers,16.0,28.0,17.0,324.0,254.0,70.0,2.0,19.0,527.0,354.0,173.0,2.0,-1.61,-19.7,3.47,sea
+14,15,Sun,December 18,8:15PM ET,boxscore,W,H,7-7,H,Philadelphia Eagles,20.0,17.0,16.0,297.0,197.0,100.0,H,23.0,321.0,143.0,178.0,2.0,6.27,-5.2,-0.39,sea
+15,16,Sun,December 24,1:00PM ET,boxscore,W,H,8-7,A,Tennessee Titans,20.0,17.0,21.0,273.0,215.0,58.0,H,23.0,287.0,125.0,162.0,H,13.04,-9.37,0.67,sea
+16,17,Sun,December 31,4:05PM ET,boxscore,L,H,8-8,H,Pittsburgh Steelers,23.0,30.0,17.0,369.0,281.0,88.0,1.0,25.0,468.0,266.0,202.0,H,7.51,-20.36,0.67,sea
+17,18,Sun,January 7,4:25PM ET,boxscore,W,H,9-8,A,Arizona Cardinals,21.0,20.0,18.0,327.0,189.0,138.0,H,24.0,466.0,260.0,206.0,H,10.16,-18.03,6.27,sea
+0,1,Sun,September 10,1:00PM ET,boxscore,L,H,0-1,A,Washington Commanders,16.0,20.0,13.0,210.0,114.0,96.0,2.0,21.0,248.0,156.0,92.0,3.0,-19.87,9.25,4.96,crd
+1,2,Sun,September 17,4:05PM ET,boxscore,L,H,0-2,H,New York Giants,28.0,31.0,24.0,379.0,228.0,151.0,H,26.0,439.0,312.0,127.0,1.0,15.48,-16.76,-2.39,crd
+2,3,Sun,September 24,4:25PM ET,boxscore,W,H,1-2,H,Dallas Cowboys,28.0,16.0,20.0,400.0,178.0,222.0,H,26.0,416.0,231.0,185.0,1.0,18.46,-6.78,1.14,crd
+3,4,Sun,October 1,4:25PM ET,boxscore,L,H,1-3,A,San Francisco 49ers,16.0,35.0,23.0,362.0,257.0,105.0,H,30.0,395.0,271.0,124.0,H,9.72,-30.46,1.63,crd
+4,5,Sun,October 8,4:05PM ET,boxscore,L,H,1-4,H,Cincinnati Bengals,20.0,34.0,15.0,294.0,152.0,142.0,3.0,27.0,380.0,287.0,93.0,1.0,-9.49,-4.11,-0.68,crd
+5,6,Sun,October 15,4:25PM ET,boxscore,L,H,1-5,A,Los Angeles Rams,9.0,26.0,20.0,345.0,215.0,130.0,2.0,17.0,382.0,203.0,179.0,1.0,-12.85,-10.25,7.36,crd
+6,7,Sun,October 22,4:05PM ET,boxscore,L,H,1-6,A,Seattle Seahawks,10.0,20.0,15.0,249.0,122.0,127.0,H,18.0,318.0,203.0,115.0,3.0,-10.34,-2.2,3.57,crd
+7,8,Sun,October 29,4:25PM ET,boxscore,L,H,1-7,H,Baltimore Ravens,24.0,31.0,22.0,310.0,181.0,129.0,2.0,21.0,268.0,138.0,130.0,H,-3.72,-9.2,1.65,crd
+8,9,Sun,November 5,1:00PM ET,boxscore,L,H,1-8,A,Cleveland Browns,0.0,27.0,7.0,58.0,17.0,41.0,3.0,17.0,326.0,213.0,113.0,H,-35.86,-0.59,7.62,crd
+9,10,Sun,November 12,4:05PM ET,boxscore,W,H,2-8,H,Atlanta Falcons,25.0,23.0,20.0,352.0,230.0,122.0,1.0,20.0,254.0,70.0,184.0,H,0.59,-4.7,6.18,crd
+10,11,Sun,November 19,1:00PM ET,boxscore,L,H,2-9,A,Houston Texans,16.0,21.0,20.0,319.0,196.0,123.0,2.0,22.0,419.0,308.0,111.0,3.0,-1.11,-4.22,0.49,crd
+11,12,Sun,November 26,4:05PM ET,boxscore,L,H,2-10,H,Los Angeles Rams,14.0,37.0,19.0,292.0,219.0,73.0,H,25.0,457.0,229.0,228.0,1.0,-1.35,-22.85,4.78,crd
+12,13,Sun,December 3,1:00PM ET,boxscore,W,H,3-10,A,Pittsburgh Steelers,24.0,10.0,18.0,282.0,132.0,150.0,H,18.0,317.0,187.0,130.0,1.0,6.39,2.22,7.39,crd
+14,15,Sun,December 17,4:05PM ET,boxscore,L,H,3-11,H,San Francisco 49ers,29.0,45.0,22.0,436.0,202.0,234.0,2.0,24.0,406.0,262.0,144.0,H,5.83,-26.28,1.07,crd
+15,16,Sun,December 24,4:25PM ET,boxscore,L,H,3-12,A,Chicago Bears,16.0,27.0,16.0,306.0,213.0,93.0,H,22.0,420.0,170.0,250.0,1.0,-4.06,-9.8,4.35,crd
+16,17,Sun,December 31,1:00PM ET,boxscore,W,H,4-12,A,Philadelphia Eagles,35.0,31.0,32.0,449.0,228.0,221.0,1.0,17.0,275.0,184.0,91.0,1.0,21.16,-13.61,-3.99,crd
+17,18,Sun,January 7,4:25PM ET,boxscore,L,H,4-13,H,Seattle Seahawks,20.0,21.0,24.0,466.0,260.0,206.0,H,18.0,327.0,189.0,138.0,H,18.03,-10.16,-6.27,crd
+0,1,Thu,September 8,8:20PM ET,boxscore,W,H,1-0,A,Los Angeles Rams,31,10,23,413,292,121,4,19,243,191,52,3,13.89,10.29,-3.96,buf
+1,2,Mon,September 19,7:15PM ET,boxscore,W,H,2-0,H,Tennessee Titans,41,7,23,414,313,101,H,12,187,107,80,4,17.69,18.01,1.55,buf
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,2-1,A,Miami Dolphins,19,21,31,497,382,115,1,15,212,171,41,H,15.88,-7.45,-4.86,buf
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,3-1,A,Baltimore Ravens,23,20,22,326,201,125,2,22,296,134,162,2,2.10,2.66,-1.69,buf
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,4-1,H,Pittsburgh Steelers,38,3,21,552,432,120,2,23,364,310,54,2,20.66,9.42,3.54,buf
+5,6,Sun,October 16,4:25PM ET,boxscore,W,H,5-1,A,Kansas City Chiefs,24,20,26,443,318,125,1,23,387,319,68,2,11.13,-6.45,0.56,buf
+7,8,Sun,October 30,8:20PM ET,boxscore,W,H,6-1,H,Green Bay Packers,27,17,20,369,216,153,2,21,398,190,208,1,12.79,-5.55,4.01,buf
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,6-2,A,New York Jets,17,20,19,317,183,134,2,21,310,136,174,1,0.54,-7.64,2.11,buf
+9,10,Sun,November 13,1:00PM ET,boxscore,L,OT,6-3,H,Minnesota Vikings,30,33,29,486,311,175,4,24,481,334,147,2,1.45,-4.80,-0.39,buf
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,7-3,H,Cleveland Browns,31,23,22,357,186,171,H,27,396,316,80,1,6.00,-10.86,13.72,buf
+11,12,Thu,November 24,12:30PM ET,boxscore,W,H,8-3,A,Detroit Lions,28,25,28,401,237,164,1,22,326,230,96,2,16.07,-12.71,-3.07,buf
+12,13,Thu,December 1,8:15PM ET,boxscore,W,H,9-3,A,New England Patriots,24,10,22,355,223,132,1,14,242,182,60,H,9.50,1.41,3.26,buf
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,10-3,H,New York Jets,20,12,14,232,130,102,H,19,309,233,76,2,-5.17,12.35,3.77,buf
+14,15,Sat,December 17,8:15PM ET,boxscore,W,H,11-3,H,Miami Dolphins,32,29,29,446,296,150,1,20,405,217,188,H,19.07,-10.87,-4.20,buf
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,12-3,A,Chicago Bears,35,13,20,426,172,254,3,11,209,129,80,2,9.47,20.55,-9.39,buf
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,13-3,H,New England Patriots,35,23,18,327,237,90,3,20,341,234,107,3,5.28,2.57,7.70,buf
+19,Wild Card,Sun,January 15,1:00PM ET,boxscore,W,H,14-3,H,Miami Dolphins,34,31,25,423,316,107,3,16,231,189,42,2,-2.41,15.56,-6.64,buf
+20,Division,Sun,January 22,3:00PM ET,boxscore,L,H,14-4,H,Cincinnati Bengals,10,27,19,325,261,64,1,30,412,240,172,H,3.52,-22.03,1.83,buf
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,H,New England Patriots,20.0,7.0,18.0,307.0,242.0,65.0,H,17.0,271.0,193.0,78.0,3.0,6.08,8.28,1.98,mia
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,2-0,A,Baltimore Ravens,42.0,38.0,27.0,547.0,461.0,86.0,2.0,23.0,473.0,318.0,155.0,H,32.0,-20.31,-7.09,mia
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,3-0,H,Buffalo Bills,21.0,19.0,15.0,212.0,171.0,41.0,H,31.0,497.0,382.0,115.0,1.0,7.45,-15.88,4.86,mia
+3,4,Thu,September 29,8:15PM ET,boxscore,L,H,3-1,A,Cincinnati Bengals,15.0,27.0,20.0,378.0,293.0,85.0,2.0,16.0,371.0,304.0,67.0,H,0.48,-9.11,-3.73,mia
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,3-2,A,New York Jets,17.0,40.0,19.0,295.0,158.0,137.0,2.0,21.0,322.0,187.0,135.0,H,-6.15,-11.86,-3.66,mia
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,3-3,H,Minnesota Vikings,16.0,24.0,23.0,458.0,385.0,73.0,3.0,11.0,234.0,156.0,78.0,H,-8.38,4.43,-4.75,mia
+6,7,Sun,October 23,8:20PM ET,boxscore,W,H,4-3,H,Pittsburgh Steelers,16.0,10.0,17.0,372.0,261.0,111.0,H,19.0,341.0,246.0,95.0,3.0,0.04,6.72,-2.49,mia
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,5-3,A,Detroit Lions,31.0,27.0,27.0,476.0,369.0,107.0,1.0,22.0,393.0,311.0,82.0,H,25.47,-19.14,-0.59,mia
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,6-3,A,Chicago Bears,35.0,32.0,21.0,379.0,302.0,77.0,H,23.0,368.0,116.0,252.0,H,19.83,-17.18,2.01,mia
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,7-3,H,Cleveland Browns,39.0,17.0,29.0,491.0,296.0,195.0,H,20.0,297.0,185.0,112.0,1.0,28.5,1.04,-4.93,mia
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,8-3,H,Houston Texans,30.0,15.0,25.0,339.0,273.0,66.0,1.0,14.0,210.0,174.0,36.0,3.0,-1.9,22.74,-3.97,mia
+12,13,Sun,December 4,4:05PM ET,boxscore,L,H,8-4,A,San Francisco 49ers,17.0,33.0,14.0,308.0,275.0,33.0,4.0,24.0,351.0,230.0,121.0,1.0,-13.36,-1.78,-1.0,mia
+13,14,Sun,December 11,8:20PM ET,boxscore,L,H,8-5,A,Los Angeles Chargers,17.0,23.0,14.0,219.0,127.0,92.0,H,24.0,432.0,350.0,82.0,H,1.14,-9.39,1.98,mia
+14,15,Sat,December 17,8:15PM ET,boxscore,L,H,8-6,A,Buffalo Bills,29.0,32.0,20.0,405.0,217.0,188.0,H,29.0,446.0,296.0,150.0,1.0,10.87,-19.07,4.2,mia
+15,16,Sun,December 25,1:00PM ET,boxscore,L,H,8-7,H,Green Bay Packers,20.0,26.0,15.0,376.0,294.0,82.0,4.0,17.0,301.0,222.0,79.0,1.0,-2.13,3.46,-6.52,mia
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,8-8,A,New England Patriots,21.0,23.0,21.0,333.0,247.0,86.0,2.0,14.0,249.0,173.0,76.0,H,-1.36,1.2,-1.03,mia
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,9-8,H,New York Jets,11.0,6.0,17.0,302.0,140.0,162.0,H,11.0,187.0,149.0,38.0,H,-3.96,7.03,1.31,mia
+19,Wild Card,Sun,January 15,1:00PM ET,boxscore,L,H,9-9,A,Buffalo Bills,31.0,34.0,16.0,231.0,189.0,42.0,2.0,25.0,423.0,316.0,107.0,3.0,-15.56,2.41,6.64,mia
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,A,Miami Dolphins,7.0,20.0,17.0,271.0,193.0,78.0,3.0,18.0,307.0,242.0,65.0,H,-8.28,-6.08,-1.98,nwe
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,1-1,A,Pittsburgh Steelers,17.0,14.0,18.0,376.0,252.0,124.0,1.0,16.0,243.0,152.0,91.0,2.0,6.14,3.44,-3.25,nwe
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,1-2,H,Baltimore Ravens,26.0,37.0,22.0,447.0,302.0,145.0,4.0,19.0,394.0,206.0,188.0,2.0,3.5,-11.67,-3.18,nwe
+3,4,Sun,October 2,4:25PM ET,boxscore,L,OT,1-3,A,Green Bay Packers,24.0,27.0,17.0,271.0,104.0,167.0,1.0,24.0,443.0,244.0,199.0,2.0,-2.0,-5.17,2.64,nwe
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,2-3,H,Detroit Lions,29.0,0.0,22.0,364.0,188.0,176.0,1.0,17.0,312.0,211.0,101.0,2.0,10.08,22.04,-3.38,nwe
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,3-3,A,Cleveland Browns,38.0,15.0,20.0,399.0,301.0,98.0,1.0,16.0,328.0,258.0,70.0,4.0,11.3,12.35,-0.09,nwe
+6,7,Mon,October 24,8:15PM ET,boxscore,L,H,3-4,H,Chicago Bears,14.0,33.0,12.0,260.0,190.0,70.0,4.0,24.0,390.0,147.0,243.0,1.0,-10.97,-8.77,-0.11,nwe
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,4-4,A,New York Jets,22.0,17.0,19.0,288.0,161.0,127.0,1.0,17.0,387.0,336.0,51.0,3.0,-9.31,2.3,12.01,nwe
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,5-4,H,Indianapolis Colts,26.0,3.0,11.0,203.0,133.0,70.0,1.0,8.0,121.0,43.0,78.0,1.0,-9.55,31.93,-1.05,nwe
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,6-4,H,New York Jets,10.0,3.0,13.0,297.0,198.0,99.0,H,6.0,103.0,44.0,59.0,H,-9.78,18.64,-5.4,nwe
+11,12,Thu,November 24,8:20PM ET,boxscore,L,H,6-5,A,Minnesota Vikings,26.0,33.0,17.0,409.0,364.0,45.0,H,23.0,358.0,301.0,57.0,1.0,11.53,-9.14,-7.59,nwe
+12,13,Thu,December 1,8:15PM ET,boxscore,L,H,6-6,H,Buffalo Bills,10.0,24.0,14.0,242.0,182.0,60.0,H,22.0,355.0,223.0,132.0,1.0,-1.41,-9.5,-3.26,nwe
+13,14,Mon,December 12,8:15PM ET,boxscore,W,H,7-6,A,Arizona Cardinals,27.0,13.0,18.0,328.0,225.0,103.0,1.0,19.0,323.0,210.0,113.0,2.0,-0.47,17.43,-0.9,nwe
+14,15,Sun,December 18,4:05PM ET,boxscore,L,H,7-7,A,Las Vegas Raiders,24.0,30.0,19.0,318.0,112.0,206.0,1.0,18.0,308.0,211.0,97.0,1.0,-7.82,2.33,-2.58,nwe
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,7-8,H,Cincinnati Bengals,18.0,22.0,15.0,285.0,224.0,61.0,1.0,28.0,442.0,369.0,73.0,3.0,-5.0,-0.86,-1.12,nwe
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,8-8,H,Miami Dolphins,23.0,21.0,14.0,249.0,173.0,76.0,H,21.0,333.0,247.0,86.0,2.0,-1.2,1.36,1.03,nwe
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,8-9,A,Buffalo Bills,23.0,35.0,20.0,341.0,234.0,107.0,3.0,18.0,327.0,237.0,90.0,3.0,-2.57,-5.28,-7.7,nwe
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,H,Baltimore Ravens,9.0,24.0,24.0,380.0,297.0,83.0,2.0,13.0,274.0,211.0,63.0,1.0,-8.07,-3.65,-5.04,nyj
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,1-1,A,Cleveland Browns,31.0,30.0,20.0,402.0,309.0,93.0,1.0,29.0,405.0,221.0,184.0,1.0,15.19,-17.92,5.38,nyj
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,1-2,H,Cincinnati Bengals,12.0,27.0,19.0,328.0,252.0,76.0,4.0,20.0,330.0,261.0,69.0,1.0,-16.45,-3.99,6.98,nyj
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,2-2,A,Pittsburgh Steelers,24.0,20.0,19.0,348.0,250.0,98.0,2.0,20.0,297.0,178.0,119.0,4.0,-1.46,2.55,2.91,nyj
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,3-2,H,Miami Dolphins,40.0,17.0,21.0,322.0,187.0,135.0,H,19.0,295.0,158.0,137.0,2.0,11.86,6.15,3.66,nyj
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,4-2,A,Green Bay Packers,27.0,10.0,14.0,278.0,99.0,179.0,H,15.0,278.0,218.0,60.0,1.0,-2.59,16.24,4.32,nyj
+6,7,Sun,October 23,4:05PM ET,boxscore,W,H,5-2,A,Denver Broncos,16.0,9.0,10.0,260.0,105.0,155.0,H,21.0,324.0,219.0,105.0,1.0,-8.14,8.53,8.12,nyj
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,5-3,H,New England Patriots,17.0,22.0,17.0,387.0,336.0,51.0,3.0,19.0,288.0,161.0,127.0,1.0,-2.3,9.31,-12.01,nyj
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,6-3,H,Buffalo Bills,20.0,17.0,21.0,310.0,136.0,174.0,1.0,19.0,317.0,183.0,134.0,2.0,7.64,-0.54,-2.11,nyj
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,6-4,A,New England Patriots,3.0,10.0,6.0,103.0,44.0,59.0,H,13.0,297.0,198.0,99.0,H,-18.64,9.78,5.4,nyj
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,7-4,H,Chicago Bears,31.0,10.0,22.0,466.0,308.0,158.0,H,14.0,292.0,165.0,127.0,1.0,20.96,3.97,-3.63,nyj
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,7-5,A,Minnesota Vikings,22.0,27.0,23.0,486.0,366.0,120.0,2.0,21.0,287.0,159.0,128.0,H,1.01,-5.08,-0.01,nyj
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,7-6,A,Buffalo Bills,12.0,20.0,19.0,309.0,233.0,76.0,2.0,14.0,232.0,130.0,102.0,H,-12.35,5.17,-3.77,nyj
+14,15,Sun,December 18,1:00PM ET,boxscore,L,H,7-7,H,Detroit Lions,17.0,20.0,18.0,337.0,287.0,50.0,1.0,17.0,359.0,252.0,107.0,H,3.71,-2.21,-2.44,nyj
+15,16,Thu,December 22,8:15PM ET,boxscore,L,H,7-8,H,Jacksonville Jaguars,3.0,19.0,10.0,227.0,161.0,66.0,2.0,19.0,365.0,218.0,147.0,1.0,-14.15,-3.0,5.11,nyj
+16,17,Sun,January 1,4:05PM ET,boxscore,L,H,7-9,A,Seattle Seahawks,6.0,23.0,20.0,279.0,204.0,75.0,3.0,20.0,346.0,148.0,198.0,H,-16.78,-3.31,4.05,nyj
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,7-10,A,Miami Dolphins,6.0,11.0,11.0,187.0,149.0,38.0,H,17.0,302.0,140.0,162.0,H,-7.03,3.96,-1.31,nyj
+0,1,Sun,September 11,1:00PM ET,boxscore,L,OT,0-1,H,Pittsburgh Steelers,20,23,32,432,299,133,5,13,267,192,75,H,-7.49,8.41,-4.85,cin
+1,2,Sun,September 18,4:25PM ET,boxscore,L,H,0-2,A,Dallas Cowboys,17,20,19,254,165,89,H,19,337,230,107,1,0.76,-6.08,1.25,cin
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,1-2,A,New York Jets,27,12,20,330,261,69,1,19,328,252,76,4,3.99,16.45,-6.98,cin
+3,4,Thu,September 29,8:15PM ET,boxscore,W,H,2-2,H,Miami Dolphins,27,15,16,371,304,67,H,20,378,293,85,2,9.11,-0.48,3.73,cin
+4,5,Sun,October 9,8:20PM ET,boxscore,L,H,2-3,A,Baltimore Ravens,17,19,20,291,190,101,1,22,325,170,155,1,3.22,-3.89,-1.19,cin
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,3-3,A,New Orleans Saints,30,26,21,348,273,75,1,22,399,171,228,H,17.18,-9.06,-2.40,cin
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,4-3,H,Atlanta Falcons,35,17,29,537,459,78,H,13,214,107,107,H,33.05,-3.19,-6.33,cin
+7,8,Mon,October 31,8:15PM ET,boxscore,L,H,4-4,A,Cleveland Browns,13,32,15,229,193,36,2,24,440,268,172,2,-3.49,-15.92,-2.71,cin
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,5-4,H,Carolina Panthers,42,21,30,464,223,241,H,13,228,164,64,3,30.20,-0.37,-12.97,cin
+10,11,Sun,November 20,4:25PM ET,boxscore,W,H,6-4,A,Pittsburgh Steelers,37,30,22,408,346,62,2,17,351,249,102,H,9.45,-3.17,2.27,cin
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,7-4,A,Tennessee Titans,20,16,21,374,266,108,H,15,344,281,63,H,5.39,-4.57,5.94,cin
+12,13,Sun,December 4,4:25PM ET,boxscore,W,H,8-4,H,Kansas City Chiefs,27,24,26,431,279,152,H,20,349,211,138,1,19.79,-16.21,1.75,cin
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,9-4,H,Cleveland Browns,23,10,23,363,227,136,1,18,344,273,71,1,7.01,8.32,-3.29,cin
+14,15,Sun,December 18,4:25PM ET,boxscore,W,H,10-4,A,Tampa Bay Buccaneers,34,23,20,237,184,53,1,25,396,304,92,4,1.78,1.98,7.20,cin
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,11-4,A,New England Patriots,22,18,28,442,369,73,3,15,285,224,61,1,0.86,5.00,1.12,cin
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,12-4,H,Baltimore Ravens,27,16,15,257,202,55,1,20,386,276,110,4,-9.98,13.37,2.37,cin
+19,Wild Card,Sun,January 15,8:15PM ET,boxscore,W,H,13-4,H,Baltimore Ravens,24,17,18,234,183,51,1,23,364,209,155,2,0.70,1.77,2.72,cin
+20,Division,Sun,January 22,3:00PM ET,boxscore,W,H,14-4,A,Buffalo Bills,27,10,30,412,240,172,H,19,325,261,64,1,22.03,-3.52,-1.83,cin
+21,Conf. Champ.,Sun,January 29,6:30PM ET,boxscore,L,H,14-5,A,Kansas City Chiefs,20,23,18,309,238,71,2,23,357,315,42,1,4.06,-8.86,3.07,cin
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,A,New York Jets,24.0,9.0,13.0,274.0,211.0,63.0,1.0,24.0,380.0,297.0,83.0,2.0,3.65,8.07,5.04,rav
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,1-1,H,Miami Dolphins,38.0,42.0,23.0,473.0,318.0,155.0,H,27.0,547.0,461.0,86.0,2.0,20.31,-32.0,7.09,rav
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,2-1,A,New England Patriots,37.0,26.0,19.0,394.0,206.0,188.0,2.0,22.0,447.0,302.0,145.0,4.0,11.67,-3.5,3.18,rav
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,2-2,H,Buffalo Bills,20.0,23.0,22.0,296.0,134.0,162.0,2.0,22.0,326.0,201.0,125.0,2.0,-2.66,-2.1,1.69,rav
+4,5,Sun,October 9,8:20PM ET,boxscore,W,H,3-2,H,Cincinnati Bengals,19.0,17.0,22.0,325.0,170.0,155.0,1.0,20.0,291.0,190.0,101.0,1.0,3.89,-3.22,1.19,rav
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,3-3,A,New York Giants,20.0,24.0,23.0,406.0,195.0,211.0,2.0,18.0,238.0,155.0,83.0,1.0,6.0,-4.93,-8.06,rav
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,4-3,H,Cleveland Browns,23.0,20.0,17.0,254.0,94.0,160.0,1.0,18.0,336.0,223.0,113.0,2.0,1.58,-6.61,7.18,rav
+7,8,Thu,October 27,8:15PM ET,boxscore,W,H,5-3,A,Tampa Bay Buccaneers,27.0,22.0,27.0,453.0,222.0,231.0,H,20.0,349.0,305.0,44.0,1.0,11.24,-8.68,6.73,rav
+8,9,Mon,November 7,8:15PM ET,boxscore,W,H,6-3,A,New Orleans Saints,27.0,13.0,23.0,319.0,131.0,188.0,H,13.0,243.0,195.0,48.0,1.0,11.91,3.99,-1.6,rav
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,7-3,H,Carolina Panthers,13.0,3.0,19.0,308.0,193.0,115.0,1.0,13.0,205.0,169.0,36.0,3.0,-5.63,20.39,-3.58,rav
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,7-4,A,Jacksonville Jaguars,27.0,28.0,24.0,415.0,253.0,162.0,2.0,18.0,332.0,294.0,38.0,1.0,8.53,-5.31,-1.38,rav
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,8-4,H,Denver Broncos,10.0,9.0,20.0,285.0,182.0,103.0,2.0,12.0,272.0,184.0,88.0,H,-2.33,4.43,-1.45,rav
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,9-4,A,Pittsburgh Steelers,16.0,14.0,18.0,309.0,94.0,215.0,H,23.0,329.0,264.0,65.0,3.0,1.06,-7.51,6.16,rav
+14,15,Sat,December 17,4:30PM ET,boxscore,L,H,9-5,A,Cleveland Browns,3.0,13.0,17.0,324.0,126.0,198.0,2.0,19.0,283.0,140.0,143.0,H,-7.94,-2.64,-0.26,rav
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,10-5,H,Atlanta Falcons,17.0,9.0,15.0,299.0,115.0,184.0,H,17.0,327.0,212.0,115.0,1.0,2.18,7.26,-3.42,rav
+16,17,Sun,January 1,8:20PM ET,boxscore,L,H,10-6,H,Pittsburgh Steelers,13.0,16.0,15.0,240.0,120.0,120.0,1.0,22.0,351.0,153.0,198.0,H,-0.15,-9.3,6.66,rav
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,10-7,A,Cincinnati Bengals,16.0,27.0,20.0,386.0,276.0,110.0,4.0,15.0,257.0,202.0,55.0,1.0,-13.37,9.98,-2.37,rav
+19,Wild Card,Sun,January 15,8:15PM ET,boxscore,L,H,10-8,A,Cincinnati Bengals,17.0,24.0,23.0,364.0,209.0,155.0,2.0,18.0,234.0,183.0,51.0,1.0,-1.77,-0.7,-2.72,rav
+0,1,Sun,September 11,1:00PM ET,boxscore,W,OT,1-0,A,Cincinnati Bengals,23.0,20.0,13.0,267.0,192.0,75.0,H,32.0,432.0,299.0,133.0,5.0,-8.41,7.49,4.85,pit
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,1-1,H,New England Patriots,14.0,17.0,16.0,243.0,152.0,91.0,2.0,18.0,376.0,252.0,124.0,1.0,-3.44,-6.14,3.25,pit
+2,3,Thu,September 22,8:15PM ET,boxscore,L,H,1-2,A,Cleveland Browns,17.0,29.0,20.0,308.0,204.0,104.0,1.0,22.0,376.0,205.0,171.0,H,-1.19,-10.79,-0.62,pit
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,1-3,H,New York Jets,20.0,24.0,20.0,297.0,178.0,119.0,4.0,19.0,348.0,250.0,98.0,2.0,-2.55,1.46,-2.91,pit
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,1-4,A,Buffalo Bills,3.0,38.0,23.0,364.0,310.0,54.0,2.0,21.0,552.0,432.0,120.0,2.0,-9.42,-20.66,-3.54,pit
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,2-4,H,Tampa Bay Buccaneers,20.0,18.0,15.0,270.0,193.0,77.0,H,20.0,304.0,229.0,75.0,H,2.61,-0.17,2.77,pit
+6,7,Sun,October 23,8:20PM ET,boxscore,L,H,2-5,A,Miami Dolphins,10.0,16.0,19.0,341.0,246.0,95.0,3.0,17.0,372.0,261.0,111.0,H,-6.72,-0.04,2.49,pit
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,2-6,A,Philadelphia Eagles,13.0,35.0,21.0,302.0,158.0,144.0,2.0,20.0,401.0,290.0,111.0,H,-4.96,-23.31,2.01,pit
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,3-6,H,New Orleans Saints,20.0,10.0,28.0,379.0,162.0,217.0,H,10.0,186.0,157.0,29.0,2.0,13.42,10.6,-11.01,pit
+10,11,Sun,November 20,4:25PM ET,boxscore,L,H,3-7,H,Cincinnati Bengals,30.0,37.0,17.0,351.0,249.0,102.0,H,22.0,408.0,346.0,62.0,2.0,3.17,-9.45,-2.27,pit
+11,12,Mon,November 28,8:15PM ET,boxscore,W,H,4-7,A,Indianapolis Colts,24.0,17.0,22.0,323.0,151.0,172.0,H,19.0,290.0,180.0,110.0,2.0,7.95,3.22,-7.37,pit
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,5-7,A,Atlanta Falcons,19.0,16.0,22.0,351.0,197.0,154.0,H,18.0,306.0,160.0,146.0,1.0,9.6,-0.33,-1.33,pit
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,5-8,H,Baltimore Ravens,14.0,16.0,23.0,329.0,264.0,65.0,3.0,18.0,309.0,94.0,215.0,H,7.51,-1.06,-6.16,pit
+14,15,Sun,December 18,1:00PM ET,boxscore,W,H,6-8,A,Carolina Panthers,24.0,16.0,22.0,325.0,169.0,156.0,H,12.0,209.0,188.0,21.0,H,12.16,-3.72,1.58,pit
+15,16,Sat,December 24,8:15PM ET,boxscore,W,H,7-8,H,Las Vegas Raiders,13.0,10.0,19.0,350.0,244.0,106.0,1.0,13.0,201.0,143.0,58.0,3.0,2.33,9.12,-5.58,pit
+16,17,Sun,January 1,8:20PM ET,boxscore,W,H,8-8,A,Baltimore Ravens,16.0,13.0,22.0,351.0,153.0,198.0,H,15.0,240.0,120.0,120.0,1.0,9.3,0.15,-6.66,pit
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,9-8,H,Cleveland Browns,28.0,14.0,23.0,333.0,189.0,144.0,1.0,18.0,307.0,173.0,134.0,2.0,10.81,-3.47,2.18,pit
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,A,Carolina Panthers,26.0,24.0,23.0,355.0,138.0,217.0,H,15.0,261.0,207.0,54.0,1.0,6.82,-5.38,1.66,cle
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,1-1,H,New York Jets,30.0,31.0,29.0,405.0,221.0,184.0,1.0,20.0,402.0,309.0,93.0,1.0,17.92,-15.19,-5.38,cle
+2,3,Thu,September 22,8:15PM ET,boxscore,W,H,2-1,H,Pittsburgh Steelers,29.0,17.0,22.0,376.0,205.0,171.0,H,20.0,308.0,204.0,104.0,1.0,10.79,1.19,0.62,cle
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,2-2,A,Atlanta Falcons,20.0,23.0,22.0,403.0,226.0,177.0,2.0,19.0,333.0,131.0,202.0,1.0,5.25,-5.92,-1.44,cle
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,2-3,H,Los Angeles Chargers,28.0,30.0,27.0,443.0,230.0,213.0,1.0,26.0,465.0,227.0,238.0,H,16.53,-16.01,-4.92,cle
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,2-4,H,New England Patriots,15.0,38.0,16.0,328.0,258.0,70.0,4.0,20.0,399.0,301.0,98.0,1.0,-12.35,-11.3,0.09,cle
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,2-5,A,Baltimore Ravens,20.0,23.0,18.0,336.0,223.0,113.0,2.0,17.0,254.0,94.0,160.0,1.0,6.61,-1.58,-7.18,cle
+7,8,Mon,October 31,8:15PM ET,boxscore,W,H,3-5,H,Cincinnati Bengals,32.0,13.0,24.0,440.0,268.0,172.0,2.0,15.0,229.0,193.0,36.0,2.0,15.92,3.49,2.71,cle
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,3-6,A,Miami Dolphins,17.0,39.0,20.0,297.0,185.0,112.0,1.0,29.0,491.0,296.0,195.0,H,-1.04,-28.5,4.93,cle
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,3-7,A,Buffalo Bills,23.0,31.0,27.0,396.0,316.0,80.0,1.0,22.0,357.0,186.0,171.0,H,10.86,-6.0,-13.72,cle
+11,12,Sun,November 27,1:00PM ET,boxscore,W,OT,4-7,H,Tampa Bay Buccaneers,23.0,17.0,22.0,367.0,178.0,189.0,1.0,16.0,325.0,229.0,96.0,H,2.41,1.81,1.78,cle
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,5-7,A,Houston Texans,27.0,14.0,14.0,304.0,130.0,174.0,2.0,16.0,283.0,201.0,82.0,4.0,-13.96,23.84,5.52,cle
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,5-8,A,Cincinnati Bengals,10.0,23.0,18.0,344.0,273.0,71.0,1.0,23.0,363.0,227.0,136.0,1.0,-8.32,-7.01,3.29,cle
+14,15,Sat,December 17,4:30PM ET,boxscore,W,H,6-8,H,Baltimore Ravens,13.0,3.0,19.0,283.0,140.0,143.0,H,17.0,324.0,126.0,198.0,2.0,2.64,7.94,0.26,cle
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,6-9,H,New Orleans Saints,10.0,17.0,15.0,249.0,125.0,124.0,1.0,14.0,244.0,92.0,152.0,1.0,-12.78,4.01,2.04,cle
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,7-9,A,Washington Commanders,24.0,10.0,16.0,301.0,155.0,146.0,H,17.0,260.0,124.0,136.0,3.0,7.26,7.5,-0.54,cle
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,7-10,A,Pittsburgh Steelers,14.0,28.0,18.0,307.0,173.0,134.0,2.0,23.0,333.0,189.0,144.0,1.0,3.47,-10.81,-2.18,cle
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,A,Washington Commanders,22.0,28.0,24.0,383.0,260.0,123.0,1.0,26.0,390.0,305.0,85.0,3.0,3.64,-9.54,-0.26,jax
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,1-1,H,Indianapolis Colts,24.0,0.0,21.0,331.0,235.0,96.0,H,9.0,218.0,164.0,54.0,3.0,7.05,20.67,-3.43,jax
+2,3,Sun,September 25,4:05PM ET,boxscore,W,H,2-1,A,Los Angeles Chargers,38.0,10.0,25.0,413.0,262.0,151.0,H,16.0,312.0,286.0,26.0,2.0,18.06,10.35,-2.6,jax
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,2-2,A,Philadelphia Eagles,21.0,29.0,13.0,219.0,148.0,71.0,5.0,25.0,401.0,191.0,210.0,1.0,-11.06,0.18,1.97,jax
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,2-3,H,Houston Texans,6.0,13.0,22.0,422.0,286.0,136.0,2.0,15.0,248.0,132.0,116.0,H,-2.39,2.0,-3.89,jax
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,2-4,A,Indianapolis Colts,27.0,34.0,25.0,379.0,136.0,243.0,1.0,29.0,434.0,389.0,45.0,H,16.47,-21.98,-3.81,jax
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,2-5,H,New York Giants,17.0,23.0,27.0,452.0,310.0,142.0,1.0,27.0,436.0,200.0,236.0,H,14.14,-17.0,2.5,jax
+7,8,Sun,October 30,9:30AM ET,boxscore,L,H,2-6,H,Denver Broncos,17.0,21.0,24.0,305.0,114.0,191.0,2.0,18.0,331.0,230.0,101.0,1.0,-1.81,-4.66,-3.24,jax
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,3-6,H,Las Vegas Raiders,27.0,20.0,22.0,403.0,235.0,168.0,1.0,16.0,321.0,248.0,73.0,1.0,13.11,0.43,-2.69,jax
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,3-7,A,Kansas City Chiefs,17.0,27.0,17.0,315.0,240.0,75.0,H,26.0,486.0,331.0,155.0,3.0,3.86,-23.27,7.32,jax
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,4-7,H,Baltimore Ravens,28.0,27.0,18.0,332.0,294.0,38.0,1.0,24.0,415.0,253.0,162.0,2.0,5.31,-8.53,1.38,jax
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,4-8,A,Detroit Lions,14.0,40.0,14.0,266.0,171.0,95.0,1.0,31.0,437.0,337.0,100.0,H,-3.84,-25.2,-0.8,jax
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,5-8,A,Tennessee Titans,36.0,22.0,22.0,428.0,368.0,60.0,H,22.0,364.0,227.0,137.0,4.0,13.06,3.01,-3.47,jax
+14,15,Sun,December 18,1:00PM ET,boxscore,W,OT,6-8,H,Dallas Cowboys,40.0,34.0,26.0,503.0,311.0,192.0,3.0,24.0,397.0,243.0,154.0,2.0,16.24,-8.92,0.94,jax
+15,16,Thu,December 22,8:15PM ET,boxscore,W,H,7-8,A,New York Jets,19.0,3.0,19.0,365.0,218.0,147.0,1.0,10.0,227.0,161.0,66.0,2.0,3.0,14.15,-5.11,jax
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,8-8,A,Houston Texans,31.0,3.0,20.0,337.0,168.0,169.0,2.0,13.0,277.0,193.0,84.0,1.0,4.68,23.38,-4.1,jax
+17,18,Sat,January 7,8:15PM ET,boxscore,W,H,9-8,H,Tennessee Titans,20.0,16.0,13.0,222.0,203.0,19.0,1.0,19.0,312.0,165.0,147.0,2.0,-4.3,9.68,-1.28,jax
+19,Wild Card,Sat,January 14,8:15PM ET,boxscore,W,H,10-8,H,Los Angeles Chargers,31.0,30.0,24.0,390.0,273.0,117.0,5.0,18.0,320.0,253.0,67.0,H,3.13,-3.29,0.98,jax
+20,Division,Sat,January 21,4:30PM ET,boxscore,L,H,10-9,A,Kansas City Chiefs,20.0,27.0,20.0,349.0,205.0,144.0,2.0,23.0,362.0,218.0,144.0,H,4.86,-13.73,0.1,jax
+0,1,Sun,September 11,4:25PM ET,boxscore,L,H,0-1,H,New York Giants,20.0,21.0,19.0,359.0,266.0,93.0,1.0,19.0,394.0,156.0,238.0,2.0,5.97,-3.72,-2.44,oti
+1,2,Mon,September 19,7:15PM ET,boxscore,L,H,0-2,A,Buffalo Bills,7.0,41.0,12.0,187.0,107.0,80.0,4.0,23.0,414.0,313.0,101.0,H,-18.01,-17.69,-1.55,oti
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,1-2,H,Las Vegas Raiders,24.0,22.0,19.0,361.0,252.0,109.0,1.0,24.0,396.0,300.0,96.0,1.0,9.1,-9.09,4.28,oti
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,2-2,A,Indianapolis Colts,24.0,17.0,19.0,243.0,116.0,127.0,H,21.0,365.0,327.0,38.0,3.0,5.33,-3.36,6.98,oti
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,3-2,A,Washington Commanders,21.0,17.0,15.0,241.0,136.0,105.0,H,17.0,385.0,342.0,43.0,1.0,0.25,-1.03,3.63,oti
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,4-2,H,Indianapolis Colts,19.0,10.0,16.0,254.0,116.0,138.0,1.0,17.0,292.0,227.0,65.0,3.0,-4.47,12.48,2.52,oti
+7,8,Sun,October 30,4:05PM ET,boxscore,W,H,5-2,A,Houston Texans,17.0,10.0,16.0,354.0,40.0,314.0,2.0,10.0,161.0,118.0,43.0,1.0,2.29,14.53,-7.78,oti
+8,9,Sun,November 6,8:20PM ET,boxscore,L,OT,5-3,A,Kansas City Chiefs,17.0,20.0,9.0,229.0,57.0,172.0,H,29.0,499.0,422.0,77.0,1.0,-3.85,-5.59,5.59,oti
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,6-3,H,Denver Broncos,17.0,10.0,14.0,307.0,244.0,63.0,1.0,18.0,313.0,248.0,65.0,1.0,-3.15,5.39,4.06,oti
+10,11,Thu,November 17,8:15PM ET,boxscore,W,H,7-3,A,Green Bay Packers,27.0,17.0,21.0,408.0,320.0,88.0,1.0,15.0,271.0,215.0,56.0,H,15.39,0.61,-2.77,oti
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,7-4,H,Cincinnati Bengals,16.0,20.0,15.0,344.0,281.0,63.0,H,21.0,374.0,266.0,108.0,H,4.57,-5.39,-5.94,oti
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,7-5,A,Philadelphia Eagles,10.0,35.0,11.0,209.0,122.0,87.0,H,26.0,453.0,386.0,67.0,H,-8.95,-25.58,6.75,oti
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,7-6,H,Jacksonville Jaguars,22.0,36.0,22.0,364.0,227.0,137.0,4.0,22.0,428.0,368.0,60.0,H,-3.01,-13.06,3.47,oti
+14,15,Sun,December 18,4:25PM ET,boxscore,L,H,7-7,A,Los Angeles Chargers,14.0,17.0,17.0,284.0,157.0,127.0,1.0,23.0,365.0,291.0,74.0,2.0,-2.21,-1.7,1.72,oti
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,7-8,H,Houston Texans,14.0,19.0,16.0,272.0,88.0,184.0,3.0,15.0,285.0,215.0,70.0,1.0,-10.96,5.71,2.1,oti
+16,17,Thu,December 29,8:15PM ET,boxscore,L,H,7-9,H,Dallas Cowboys,13.0,27.0,17.0,317.0,220.0,97.0,2.0,26.0,361.0,274.0,87.0,3.0,-5.83,-8.93,1.28,oti
+17,18,Sat,January 7,8:15PM ET,boxscore,L,H,7-10,A,Jacksonville Jaguars,16.0,20.0,19.0,312.0,165.0,147.0,2.0,13.0,222.0,203.0,19.0,1.0,-9.68,4.3,1.28,oti
+0,1,Sun,September 11,1:00PM ET,boxscore,T,OT,0-0-1,A,Houston Texans,20.0,20.0,33.0,517.0,340.0,177.0,2.0,20.0,299.0,222.0,77.0,1.0,5.67,2.14,-9.43,clt
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,0-1-1,A,Jacksonville Jaguars,0.0,24.0,9.0,218.0,164.0,54.0,3.0,21.0,331.0,235.0,96.0,H,-20.67,-7.05,3.43,clt
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,1-1-1,H,Kansas City Chiefs,20.0,17.0,19.0,259.0,177.0,82.0,1.0,20.0,315.0,257.0,58.0,2.0,-7.1,-1.78,13.31,clt
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,1-2-1,H,Tennessee Titans,17.0,24.0,21.0,365.0,327.0,38.0,3.0,19.0,243.0,116.0,127.0,H,3.36,-5.33,-6.98,clt
+4,5,Thu,October 6,8:15PM ET,boxscore,W,OT,2-2-1,A,Denver Broncos,12.0,9.0,19.0,306.0,200.0,106.0,2.0,18.0,375.0,250.0,125.0,2.0,-14.91,11.36,7.4,clt
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,3-2-1,H,Jacksonville Jaguars,34.0,27.0,29.0,434.0,389.0,45.0,H,25.0,379.0,136.0,243.0,1.0,21.98,-16.47,3.81,clt
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,3-3-1,A,Tennessee Titans,10.0,19.0,17.0,292.0,227.0,65.0,3.0,16.0,254.0,116.0,138.0,1.0,-12.48,4.47,-2.52,clt
+7,8,Sun,October 30,4:25PM ET,boxscore,L,H,3-4-1,H,Washington Commanders,16.0,17.0,15.0,324.0,189.0,135.0,2.0,20.0,362.0,266.0,96.0,1.0,-0.42,-2.38,2.42,clt
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,3-5-1,A,New England Patriots,3.0,26.0,8.0,121.0,43.0,78.0,1.0,11.0,203.0,133.0,70.0,1.0,-31.93,9.55,1.05,clt
+9,10,Sun,November 13,4:05PM ET,boxscore,W,H,4-5-1,A,Las Vegas Raiders,25.0,20.0,20.0,415.0,208.0,207.0,1.0,18.0,309.0,232.0,77.0,H,10.87,0.17,-8.65,clt
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,4-6-1,H,Philadelphia Eagles,16.0,17.0,14.0,284.0,185.0,99.0,1.0,18.0,314.0,173.0,141.0,2.0,-9.33,3.73,1.97,clt
+11,12,Mon,November 28,8:15PM ET,boxscore,L,H,4-7-1,H,Pittsburgh Steelers,17.0,24.0,19.0,290.0,180.0,110.0,2.0,22.0,323.0,151.0,172.0,H,-3.22,-7.95,7.37,clt
+12,13,Sun,December 4,8:20PM ET,boxscore,L,H,4-8-1,A,Dallas Cowboys,19.0,54.0,18.0,309.0,203.0,106.0,5.0,23.0,385.0,165.0,220.0,1.0,-16.86,-22.27,4.5,clt
+14,15,Sat,December 17,1:00PM ET,boxscore,L,OT,4-9-1,A,Minnesota Vikings,36.0,39.0,20.0,341.0,170.0,171.0,1.0,32.0,518.0,426.0,92.0,3.0,-10.7,-4.19,12.83,clt
+15,16,Mon,December 26,8:15PM ET,boxscore,L,H,4-10-1,H,Los Angeles Chargers,3.0,20.0,10.0,173.0,104.0,69.0,3.0,17.0,314.0,213.0,101.0,2.0,-22.57,2.36,3.6,clt
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,4-11-1,A,New York Giants,10.0,38.0,14.0,252.0,124.0,128.0,1.0,26.0,394.0,177.0,217.0,1.0,-5.92,-17.59,-2.69,clt
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,4-12-1,H,Houston Texans,31.0,32.0,25.0,398.0,202.0,196.0,3.0,18.0,360.0,301.0,59.0,3.0,3.77,0.16,-3.89,clt
+0,1,Sun,September 11,1:00PM ET,boxscore,T,OT,0-0-1,H,Indianapolis Colts,20.0,20.0,20.0,299.0,222.0,77.0,1.0,33.0,517.0,340.0,177.0,2.0,-2.14,-5.67,9.43,htx
+1,2,Sun,September 18,4:25PM ET,boxscore,L,H,0-1-1,A,Denver Broncos,9.0,16.0,15.0,234.0,154.0,80.0,H,20.0,350.0,201.0,149.0,1.0,-12.19,-3.38,5.2,htx
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,0-2-1,A,Chicago Bears,20.0,23.0,17.0,329.0,237.0,92.0,2.0,17.0,363.0,82.0,281.0,2.0,-1.75,-2.69,1.18,htx
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,0-3-1,H,Los Angeles Chargers,24.0,34.0,16.0,346.0,215.0,131.0,2.0,22.0,419.0,338.0,81.0,1.0,2.14,-15.96,4.62,htx
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,1-3-1,A,Jacksonville Jaguars,13.0,6.0,15.0,248.0,132.0,116.0,H,22.0,422.0,286.0,136.0,2.0,-2.0,2.39,3.89,htx
+6,7,Sun,October 23,4:05PM ET,boxscore,L,H,1-4-1,A,Las Vegas Raiders,20.0,38.0,21.0,404.0,296.0,108.0,1.0,25.0,400.0,236.0,164.0,H,5.28,-23.48,1.03,htx
+7,8,Sun,October 30,4:05PM ET,boxscore,L,H,1-5-1,H,Tennessee Titans,10.0,17.0,10.0,161.0,118.0,43.0,1.0,16.0,354.0,40.0,314.0,2.0,-14.53,-2.29,7.78,htx
+8,9,Thu,November 3,8:15PM ET,boxscore,L,H,1-6-1,H,Philadelphia Eagles,17.0,29.0,20.0,303.0,135.0,168.0,2.0,24.0,360.0,217.0,143.0,1.0,1.89,-17.84,2.38,htx
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,1-7-1,A,New York Giants,16.0,24.0,22.0,387.0,286.0,101.0,2.0,19.0,367.0,176.0,191.0,H,0.4,-10.29,0.41,htx
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,1-8-1,H,Washington Commanders,10.0,23.0,11.0,148.0,127.0,21.0,2.0,20.0,344.0,191.0,153.0,H,-15.79,-4.31,2.12,htx
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,1-9-1,A,Miami Dolphins,15.0,30.0,14.0,210.0,174.0,36.0,3.0,25.0,339.0,273.0,66.0,1.0,-22.74,1.9,3.97,htx
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,1-10-1,H,Cleveland Browns,14.0,27.0,16.0,283.0,201.0,82.0,4.0,14.0,304.0,130.0,174.0,2.0,-23.84,13.96,-5.52,htx
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,1-11-1,A,Dallas Cowboys,23.0,27.0,16.0,327.0,213.0,114.0,2.0,21.0,404.0,277.0,127.0,3.0,-8.28,-1.61,6.35,htx
+14,15,Sun,December 18,1:00PM ET,boxscore,L,OT,1-12-1,H,Kansas City Chiefs,24.0,30.0,18.0,219.0,125.0,94.0,1.0,33.0,502.0,313.0,189.0,2.0,2.21,-13.62,6.34,htx
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,2-12-1,A,Tennessee Titans,19.0,14.0,15.0,285.0,215.0,70.0,1.0,16.0,272.0,88.0,184.0,3.0,-5.71,10.96,-2.1,htx
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,2-13-1,H,Jacksonville Jaguars,3.0,31.0,13.0,277.0,193.0,84.0,1.0,20.0,337.0,168.0,169.0,2.0,-23.38,-4.68,4.1,htx
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,3-13-1,A,Indianapolis Colts,32.0,31.0,18.0,360.0,301.0,59.0,3.0,25.0,398.0,202.0,196.0,3.0,-0.16,-3.77,3.89,htx
+0,1,Sun,September 11,4:25PM ET,boxscore,W,H,1-0,A,Arizona Cardinals,44.0,21.0,33.0,488.0,360.0,128.0,1.0,18.0,282.0,179.0,103.0,H,33.41,-2.29,-6.88,kan
+1,2,Thu,September 15,8:15PM ET,boxscore,W,H,2-0,H,Los Angeles Chargers,27.0,24.0,15.0,319.0,226.0,93.0,H,21.0,401.0,326.0,75.0,1.0,5.54,-4.12,3.72,kan
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,2-1,A,Indianapolis Colts,17.0,20.0,20.0,315.0,257.0,58.0,2.0,19.0,259.0,177.0,82.0,1.0,1.78,7.1,-13.31,kan
+3,4,Sun,October 2,8:20PM ET,boxscore,W,H,3-1,A,Tampa Bay Buccaneers,41.0,31.0,27.0,417.0,228.0,189.0,1.0,27.0,376.0,373.0,3.0,2.0,17.12,-14.15,5.33,kan
+4,5,Mon,October 10,8:15PM ET,boxscore,W,H,4-1,H,Las Vegas Raiders,30.0,29.0,29.0,368.0,265.0,103.0,H,18.0,378.0,223.0,155.0,H,14.21,-11.65,0.35,kan
+5,6,Sun,October 16,4:25PM ET,boxscore,L,H,4-2,H,Buffalo Bills,20.0,24.0,23.0,387.0,319.0,68.0,2.0,26.0,443.0,318.0,125.0,1.0,6.45,-11.13,-0.56,kan
+6,7,Sun,October 23,4:25PM ET,boxscore,W,H,5-2,A,San Francisco 49ers,44.0,23.0,24.0,529.0,417.0,112.0,2.0,25.0,444.0,343.0,101.0,3.0,30.58,-3.59,-8.5,kan
+8,9,Sun,November 6,8:20PM ET,boxscore,W,OT,6-2,H,Tennessee Titans,20.0,17.0,29.0,499.0,422.0,77.0,1.0,9.0,229.0,57.0,172.0,H,5.59,3.85,-5.59,kan
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,7-2,H,Jacksonville Jaguars,27.0,17.0,26.0,486.0,331.0,155.0,3.0,17.0,315.0,240.0,75.0,H,23.27,-3.86,-7.32,kan
+10,11,Sun,November 20,8:20PM ET,boxscore,W,H,8-2,A,Los Angeles Chargers,30.0,27.0,23.0,485.0,322.0,163.0,1.0,22.0,365.0,250.0,115.0,2.0,19.64,-8.61,-2.61,kan
+11,12,Sun,November 27,4:25PM ET,boxscore,W,H,9-2,H,Los Angeles Rams,26.0,10.0,29.0,437.0,320.0,117.0,2.0,13.0,198.0,82.0,116.0,2.0,13.96,9.01,-8.76,kan
+12,13,Sun,December 4,4:25PM ET,boxscore,L,H,9-3,A,Cincinnati Bengals,24.0,27.0,20.0,349.0,211.0,138.0,1.0,26.0,431.0,279.0,152.0,H,16.21,-19.79,-1.75,kan
+13,14,Sun,December 11,4:20PM ET,boxscore,W,H,10-3,A,Denver Broncos,34.0,28.0,20.0,431.0,342.0,89.0,3.0,17.0,320.0,214.0,106.0,2.0,7.21,0.63,-0.09,kan
+14,15,Sun,December 18,1:00PM ET,boxscore,W,OT,11-3,A,Houston Texans,30.0,24.0,33.0,502.0,313.0,189.0,2.0,18.0,219.0,125.0,94.0,1.0,13.62,-2.21,-6.34,kan
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,12-3,H,Seattle Seahawks,24.0,10.0,14.0,297.0,220.0,77.0,H,19.0,333.0,200.0,133.0,1.0,3.1,11.64,-2.23,kan
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,13-3,H,Denver Broncos,27.0,24.0,22.0,374.0,328.0,46.0,2.0,21.0,307.0,190.0,117.0,2.0,10.69,2.92,-6.78,kan
+17,18,Sat,January 7,4:30PM ET,boxscore,W,H,14-3,A,Las Vegas Raiders,31.0,13.0,21.0,349.0,181.0,168.0,H,21.0,279.0,180.0,99.0,2.0,16.83,5.67,-1.37,kan
+19,Division,Sat,January 21,4:30PM ET,boxscore,W,H,15-3,H,Jacksonville Jaguars,27.0,20.0,23.0,362.0,218.0,144.0,H,20.0,349.0,205.0,144.0,2.0,13.73,-4.86,-0.1,kan
+20,Conf. Champ.,Sun,January 29,6:30PM ET,boxscore,W,H,16-3,H,Cincinnati Bengals,23.0,20.0,23.0,357.0,315.0,42.0,1.0,18.0,309.0,238.0,71.0,2.0,8.86,-4.06,-3.07,kan
+21,SuperBowl,Sun,February 12,6:30PM ET,boxscore,W,H,17-3,N,Philadelphia Eagles,38.0,35.0,21.0,340.0,182.0,158.0,H,25.0,417.0,302.0,115.0,1.0,19.2,-16.09,0.1,kan
+0,1,Sun,September 11,4:25PM ET,boxscore,W,H,1-0,H,Las Vegas Raiders,24.0,19.0,18.0,355.0,279.0,76.0,H,18.0,320.0,256.0,64.0,3.0,6.3,2.73,-1.95,sdg
+1,2,Thu,September 15,8:15PM ET,boxscore,L,H,1-1,A,Kansas City Chiefs,24.0,27.0,21.0,401.0,326.0,75.0,1.0,15.0,319.0,226.0,93.0,H,4.12,-5.54,-3.72,sdg
+2,3,Sun,September 25,4:05PM ET,boxscore,L,H,1-2,H,Jacksonville Jaguars,10.0,38.0,16.0,312.0,286.0,26.0,2.0,25.0,413.0,262.0,151.0,H,-10.35,-18.06,2.6,sdg
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,2-2,A,Houston Texans,34.0,24.0,22.0,419.0,338.0,81.0,1.0,16.0,346.0,215.0,131.0,2.0,15.96,-2.14,-4.62,sdg
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,3-2,A,Cleveland Browns,30.0,28.0,26.0,465.0,227.0,238.0,H,27.0,443.0,230.0,213.0,1.0,16.01,-16.53,4.92,sdg
+5,6,Mon,October 17,8:15PM ET,boxscore,W,OT,4-2,H,Denver Broncos,19.0,16.0,24.0,297.0,224.0,73.0,1.0,13.0,258.0,160.0,98.0,1.0,-1.03,3.11,0.92,sdg
+6,7,Sun,October 23,4:25PM ET,boxscore,L,H,4-3,H,Seattle Seahawks,23.0,37.0,21.0,329.0,276.0,53.0,2.0,24.0,404.0,191.0,213.0,2.0,-4.6,-12.13,1.1,sdg
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,5-3,A,Atlanta Falcons,20.0,17.0,19.0,336.0,245.0,91.0,2.0,19.0,315.0,114.0,201.0,2.0,5.12,-1.74,-0.66,sdg
+9,10,Sun,November 13,8:20PM ET,boxscore,L,H,5-4,A,San Francisco 49ers,16.0,22.0,12.0,238.0,187.0,51.0,1.0,22.0,387.0,230.0,157.0,1.0,-7.29,-6.2,5.38,sdg
+10,11,Sun,November 20,8:20PM ET,boxscore,L,H,5-5,H,Kansas City Chiefs,27.0,30.0,22.0,365.0,250.0,115.0,2.0,23.0,485.0,322.0,163.0,1.0,8.61,-19.64,2.61,sdg
+11,12,Sun,November 27,4:05PM ET,boxscore,W,H,6-5,A,Arizona Cardinals,25.0,24.0,22.0,311.0,246.0,65.0,H,20.0,366.0,185.0,181.0,2.0,6.53,-7.69,1.25,sdg
+12,13,Sun,December 4,4:25PM ET,boxscore,L,H,6-6,A,Las Vegas Raiders,20.0,27.0,22.0,386.0,314.0,72.0,1.0,21.0,404.0,250.0,154.0,2.0,0.15,-5.34,1.56,sdg
+13,14,Sun,December 11,8:20PM ET,boxscore,W,H,7-6,H,Miami Dolphins,23.0,17.0,24.0,432.0,350.0,82.0,H,14.0,219.0,127.0,92.0,H,9.39,-1.14,-1.98,sdg
+14,15,Sun,December 18,4:25PM ET,boxscore,W,H,8-6,H,Tennessee Titans,17.0,14.0,23.0,365.0,291.0,74.0,2.0,17.0,284.0,157.0,127.0,1.0,1.7,2.21,-1.72,sdg
+15,16,Mon,December 26,8:15PM ET,boxscore,W,H,9-6,A,Indianapolis Colts,20.0,3.0,17.0,314.0,213.0,101.0,2.0,10.0,173.0,104.0,69.0,3.0,-2.36,22.57,-3.6,sdg
+16,17,Sun,January 1,4:25PM ET,boxscore,W,H,10-6,H,Los Angeles Rams,31.0,10.0,22.0,431.0,239.0,192.0,H,12.0,277.0,111.0,166.0,1.0,21.57,0.47,-0.25,sdg
+17,18,Sun,January 8,4:25PM ET,boxscore,L,H,10-7,A,Denver Broncos,28.0,31.0,21.0,352.0,293.0,59.0,2.0,22.0,471.0,266.0,205.0,2.0,2.63,-16.37,8.58,sdg
+19,Wild Card,Sat,January 14,8:15PM ET,boxscore,L,H,10-8,A,Jacksonville Jaguars,30.0,31.0,18.0,320.0,253.0,67.0,H,24.0,390.0,273.0,117.0,5.0,3.29,-3.13,-0.98,sdg
+0,1,Sun,September 11,4:25PM ET,boxscore,L,H,0-1,A,Los Angeles Chargers,19.0,24.0,18.0,320.0,256.0,64.0,3.0,18.0,355.0,279.0,76.0,H,-2.73,-6.3,1.95,rai
+1,2,Sun,September 18,4:25PM ET,boxscore,L,OT,0-2,H,Arizona Cardinals,23.0,29.0,20.0,324.0,244.0,80.0,1.0,28.0,413.0,270.0,143.0,1.0,4.86,-12.0,-1.75,rai
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,0-3,A,Tennessee Titans,22.0,24.0,24.0,396.0,300.0,96.0,1.0,19.0,361.0,252.0,109.0,1.0,9.09,-9.1,-4.28,rai
+3,4,Sun,October 2,4:25PM ET,boxscore,W,H,1-3,H,Denver Broncos,32.0,23.0,25.0,385.0,173.0,212.0,H,12.0,299.0,214.0,85.0,1.0,12.04,6.65,-6.95,rai
+4,5,Mon,October 10,8:15PM ET,boxscore,L,H,1-4,A,Kansas City Chiefs,29.0,30.0,18.0,378.0,223.0,155.0,H,29.0,368.0,265.0,103.0,H,11.65,-14.21,-0.35,rai
+6,7,Sun,October 23,4:05PM ET,boxscore,W,H,2-4,H,Houston Texans,38.0,20.0,25.0,400.0,236.0,164.0,H,21.0,404.0,296.0,108.0,1.0,23.48,-5.28,-1.03,rai
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,2-5,A,New Orleans Saints,0.0,24.0,13.0,183.0,145.0,38.0,1.0,22.0,367.0,231.0,136.0,H,-8.49,-16.76,6.72,rai
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,2-6,A,Jacksonville Jaguars,20.0,27.0,16.0,321.0,248.0,73.0,1.0,22.0,403.0,235.0,168.0,1.0,-0.43,-13.11,2.69,rai
+9,10,Sun,November 13,4:05PM ET,boxscore,L,H,2-7,H,Indianapolis Colts,20.0,25.0,18.0,309.0,232.0,77.0,H,20.0,415.0,208.0,207.0,1.0,-0.17,-10.87,8.65,rai
+10,11,Sun,November 20,4:05PM ET,boxscore,W,OT,3-7,A,Denver Broncos,22.0,16.0,20.0,407.0,298.0,109.0,H,19.0,320.0,226.0,94.0,H,5.95,-4.11,4.44,rai
+11,12,Sun,November 27,4:05PM ET,boxscore,W,OT,4-7,A,Seattle Seahawks,40.0,34.0,27.0,576.0,293.0,283.0,2.0,22.0,372.0,307.0,65.0,2.0,16.24,-6.66,-6.76,rai
+12,13,Sun,December 4,4:25PM ET,boxscore,W,H,5-7,H,Los Angeles Chargers,27.0,20.0,21.0,404.0,250.0,154.0,2.0,22.0,386.0,314.0,72.0,1.0,5.34,-0.15,-1.56,rai
+13,14,Thu,December 8,8:15PM ET,boxscore,L,H,5-8,A,Los Angeles Rams,16.0,17.0,17.0,302.0,137.0,165.0,2.0,20.0,282.0,211.0,71.0,1.0,0.55,-5.59,4.09,rai
+14,15,Sun,December 18,4:05PM ET,boxscore,W,H,6-8,H,New England Patriots,30.0,24.0,18.0,308.0,211.0,97.0,1.0,19.0,318.0,112.0,206.0,1.0,-2.33,7.82,2.58,rai
+15,16,Sat,December 24,8:15PM ET,boxscore,L,H,6-9,A,Pittsburgh Steelers,10.0,13.0,13.0,201.0,143.0,58.0,3.0,19.0,350.0,244.0,106.0,1.0,-9.12,-2.33,5.58,rai
+16,17,Sun,January 1,4:05PM ET,boxscore,L,OT,6-10,H,San Francisco 49ers,34.0,37.0,29.0,500.0,365.0,135.0,2.0,27.0,454.0,284.0,170.0,1.0,13.83,-23.25,6.49,rai
+17,18,Sat,January 7,4:30PM ET,boxscore,L,H,6-11,H,Kansas City Chiefs,13.0,31.0,21.0,279.0,180.0,99.0,2.0,21.0,349.0,181.0,168.0,H,-5.67,-16.83,1.37,rai
+0,1,Mon,September 12,8:20PM ET,boxscore,L,H,0-1,A,Seattle Seahawks,16.0,17.0,20.0,433.0,330.0,103.0,2.0,19.0,253.0,177.0,76.0,1.0,9.94,-4.1,-6.84,den
+1,2,Sun,September 18,4:25PM ET,boxscore,W,H,1-1,H,Houston Texans,16.0,9.0,20.0,350.0,201.0,149.0,1.0,15.0,234.0,154.0,80.0,H,3.38,12.19,-5.2,den
+2,3,Sun,September 25,8:20PM ET,boxscore,W,H,2-1,H,San Francisco 49ers,11.0,10.0,14.0,261.0,160.0,101.0,H,13.0,267.0,179.0,88.0,3.0,-13.59,16.39,1.26,den
+3,4,Sun,October 2,4:25PM ET,boxscore,L,H,2-2,A,Las Vegas Raiders,23.0,32.0,12.0,299.0,214.0,85.0,1.0,25.0,385.0,173.0,212.0,H,-6.65,-12.04,6.95,den
+4,5,Thu,October 6,8:15PM ET,boxscore,L,OT,2-3,H,Indianapolis Colts,9.0,12.0,18.0,375.0,250.0,125.0,2.0,19.0,306.0,200.0,106.0,2.0,-11.36,14.91,-7.4,den
+5,6,Mon,October 17,8:15PM ET,boxscore,L,OT,2-4,A,Los Angeles Chargers,16.0,19.0,13.0,258.0,160.0,98.0,1.0,24.0,297.0,224.0,73.0,1.0,-3.11,1.03,-0.92,den
+6,7,Sun,October 23,4:05PM ET,boxscore,L,H,2-5,H,New York Jets,9.0,16.0,21.0,324.0,219.0,105.0,1.0,10.0,260.0,105.0,155.0,H,-8.53,8.14,-8.12,den
+7,8,Sun,October 30,9:30AM ET,boxscore,W,H,3-5,A,Jacksonville Jaguars,21.0,17.0,18.0,331.0,230.0,101.0,1.0,24.0,305.0,114.0,191.0,2.0,4.66,1.81,3.24,den
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,3-6,A,Tennessee Titans,10.0,17.0,18.0,313.0,248.0,65.0,1.0,14.0,307.0,244.0,63.0,1.0,-5.39,3.15,-4.06,den
+10,11,Sun,November 20,4:05PM ET,boxscore,L,OT,3-7,H,Las Vegas Raiders,16.0,22.0,19.0,320.0,226.0,94.0,H,20.0,407.0,298.0,109.0,H,4.11,-5.95,-4.44,den
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,3-8,A,Carolina Panthers,10.0,23.0,14.0,246.0,125.0,121.0,2.0,19.0,349.0,164.0,185.0,1.0,-9.5,-6.49,1.36,den
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,3-9,A,Baltimore Ravens,9.0,10.0,12.0,272.0,184.0,88.0,H,20.0,285.0,182.0,103.0,2.0,-4.43,2.33,1.45,den
+13,14,Sun,December 11,4:20PM ET,boxscore,L,H,3-10,H,Kansas City Chiefs,28.0,34.0,17.0,320.0,214.0,106.0,2.0,20.0,431.0,342.0,89.0,3.0,-0.63,-7.21,0.09,den
+14,15,Sun,December 18,4:05PM ET,boxscore,W,H,4-10,H,Arizona Cardinals,24.0,15.0,23.0,324.0,156.0,168.0,2.0,13.0,240.0,167.0,73.0,3.0,-0.79,19.01,-6.6,den
+15,16,Sun,December 25,4:30PM ET,boxscore,L,H,4-11,A,Los Angeles Rams,14.0,51.0,18.0,323.0,219.0,104.0,4.0,26.0,388.0,230.0,158.0,H,-13.18,-22.61,-1.14,den
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,4-12,A,Kansas City Chiefs,24.0,27.0,21.0,307.0,190.0,117.0,2.0,22.0,374.0,328.0,46.0,2.0,-2.92,-10.69,6.78,den
+17,18,Sun,January 8,4:25PM ET,boxscore,W,H,5-12,H,Los Angeles Chargers,31.0,28.0,22.0,471.0,266.0,205.0,2.0,21.0,352.0,293.0,59.0,2.0,16.37,-2.63,-8.58,den
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,A,Detroit Lions,38.0,35.0,27.0,455.0,239.0,216.0,H,23.0,386.0,205.0,181.0,1.0,21.15,-15.67,-0.78,phi
+1,2,Mon,September 19,8:30PM ET,boxscore,W,H,2-0,H,Minnesota Vikings,24.0,7.0,25.0,486.0,323.0,163.0,1.0,20.0,264.0,202.0,62.0,3.0,14.26,7.86,-7.37,phi
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,3-0,A,Washington Commanders,24.0,8.0,21.0,400.0,328.0,72.0,H,20.0,240.0,153.0,87.0,1.0,9.65,18.29,-8.92,phi
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,4-0,H,Jacksonville Jaguars,29.0,21.0,25.0,401.0,191.0,210.0,1.0,13.0,219.0,148.0,71.0,5.0,-0.18,11.06,-1.97,phi
+4,5,Sun,October 9,4:25PM ET,boxscore,W,H,5-0,A,Arizona Cardinals,20.0,17.0,24.0,357.0,218.0,139.0,H,23.0,363.0,239.0,124.0,1.0,10.63,-12.33,5.16,phi
+5,6,Sun,October 16,8:20PM ET,boxscore,W,H,6-0,H,Dallas Cowboys,26.0,17.0,22.0,268.0,132.0,136.0,H,21.0,315.0,181.0,134.0,3.0,7.95,0.04,3.76,phi
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,7-0,H,Pittsburgh Steelers,35.0,13.0,20.0,401.0,290.0,111.0,H,21.0,302.0,158.0,144.0,2.0,23.31,4.96,-2.01,phi
+8,9,Thu,November 3,8:15PM ET,boxscore,W,H,8-0,A,Houston Texans,29.0,17.0,24.0,360.0,217.0,143.0,1.0,20.0,303.0,135.0,168.0,2.0,17.84,-1.89,-2.38,phi
+9,10,Mon,November 14,8:15PM ET,boxscore,L,H,8-1,H,Washington Commanders,21.0,32.0,18.0,264.0,170.0,94.0,4.0,25.0,330.0,178.0,152.0,2.0,-1.89,-4.13,-5.98,phi
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,9-1,A,Indianapolis Colts,17.0,16.0,18.0,314.0,173.0,141.0,2.0,14.0,284.0,185.0,99.0,1.0,-3.73,9.33,-1.97,phi
+11,12,Sun,November 27,8:20PM ET,boxscore,W,H,10-1,H,Green Bay Packers,40.0,33.0,29.0,500.0,137.0,363.0,1.0,19.0,342.0,236.0,106.0,2.0,20.82,-11.56,0.51,phi
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,11-1,H,Tennessee Titans,35.0,10.0,26.0,453.0,386.0,67.0,H,11.0,209.0,122.0,87.0,H,25.58,8.95,-6.75,phi
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,12-1,A,New York Giants,48.0,22.0,27.0,437.0,184.0,253.0,H,18.0,304.0,181.0,123.0,1.0,28.9,1.45,-1.98,phi
+14,15,Sun,December 18,1:00PM ET,boxscore,W,H,13-1,A,Chicago Bears,25.0,20.0,20.0,421.0,309.0,112.0,3.0,15.0,248.0,91.0,157.0,1.0,5.25,6.32,-2.12,phi
+15,16,Sat,December 24,4:25PM ET,boxscore,L,H,13-2,A,Dallas Cowboys,34.0,40.0,25.0,442.0,355.0,87.0,4.0,25.0,419.0,304.0,115.0,1.0,7.76,-12.39,-0.74,phi
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,13-3,H,New Orleans Saints,10.0,20.0,11.0,313.0,246.0,67.0,1.0,19.0,313.0,184.0,129.0,1.0,-12.38,2.95,-0.32,phi
+17,18,Sun,January 8,4:25PM ET,boxscore,W,H,14-3,H,New York Giants,22.0,16.0,23.0,342.0,207.0,135.0,1.0,18.0,284.0,155.0,129.0,H,0.69,1.86,4.64,phi
+19,Division,Sat,January 21,8:15PM ET,boxscore,W,H,15-3,H,New York Giants,38.0,7.0,26.0,416.0,148.0,268.0,H,13.0,227.0,109.0,118.0,1.0,23.74,9.27,-4.67,phi
+20,Conf. Champ.,Sun,January 29,3:00PM ET,boxscore,W,H,16-3,H,San Francisco 49ers,31.0,7.0,25.0,269.0,121.0,148.0,H,11.0,164.0,83.0,81.0,3.0,11.52,15.56,-2.56,phi
+21,SuperBowl,Sun,February 12,6:30PM ET,boxscore,L,H,16-4,N,Kansas City Chiefs,35.0,38.0,25.0,417.0,302.0,115.0,1.0,21.0,340.0,182.0,158.0,H,16.09,-19.2,-0.1,phi
+0,1,Sun,September 11,8:20PM ET,boxscore,L,H,0-1,H,Tampa Bay Buccaneers,3.0,19.0,12.0,244.0,173.0,71.0,1.0,18.0,347.0,195.0,152.0,1.0,-19.4,-0.55,2.24,dal
+1,2,Sun,September 18,4:25PM ET,boxscore,W,H,1-1,H,Cincinnati Bengals,20.0,17.0,19.0,337.0,230.0,107.0,1.0,19.0,254.0,165.0,89.0,H,6.08,-0.76,-1.25,dal
+2,3,Mon,September 26,8:15PM ET,boxscore,W,H,2-1,A,New York Giants,23.0,16.0,23.0,391.0,215.0,176.0,H,22.0,336.0,169.0,167.0,1.0,10.78,0.51,-0.01,dal
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,3-1,H,Washington Commanders,25.0,10.0,15.0,279.0,217.0,62.0,H,17.0,297.0,155.0,142.0,2.0,4.19,13.42,-3.3,dal
+4,5,Sun,October 9,4:25PM ET,boxscore,W,H,4-1,A,Los Angeles Rams,22.0,10.0,10.0,239.0,76.0,163.0,H,14.0,323.0,285.0,38.0,3.0,-8.44,11.11,6.98,dal
+5,6,Sun,October 16,8:20PM ET,boxscore,L,H,4-2,A,Philadelphia Eagles,17.0,26.0,21.0,315.0,181.0,134.0,3.0,22.0,268.0,132.0,136.0,H,-0.04,-7.95,-3.76,dal
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,5-2,H,Detroit Lions,24.0,6.0,21.0,330.0,191.0,139.0,1.0,18.0,312.0,195.0,117.0,5.0,4.39,12.68,1.61,dal
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,6-2,H,Chicago Bears,49.0,29.0,24.0,442.0,242.0,200.0,1.0,22.0,371.0,131.0,240.0,1.0,26.47,-1.52,-3.05,dal
+9,10,Sun,November 13,4:25PM ET,boxscore,L,OT,6-3,A,Green Bay Packers,28.0,31.0,24.0,421.0,262.0,159.0,2.0,20.0,415.0,208.0,207.0,2.0,2.81,-17.21,10.13,dal
+10,11,Sun,November 20,4:25PM ET,boxscore,W,H,7-3,A,Minnesota Vikings,40.0,3.0,23.0,458.0,307.0,151.0,H,16.0,183.0,110.0,73.0,1.0,24.31,14.35,-0.94,dal
+11,12,Thu,November 24,4:30PM ET,boxscore,W,H,8-3,H,New York Giants,28.0,20.0,26.0,430.0,261.0,169.0,2.0,21.0,300.0,210.0,90.0,H,16.03,-0.13,-6.25,dal
+12,13,Sun,December 4,8:20PM ET,boxscore,W,H,9-3,H,Indianapolis Colts,54.0,19.0,23.0,385.0,165.0,220.0,1.0,18.0,309.0,203.0,106.0,5.0,22.27,16.86,-4.5,dal
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,10-3,H,Houston Texans,27.0,23.0,21.0,404.0,277.0,127.0,3.0,16.0,327.0,213.0,114.0,2.0,1.61,8.28,-6.35,dal
+14,15,Sun,December 18,1:00PM ET,boxscore,L,OT,10-4,A,Jacksonville Jaguars,34.0,40.0,24.0,397.0,243.0,154.0,2.0,26.0,503.0,311.0,192.0,3.0,8.92,-16.24,-0.94,dal
+15,16,Sat,December 24,4:25PM ET,boxscore,W,H,11-4,H,Philadelphia Eagles,40.0,34.0,25.0,419.0,304.0,115.0,1.0,25.0,442.0,355.0,87.0,4.0,12.39,-7.76,0.74,dal
+16,17,Thu,December 29,8:15PM ET,boxscore,W,H,12-4,A,Tennessee Titans,27.0,13.0,26.0,361.0,274.0,87.0,3.0,17.0,317.0,220.0,97.0,2.0,8.93,5.83,-1.28,dal
+17,18,Sun,January 8,4:25PM ET,boxscore,L,H,12-5,A,Washington Commanders,6.0,26.0,10.0,182.0,118.0,64.0,2.0,16.0,309.0,158.0,151.0,1.0,-28.06,5.2,4.66,dal
+19,Wild Card,Mon,January 16,8:15PM ET,boxscore,W,H,13-5,A,Tampa Bay Buccaneers,31.0,14.0,26.0,425.0,297.0,128.0,H,24.0,386.0,334.0,52.0,1.0,25.18,2.0,-9.31,dal
+20,Division,Sun,January 22,6:30PM ET,boxscore,L,H,13-6,A,San Francisco 49ers,12.0,19.0,15.0,282.0,206.0,76.0,2.0,21.0,312.0,199.0,113.0,1.0,-6.08,-6.35,4.19,dal
+0,1,Sun,September 11,4:25PM ET,boxscore,W,H,1-0,A,Tennessee Titans,21.0,20.0,19.0,394.0,156.0,238.0,2.0,19.0,359.0,266.0,93.0,1.0,3.72,-5.97,2.44,nyg
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,2-0,H,Carolina Panthers,19.0,16.0,18.0,265.0,162.0,103.0,H,18.0,275.0,129.0,146.0,2.0,-6.2,2.09,6.13,nyg
+2,3,Mon,September 26,8:15PM ET,boxscore,L,H,2-1,H,Dallas Cowboys,16.0,23.0,22.0,336.0,169.0,167.0,1.0,23.0,391.0,215.0,176.0,H,-0.51,-10.78,0.01,nyg
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,3-1,H,Chicago Bears,20.0,12.0,21.0,333.0,71.0,262.0,2.0,16.0,304.0,155.0,149.0,3.0,9.33,6.69,-7.79,nyg
+4,5,Sun,October 9,9:30AM ET,boxscore,W,H,4-1,A,Green Bay Packers,27.0,22.0,24.0,338.0,213.0,125.0,H,22.0,301.0,207.0,94.0,H,16.07,-5.67,-4.63,nyg
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,5-1,H,Baltimore Ravens,24.0,20.0,18.0,238.0,155.0,83.0,1.0,23.0,406.0,195.0,211.0,2.0,4.93,-6.0,8.06,nyg
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,6-1,A,Jacksonville Jaguars,23.0,17.0,27.0,436.0,200.0,236.0,H,27.0,452.0,310.0,142.0,1.0,17.0,-14.14,-2.5,nyg
+7,8,Sun,October 30,4:25PM ET,boxscore,L,H,6-2,A,Seattle Seahawks,13.0,27.0,14.0,225.0,147.0,78.0,2.0,19.0,277.0,190.0,87.0,1.0,-10.8,2.79,-8.31,nyg
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,7-2,H,Houston Texans,24.0,16.0,19.0,367.0,176.0,191.0,H,22.0,387.0,286.0,101.0,2.0,10.29,-0.4,-0.41,nyg
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,7-3,H,Detroit Lions,18.0,31.0,25.0,413.0,324.0,89.0,3.0,23.0,325.0,165.0,160.0,H,0.64,-9.36,-7.69,nyg
+11,12,Thu,November 24,4:30PM ET,boxscore,L,H,7-4,A,Dallas Cowboys,20.0,28.0,21.0,300.0,210.0,90.0,H,26.0,430.0,261.0,169.0,2.0,0.13,-16.03,6.25,nyg
+12,13,Sun,December 4,1:00PM ET,boxscore,T,OT,7-4-1,H,Washington Commanders,20.0,20.0,20.0,316.0,182.0,134.0,1.0,25.0,411.0,246.0,165.0,1.0,-2.71,-2.87,5.65,nyg
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,7-5-1,H,Philadelphia Eagles,22.0,48.0,18.0,304.0,181.0,123.0,1.0,27.0,437.0,184.0,253.0,H,-1.45,-28.9,1.98,nyg
+14,15,Sun,December 18,8:15PM ET,boxscore,W,H,8-5-1,A,Washington Commanders,20.0,12.0,19.0,288.0,160.0,128.0,H,20.0,387.0,228.0,159.0,2.0,0.95,3.08,2.25,nyg
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,8-6-1,A,Minnesota Vikings,24.0,27.0,23.0,445.0,319.0,126.0,2.0,23.0,353.0,270.0,83.0,H,6.2,-7.38,-3.12,nyg
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,9-6-1,H,Indianapolis Colts,38.0,10.0,26.0,394.0,177.0,217.0,1.0,14.0,252.0,124.0,128.0,1.0,17.59,5.92,2.69,nyg
+17,18,Sun,January 8,4:25PM ET,boxscore,L,H,9-7-1,A,Philadelphia Eagles,16.0,22.0,18.0,284.0,155.0,129.0,H,23.0,342.0,207.0,135.0,1.0,-1.86,-0.69,-4.64,nyg
+19,Wild Card,Sun,January 15,4:30PM ET,boxscore,W,H,10-7-1,A,Minnesota Vikings,31.0,24.0,28.0,431.0,289.0,142.0,H,21.0,332.0,271.0,61.0,H,24.0,-13.86,-3.74,nyg
+20,Division,Sat,January 21,8:15PM ET,boxscore,L,H,10-8-1,A,Philadelphia Eagles,7.0,38.0,13.0,227.0,109.0,118.0,1.0,26.0,416.0,148.0,268.0,H,-9.27,-23.74,4.67,nyg
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,H,Jacksonville Jaguars,28.0,22.0,26.0,390.0,305.0,85.0,3.0,24.0,383.0,260.0,123.0,1.0,9.54,-3.64,0.26,was
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,1-1,A,Detroit Lions,27.0,36.0,21.0,396.0,308.0,88.0,1.0,17.0,425.0,234.0,191.0,H,5.79,-7.13,-10.29,was
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,1-2,H,Philadelphia Eagles,8.0,24.0,20.0,240.0,153.0,87.0,1.0,21.0,400.0,328.0,72.0,H,-18.29,-9.65,8.92,was
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,1-3,A,Dallas Cowboys,10.0,25.0,17.0,297.0,155.0,142.0,2.0,15.0,279.0,217.0,62.0,H,-13.42,-4.19,3.3,was
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,1-4,H,Tennessee Titans,17.0,21.0,17.0,385.0,342.0,43.0,1.0,15.0,241.0,136.0,105.0,H,1.03,-0.25,-3.63,was
+5,6,Thu,October 13,8:15PM ET,boxscore,W,H,2-4,A,Chicago Bears,12.0,7.0,14.0,214.0,86.0,128.0,H,20.0,391.0,154.0,237.0,2.0,-7.28,2.22,6.24,was
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,3-4,H,Green Bay Packers,23.0,21.0,22.0,364.0,198.0,166.0,1.0,16.0,232.0,194.0,38.0,1.0,0.7,-1.83,0.57,was
+7,8,Sun,October 30,4:25PM ET,boxscore,W,H,4-4,A,Indianapolis Colts,17.0,16.0,20.0,362.0,266.0,96.0,1.0,15.0,324.0,189.0,135.0,2.0,2.38,0.42,-2.42,was
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,4-5,H,Minnesota Vikings,17.0,20.0,18.0,263.0,126.0,137.0,1.0,17.0,301.0,245.0,56.0,1.0,-1.76,2.12,-2.55,was
+9,10,Mon,November 14,8:15PM ET,boxscore,W,H,5-5,A,Philadelphia Eagles,32.0,21.0,25.0,330.0,178.0,152.0,2.0,18.0,264.0,170.0,94.0,4.0,4.13,1.89,5.98,was
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,6-5,A,Houston Texans,23.0,10.0,20.0,344.0,191.0,153.0,H,11.0,148.0,127.0,21.0,2.0,4.31,15.79,-2.12,was
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,7-5,H,Atlanta Falcons,19.0,13.0,20.0,314.0,138.0,176.0,1.0,18.0,332.0,165.0,167.0,1.0,3.96,-1.62,2.06,was
+12,13,Sun,December 4,1:00PM ET,boxscore,T,OT,7-5-1,A,New York Giants,20.0,20.0,25.0,411.0,246.0,165.0,1.0,20.0,316.0,182.0,134.0,1.0,2.87,2.71,-5.65,was
+14,15,Sun,December 18,8:15PM ET,boxscore,L,H,7-6-1,H,New York Giants,12.0,20.0,20.0,387.0,228.0,159.0,2.0,19.0,288.0,160.0,128.0,H,-3.08,-0.95,-2.25,was
+15,16,Sat,December 24,4:05PM ET,boxscore,L,H,7-7-1,A,San Francisco 49ers,20.0,37.0,21.0,349.0,270.0,79.0,2.0,14.0,371.0,218.0,153.0,1.0,-2.45,-9.41,-3.02,was
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,7-8-1,H,Cleveland Browns,10.0,24.0,17.0,260.0,124.0,136.0,3.0,16.0,301.0,155.0,146.0,H,-7.5,-7.26,0.54,was
+17,18,Sun,January 8,4:25PM ET,boxscore,W,H,8-8-1,H,Dallas Cowboys,26.0,6.0,16.0,309.0,158.0,151.0,1.0,10.0,182.0,118.0,64.0,2.0,-5.2,28.06,-4.66,was
+0,1,Sun,September 11,4:25PM ET,boxscore,W,H,1-0,H,Green Bay Packers,23.0,7.0,19.0,395.0,269.0,126.0,H,21.0,338.0,227.0,111.0,2.0,9.99,1.89,1.12,min
+1,2,Mon,September 19,8:30PM ET,boxscore,L,H,1-1,A,Philadelphia Eagles,7.0,24.0,20.0,264.0,202.0,62.0,3.0,25.0,486.0,323.0,163.0,1.0,-7.86,-14.26,7.37,min
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,2-1,H,Detroit Lions,28.0,24.0,30.0,373.0,250.0,123.0,1.0,23.0,416.0,277.0,139.0,1.0,11.58,-8.25,1.93,min
+3,4,Sun,October 2,9:30AM ET,boxscore,W,H,3-1,A,New Orleans Saints,28.0,25.0,23.0,344.0,263.0,81.0,1.0,19.0,338.0,227.0,111.0,2.0,6.41,-7.36,2.69,min
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,4-1,H,Chicago Bears,29.0,22.0,29.0,429.0,312.0,117.0,1.0,14.0,271.0,193.0,78.0,1.0,21.45,-1.82,-9.74,min
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,5-1,A,Miami Dolphins,24.0,16.0,11.0,234.0,156.0,78.0,H,23.0,458.0,385.0,73.0,3.0,-4.43,8.38,4.75,min
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,6-1,H,Arizona Cardinals,34.0,26.0,25.0,381.0,208.0,173.0,1.0,25.0,375.0,297.0,78.0,3.0,10.22,-2.87,3.71,min
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,7-1,A,Washington Commanders,20.0,17.0,17.0,301.0,245.0,56.0,1.0,18.0,263.0,126.0,137.0,1.0,-2.12,1.76,2.55,min
+9,10,Sun,November 13,1:00PM ET,boxscore,W,OT,8-1,A,Buffalo Bills,33.0,30.0,24.0,481.0,334.0,147.0,2.0,29.0,486.0,311.0,175.0,4.0,4.8,-1.45,0.39,min
+10,11,Sun,November 20,4:25PM ET,boxscore,L,H,8-2,H,Dallas Cowboys,3.0,40.0,16.0,183.0,110.0,73.0,1.0,23.0,458.0,307.0,151.0,H,-14.35,-24.31,0.94,min
+11,12,Thu,November 24,8:20PM ET,boxscore,W,H,9-2,H,New England Patriots,33.0,26.0,23.0,358.0,301.0,57.0,1.0,17.0,409.0,364.0,45.0,H,9.14,-11.53,7.59,min
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,10-2,H,New York Jets,27.0,22.0,21.0,287.0,159.0,128.0,H,23.0,486.0,366.0,120.0,2.0,5.08,-1.01,0.01,min
+13,14,Sun,December 11,1:00PM ET,boxscore,L,H,10-3,A,Detroit Lions,23.0,34.0,23.0,416.0,394.0,22.0,2.0,23.0,464.0,330.0,134.0,H,7.96,-19.88,0.55,min
+14,15,Sat,December 17,1:00PM ET,boxscore,W,OT,11-3,H,Indianapolis Colts,39.0,36.0,32.0,518.0,426.0,92.0,3.0,20.0,341.0,170.0,171.0,1.0,4.19,10.7,-12.83,min
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,12-3,H,New York Giants,27.0,24.0,23.0,353.0,270.0,83.0,H,23.0,445.0,319.0,126.0,2.0,7.38,-6.2,3.12,min
+16,17,Sun,January 1,4:25PM ET,boxscore,L,H,12-4,A,Green Bay Packers,17.0,41.0,18.0,346.0,244.0,102.0,4.0,20.0,315.0,152.0,163.0,H,-10.2,-9.54,-4.19,min
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,13-4,A,Chicago Bears,29.0,13.0,28.0,482.0,341.0,141.0,2.0,13.0,259.0,141.0,118.0,2.0,16.54,5.75,-5.65,min
+19,Wild Card,Sun,January 15,4:30PM ET,boxscore,L,H,13-5,H,New York Giants,24.0,31.0,21.0,332.0,271.0,61.0,H,28.0,431.0,289.0,142.0,H,13.86,-24.0,3.74,min
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,H,Philadelphia Eagles,35.0,38.0,23.0,386.0,205.0,181.0,1.0,27.0,455.0,239.0,216.0,H,15.67,-21.15,0.78,det
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,1-1,H,Washington Commanders,36.0,27.0,17.0,425.0,234.0,191.0,H,21.0,396.0,308.0,88.0,1.0,7.13,-5.79,10.29,det
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,1-2,A,Minnesota Vikings,24.0,28.0,23.0,416.0,277.0,139.0,1.0,30.0,373.0,250.0,123.0,1.0,8.25,-11.58,-1.93,det
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,1-3,H,Seattle Seahawks,45.0,48.0,27.0,520.0,375.0,145.0,2.0,27.0,555.0,320.0,235.0,1.0,22.12,-32.93,3.99,det
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,1-4,A,New England Patriots,0.0,29.0,17.0,312.0,211.0,101.0,2.0,22.0,364.0,188.0,176.0,1.0,-22.04,-10.08,3.38,det
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,1-5,A,Dallas Cowboys,6.0,24.0,18.0,312.0,195.0,117.0,5.0,21.0,330.0,191.0,139.0,1.0,-12.68,-4.39,-1.61,det
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,1-6,H,Miami Dolphins,27.0,31.0,22.0,393.0,311.0,82.0,H,27.0,476.0,369.0,107.0,1.0,19.14,-25.47,0.59,det
+8,9,Sun,November 6,1:00PM ET,boxscore,W,H,2-6,H,Green Bay Packers,15.0,9.0,19.0,254.0,137.0,117.0,1.0,19.0,389.0,283.0,106.0,3.0,-1.35,5.25,2.44,det
+9,10,Sun,November 13,1:00PM ET,boxscore,W,H,3-6,A,Chicago Bears,31.0,30.0,25.0,323.0,228.0,95.0,H,19.0,408.0,150.0,258.0,1.0,13.55,-9.38,2.09,det
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,4-6,A,New York Giants,31.0,18.0,23.0,325.0,165.0,160.0,H,25.0,413.0,324.0,89.0,3.0,9.36,-0.64,7.69,det
+11,12,Thu,November 24,12:30PM ET,boxscore,L,H,4-7,H,Buffalo Bills,25.0,28.0,22.0,326.0,230.0,96.0,2.0,28.0,401.0,237.0,164.0,1.0,12.71,-16.07,3.07,det
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,5-7,H,Jacksonville Jaguars,40.0,14.0,31.0,437.0,337.0,100.0,H,14.0,266.0,171.0,95.0,1.0,25.2,3.84,0.8,det
+13,14,Sun,December 11,1:00PM ET,boxscore,W,H,6-7,H,Minnesota Vikings,34.0,23.0,23.0,464.0,330.0,134.0,H,23.0,416.0,394.0,22.0,2.0,19.88,-7.96,-0.55,det
+14,15,Sun,December 18,1:00PM ET,boxscore,W,H,7-7,A,New York Jets,20.0,17.0,17.0,359.0,252.0,107.0,H,18.0,337.0,287.0,50.0,1.0,2.21,-3.71,2.44,det
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,7-8,A,Carolina Panthers,23.0,37.0,22.0,381.0,336.0,45.0,1.0,30.0,570.0,250.0,320.0,H,9.31,-30.2,3.52,det
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,8-8,H,Chicago Bears,41.0,10.0,26.0,504.0,239.0,265.0,H,9.0,230.0,30.0,200.0,2.0,22.92,10.91,-6.73,det
+17,18,Sun,January 8,8:20PM ET,boxscore,W,H,9-8,A,Green Bay Packers,20.0,16.0,21.0,323.0,219.0,104.0,H,17.0,291.0,188.0,103.0,2.0,10.66,-0.31,-1.59,det
+0,1,Sun,September 11,4:25PM ET,boxscore,L,H,0-1,A,Minnesota Vikings,7.0,23.0,21.0,338.0,227.0,111.0,2.0,19.0,395.0,269.0,126.0,H,-1.89,-9.99,-1.12,gnb
+1,2,Sun,September 18,8:20PM ET,boxscore,W,H,1-1,H,Chicago Bears,27.0,10.0,26.0,414.0,211.0,203.0,1.0,11.0,228.0,48.0,180.0,1.0,16.87,4.4,-1.71,gnb
+2,3,Sun,September 25,4:25PM ET,boxscore,W,H,2-1,A,Tampa Bay Buccaneers,14.0,12.0,14.0,315.0,248.0,67.0,2.0,19.0,285.0,251.0,34.0,2.0,-4.08,9.14,-0.3,gnb
+3,4,Sun,October 2,4:25PM ET,boxscore,W,OT,3-1,H,New England Patriots,27.0,24.0,24.0,443.0,244.0,199.0,2.0,17.0,271.0,104.0,167.0,1.0,5.17,2.0,-2.64,gnb
+4,5,Sun,October 9,9:30AM ET,boxscore,L,H,3-2,H,New York Giants,22.0,27.0,22.0,301.0,207.0,94.0,H,24.0,338.0,213.0,125.0,H,5.67,-16.07,4.63,gnb
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,3-3,H,New York Jets,10.0,27.0,15.0,278.0,218.0,60.0,1.0,14.0,278.0,99.0,179.0,H,-16.24,2.59,-4.32,gnb
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,3-4,A,Washington Commanders,21.0,23.0,16.0,232.0,194.0,38.0,1.0,22.0,364.0,198.0,166.0,1.0,1.83,-0.7,-0.57,gnb
+7,8,Sun,October 30,8:20PM ET,boxscore,L,H,3-5,A,Buffalo Bills,17.0,27.0,21.0,398.0,190.0,208.0,1.0,20.0,369.0,216.0,153.0,2.0,5.55,-12.79,-4.01,gnb
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,3-6,A,Detroit Lions,9.0,15.0,19.0,389.0,283.0,106.0,3.0,19.0,254.0,137.0,117.0,1.0,-5.25,1.35,-2.44,gnb
+9,10,Sun,November 13,4:25PM ET,boxscore,W,OT,4-6,H,Dallas Cowboys,31.0,28.0,20.0,415.0,208.0,207.0,2.0,24.0,421.0,262.0,159.0,2.0,17.21,-2.81,-10.13,gnb
+10,11,Thu,November 17,8:15PM ET,boxscore,L,H,4-7,H,Tennessee Titans,17.0,27.0,15.0,271.0,215.0,56.0,H,21.0,408.0,320.0,88.0,1.0,-0.61,-15.39,2.77,gnb
+11,12,Sun,November 27,8:20PM ET,boxscore,L,H,4-8,A,Philadelphia Eagles,33.0,40.0,19.0,342.0,236.0,106.0,2.0,29.0,500.0,137.0,363.0,1.0,11.56,-20.82,-0.51,gnb
+12,13,Sun,December 4,1:00PM ET,boxscore,W,H,5-8,A,Chicago Bears,28.0,19.0,21.0,357.0,182.0,175.0,H,15.0,409.0,254.0,155.0,3.0,13.69,-7.73,-0.33,gnb
+14,15,Mon,December 19,8:15PM ET,boxscore,W,H,6-8,H,Los Angeles Rams,24.0,12.0,27.0,345.0,207.0,138.0,2.0,13.0,156.0,84.0,72.0,1.0,13.03,1.29,0.81,gnb
+15,16,Sun,December 25,1:00PM ET,boxscore,W,H,7-8,A,Miami Dolphins,26.0,20.0,17.0,301.0,222.0,79.0,1.0,15.0,376.0,294.0,82.0,4.0,-3.46,2.13,6.52,gnb
+16,17,Sun,January 1,4:25PM ET,boxscore,W,H,8-8,H,Minnesota Vikings,41.0,17.0,20.0,315.0,152.0,163.0,H,18.0,346.0,244.0,102.0,4.0,9.54,10.2,4.19,gnb
+17,18,Sun,January 8,8:20PM ET,boxscore,L,H,8-9,H,Detroit Lions,16.0,20.0,17.0,291.0,188.0,103.0,2.0,21.0,323.0,219.0,104.0,H,0.31,-10.66,1.59,gnb
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,H,San Francisco 49ers,19.0,10.0,15.0,204.0,105.0,99.0,1.0,17.0,331.0,155.0,176.0,2.0,0.67,11.26,-0.42,chi
+1,2,Sun,September 18,8:20PM ET,boxscore,L,H,1-1,A,Green Bay Packers,10.0,27.0,11.0,228.0,48.0,180.0,1.0,26.0,414.0,211.0,203.0,1.0,-4.4,-16.87,1.71,chi
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,2-1,H,Houston Texans,23.0,20.0,17.0,363.0,82.0,281.0,2.0,17.0,329.0,237.0,92.0,2.0,2.69,1.75,-1.18,chi
+3,4,Sun,October 2,1:00PM ET,boxscore,L,H,2-2,A,New York Giants,12.0,20.0,16.0,304.0,155.0,149.0,3.0,21.0,333.0,71.0,262.0,2.0,-6.69,-9.33,7.79,chi
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,2-3,A,Minnesota Vikings,22.0,29.0,14.0,271.0,193.0,78.0,1.0,29.0,429.0,312.0,117.0,1.0,1.82,-21.45,9.74,chi
+5,6,Thu,October 13,8:15PM ET,boxscore,L,H,2-4,H,Washington Commanders,7.0,12.0,20.0,391.0,154.0,237.0,2.0,14.0,214.0,86.0,128.0,H,-2.22,7.28,-6.24,chi
+6,7,Mon,October 24,8:15PM ET,boxscore,W,H,3-4,A,New England Patriots,33.0,14.0,24.0,390.0,147.0,243.0,1.0,12.0,260.0,190.0,70.0,4.0,8.77,10.97,0.11,chi
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,3-5,A,Dallas Cowboys,29.0,49.0,22.0,371.0,131.0,240.0,1.0,24.0,442.0,242.0,200.0,1.0,1.52,-26.47,3.05,chi
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,3-6,H,Miami Dolphins,32.0,35.0,23.0,368.0,116.0,252.0,H,21.0,379.0,302.0,77.0,H,17.18,-19.83,-2.01,chi
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,3-7,H,Detroit Lions,30.0,31.0,19.0,408.0,150.0,258.0,1.0,25.0,323.0,228.0,95.0,H,9.38,-13.55,-2.09,chi
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,3-8,A,Atlanta Falcons,24.0,27.0,20.0,288.0,128.0,160.0,1.0,18.0,280.0,131.0,149.0,2.0,3.91,-4.06,-5.42,chi
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,3-9,A,New York Jets,10.0,31.0,14.0,292.0,165.0,127.0,1.0,22.0,466.0,308.0,158.0,H,-3.97,-20.96,3.63,chi
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,3-10,H,Green Bay Packers,19.0,28.0,15.0,409.0,254.0,155.0,3.0,21.0,357.0,182.0,175.0,H,7.73,-13.69,0.33,chi
+14,15,Sun,December 18,1:00PM ET,boxscore,L,H,3-11,H,Philadelphia Eagles,20.0,25.0,15.0,248.0,91.0,157.0,1.0,20.0,421.0,309.0,112.0,3.0,-6.32,-5.25,2.12,chi
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,3-12,H,Buffalo Bills,13.0,35.0,11.0,209.0,129.0,80.0,2.0,20.0,426.0,172.0,254.0,3.0,-20.55,-9.47,9.39,chi
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,3-13,A,Detroit Lions,10.0,41.0,9.0,230.0,30.0,200.0,2.0,26.0,504.0,239.0,265.0,H,-10.91,-22.92,6.73,chi
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,3-14,H,Minnesota Vikings,13.0,29.0,13.0,259.0,141.0,118.0,2.0,28.0,482.0,341.0,141.0,2.0,-5.75,-16.54,5.65,chi
+0,1,Sun,September 11,8:20PM ET,boxscore,W,H,1-0,A,Dallas Cowboys,19.0,3.0,18.0,347.0,195.0,152.0,1.0,12.0,244.0,173.0,71.0,1.0,0.55,19.4,-2.24,tam
+1,2,Sun,September 18,1:00PM ET,boxscore,W,H,2-0,A,New Orleans Saints,20.0,10.0,13.0,260.0,188.0,72.0,1.0,18.0,308.0,208.0,100.0,5.0,-9.2,18.41,2.71,tam
+2,3,Sun,September 25,4:25PM ET,boxscore,L,H,2-1,H,Green Bay Packers,12.0,14.0,19.0,285.0,251.0,34.0,2.0,14.0,315.0,248.0,67.0,2.0,-9.14,4.08,0.3,tam
+3,4,Sun,October 2,8:20PM ET,boxscore,L,H,2-2,H,Kansas City Chiefs,31.0,41.0,27.0,376.0,373.0,3.0,2.0,27.0,417.0,228.0,189.0,1.0,14.15,-17.12,-5.33,tam
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,3-2,H,Atlanta Falcons,21.0,15.0,26.0,420.0,351.0,69.0,H,19.0,261.0,110.0,151.0,H,13.3,-3.9,-1.34,tam
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,3-3,A,Pittsburgh Steelers,18.0,20.0,20.0,304.0,229.0,75.0,H,15.0,270.0,193.0,77.0,H,0.17,-2.61,-2.77,tam
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,3-4,A,Carolina Panthers,3.0,21.0,17.0,322.0,276.0,46.0,H,14.0,343.0,170.0,173.0,H,-5.31,-7.39,-3.31,tam
+7,8,Thu,October 27,8:15PM ET,boxscore,L,H,3-5,H,Baltimore Ravens,22.0,27.0,20.0,349.0,305.0,44.0,1.0,27.0,453.0,222.0,231.0,H,8.68,-11.24,-6.73,tam
+8,9,Sun,November 6,4:25PM ET,boxscore,W,H,4-5,H,Los Angeles Rams,16.0,13.0,18.0,323.0,272.0,51.0,H,9.0,206.0,138.0,68.0,H,-8.87,10.99,1.37,tam
+9,10,Sun,November 13,9:30AM ET,boxscore,W,H,5-5,H,Seattle Seahawks,21.0,16.0,26.0,419.0,258.0,161.0,2.0,19.0,283.0,244.0,39.0,1.0,13.2,0.15,-7.78,tam
+11,12,Sun,November 27,1:00PM ET,boxscore,L,OT,5-6,A,Cleveland Browns,17.0,23.0,16.0,325.0,229.0,96.0,H,22.0,367.0,178.0,189.0,1.0,-1.81,-2.41,-1.78,tam
+12,13,Mon,December 5,8:15PM ET,boxscore,W,H,6-6,H,New Orleans Saints,17.0,16.0,25.0,350.0,274.0,76.0,2.0,14.0,298.0,232.0,66.0,H,2.62,0.04,-2.46,tam
+13,14,Sun,December 11,4:25PM ET,boxscore,L,H,6-7,A,San Francisco 49ers,7.0,35.0,18.0,322.0,253.0,69.0,3.0,24.0,404.0,195.0,209.0,1.0,-13.41,-18.39,0.43,tam
+14,15,Sun,December 18,4:25PM ET,boxscore,L,H,6-8,H,Cincinnati Bengals,23.0,34.0,25.0,396.0,304.0,92.0,4.0,20.0,237.0,184.0,53.0,1.0,-1.98,-1.78,-7.2,tam
+15,16,Sun,December 25,8:20PM ET,boxscore,W,OT,7-8,A,Arizona Cardinals,19.0,16.0,21.0,396.0,281.0,115.0,2.0,16.0,325.0,204.0,121.0,3.0,-4.6,13.64,-6.77,tam
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,8-8,H,Carolina Panthers,30.0,24.0,25.0,478.0,411.0,67.0,1.0,22.0,400.0,326.0,74.0,3.0,10.73,-4.36,-6.36,tam
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,8-9,A,Atlanta Falcons,17.0,30.0,12.0,222.0,136.0,86.0,1.0,22.0,382.0,208.0,174.0,1.0,-6.05,-8.84,1.56,tam
+19,Wild Card,Mon,January 16,8:15PM ET,boxscore,L,H,8-10,H,Dallas Cowboys,14.0,31.0,24.0,386.0,334.0,52.0,1.0,26.0,425.0,297.0,128.0,H,-2.0,-25.18,9.31,tam
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,H,Cleveland Browns,24.0,26.0,15.0,261.0,207.0,54.0,1.0,23.0,355.0,138.0,217.0,H,5.38,-6.82,-1.66,car
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,0-2,A,New York Giants,16.0,19.0,18.0,275.0,129.0,146.0,2.0,18.0,265.0,162.0,103.0,H,-2.09,6.2,-6.13,car
+2,3,Sun,September 25,1:00PM ET,boxscore,W,H,1-2,H,New Orleans Saints,22.0,14.0,12.0,293.0,148.0,145.0,H,19.0,426.0,342.0,84.0,3.0,-9.01,4.57,11.38,car
+3,4,Sun,October 2,4:05PM ET,boxscore,L,H,1-3,H,Arizona Cardinals,16.0,26.0,11.0,220.0,180.0,40.0,3.0,20.0,338.0,206.0,132.0,1.0,-19.54,6.14,1.9,car
+4,5,Sun,October 9,4:05PM ET,boxscore,L,H,1-4,H,San Francisco 49ers,15.0,37.0,15.0,308.0,244.0,64.0,1.0,22.0,397.0,244.0,153.0,1.0,-13.22,-16.04,7.82,car
+5,6,Sun,October 16,4:05PM ET,boxscore,L,H,1-5,A,Los Angeles Rams,10.0,24.0,8.0,203.0,110.0,93.0,1.0,22.0,360.0,249.0,111.0,1.0,-11.74,-3.51,2.53,car
+6,7,Sun,October 23,1:00PM ET,boxscore,W,H,2-5,H,Tampa Bay Buccaneers,21.0,3.0,14.0,343.0,170.0,173.0,H,17.0,322.0,276.0,46.0,H,7.39,5.31,3.31,car
+7,8,Sun,October 30,1:00PM ET,boxscore,L,OT,2-6,A,Atlanta Falcons,34.0,37.0,23.0,478.0,309.0,169.0,1.0,21.0,406.0,239.0,167.0,2.0,9.83,-9.4,-1.64,car
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,2-7,A,Cincinnati Bengals,21.0,42.0,13.0,228.0,164.0,64.0,3.0,30.0,464.0,223.0,241.0,H,0.37,-30.2,12.97,car
+9,10,Thu,November 10,8:15PM ET,boxscore,W,H,3-7,H,Atlanta Falcons,25.0,15.0,18.0,333.0,101.0,232.0,H,20.0,291.0,153.0,138.0,1.0,2.11,6.14,0.94,car
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,3-8,A,Baltimore Ravens,3.0,13.0,13.0,205.0,169.0,36.0,3.0,19.0,308.0,193.0,115.0,1.0,-20.39,5.63,3.58,car
+11,12,Sun,November 27,1:00PM ET,boxscore,W,H,4-8,H,Denver Broncos,23.0,10.0,19.0,349.0,164.0,185.0,1.0,14.0,246.0,125.0,121.0,2.0,6.49,9.5,-1.36,car
+13,14,Sun,December 11,4:25PM ET,boxscore,W,H,5-8,A,Seattle Seahawks,30.0,24.0,24.0,328.0,105.0,223.0,H,16.0,287.0,241.0,46.0,2.0,9.49,-1.49,0.23,car
+14,15,Sun,December 18,1:00PM ET,boxscore,L,H,5-9,H,Pittsburgh Steelers,16.0,24.0,12.0,209.0,188.0,21.0,H,22.0,325.0,169.0,156.0,H,3.72,-12.16,-1.58,car
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,6-9,H,Detroit Lions,37.0,23.0,30.0,570.0,250.0,320.0,H,22.0,381.0,336.0,45.0,1.0,30.2,-9.31,-3.52,car
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,6-10,A,Tampa Bay Buccaneers,24.0,30.0,22.0,400.0,326.0,74.0,3.0,25.0,478.0,411.0,67.0,1.0,4.36,-10.73,6.36,car
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,7-10,A,New Orleans Saints,10.0,7.0,14.0,203.0,32.0,171.0,2.0,16.0,304.0,161.0,143.0,1.0,-8.41,4.13,7.85,car
+0,1,Sun,September 11,1:00PM ET,boxscore,W,H,1-0,A,Atlanta Falcons,27.0,26.0,18.0,385.0,234.0,151.0,1.0,26.0,416.0,215.0,201.0,2.0,4.62,-7.5,-0.51,nor
+1,2,Sun,September 18,1:00PM ET,boxscore,L,H,1-1,H,Tampa Bay Buccaneers,10.0,20.0,18.0,308.0,208.0,100.0,5.0,13.0,260.0,188.0,72.0,1.0,-18.41,9.2,-2.71,nor
+2,3,Sun,September 25,1:00PM ET,boxscore,L,H,1-2,A,Carolina Panthers,14.0,22.0,19.0,426.0,342.0,84.0,3.0,12.0,293.0,148.0,145.0,H,-4.57,9.01,-11.38,nor
+3,4,Sun,October 2,9:30AM ET,boxscore,L,H,1-3,H,Minnesota Vikings,25.0,28.0,19.0,338.0,227.0,111.0,2.0,23.0,344.0,263.0,81.0,1.0,7.36,-6.41,-2.69,nor
+4,5,Sun,October 9,1:00PM ET,boxscore,W,H,2-3,H,Seattle Seahawks,39.0,32.0,26.0,438.0,203.0,235.0,2.0,15.0,396.0,245.0,151.0,1.0,15.05,-4.57,-0.32,nor
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,2-4,H,Cincinnati Bengals,26.0,30.0,22.0,399.0,171.0,228.0,H,21.0,348.0,273.0,75.0,1.0,9.06,-17.18,2.4,nor
+6,7,Thu,October 20,8:15PM ET,boxscore,L,H,2-5,A,Arizona Cardinals,34.0,42.0,25.0,494.0,409.0,85.0,3.0,21.0,326.0,189.0,137.0,H,5.93,-13.74,-1.75,nor
+7,8,Sun,October 30,1:00PM ET,boxscore,W,H,3-5,H,Las Vegas Raiders,24.0,0.0,22.0,367.0,231.0,136.0,H,13.0,183.0,145.0,38.0,1.0,16.76,8.49,-6.72,nor
+8,9,Mon,November 7,8:15PM ET,boxscore,L,H,3-6,H,Baltimore Ravens,13.0,27.0,13.0,243.0,195.0,48.0,1.0,23.0,319.0,131.0,188.0,H,-3.99,-11.91,1.6,nor
+9,10,Sun,November 13,1:00PM ET,boxscore,L,H,3-7,A,Pittsburgh Steelers,10.0,20.0,10.0,186.0,157.0,29.0,2.0,28.0,379.0,162.0,217.0,H,-10.6,-13.42,11.01,nor
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,4-7,H,Los Angeles Rams,27.0,20.0,19.0,323.0,235.0,88.0,H,17.0,336.0,188.0,148.0,H,8.99,-3.06,2.98,nor
+11,12,Sun,November 27,4:25PM ET,boxscore,L,H,4-8,A,San Francisco 49ers,0.0,13.0,14.0,260.0,197.0,63.0,2.0,21.0,317.0,221.0,96.0,H,-8.15,-2.05,-2.22,nor
+12,13,Mon,December 5,8:15PM ET,boxscore,L,H,4-9,A,Tampa Bay Buccaneers,16.0,17.0,14.0,298.0,232.0,66.0,H,25.0,350.0,274.0,76.0,2.0,-0.04,-2.62,2.46,nor
+14,15,Sun,December 18,1:00PM ET,boxscore,W,H,5-9,H,Atlanta Falcons,21.0,18.0,17.0,348.0,214.0,134.0,1.0,21.0,320.0,89.0,231.0,1.0,6.38,-8.41,1.86,nor
+15,16,Sat,December 24,1:00PM ET,boxscore,W,H,6-9,A,Cleveland Browns,17.0,10.0,14.0,244.0,92.0,152.0,1.0,15.0,249.0,125.0,124.0,1.0,-4.01,12.78,-2.04,nor
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,7-9,A,Philadelphia Eagles,20.0,10.0,19.0,313.0,184.0,129.0,1.0,11.0,313.0,246.0,67.0,1.0,-2.95,12.38,0.32,nor
+17,18,Sun,January 8,1:00PM ET,boxscore,L,H,7-10,H,Carolina Panthers,7.0,10.0,16.0,304.0,161.0,143.0,1.0,14.0,203.0,32.0,171.0,2.0,-4.13,8.41,-7.85,nor
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,H,New Orleans Saints,26.0,27.0,26.0,416.0,215.0,201.0,2.0,18.0,385.0,234.0,151.0,1.0,7.5,-4.62,0.51,atl
+1,2,Sun,September 18,4:05PM ET,boxscore,L,H,0-2,A,Los Angeles Rams,27.0,31.0,17.0,261.0,171.0,90.0,3.0,24.0,337.0,272.0,65.0,3.0,-3.49,-8.46,8.11,atl
+2,3,Sun,September 25,4:25PM ET,boxscore,W,H,1-2,A,Seattle Seahawks,27.0,23.0,24.0,386.0,207.0,179.0,2.0,23.0,420.0,308.0,112.0,1.0,20.84,-15.09,1.2,atl
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,2-2,H,Cleveland Browns,23.0,20.0,19.0,333.0,131.0,202.0,1.0,22.0,403.0,226.0,177.0,2.0,5.92,-5.25,1.44,atl
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,2-3,A,Tampa Bay Buccaneers,15.0,21.0,19.0,261.0,110.0,151.0,H,26.0,420.0,351.0,69.0,H,3.9,-13.3,1.34,atl
+5,6,Sun,October 16,1:00PM ET,boxscore,W,H,3-3,H,San Francisco 49ers,28.0,14.0,18.0,289.0,121.0,168.0,H,21.0,346.0,296.0,50.0,3.0,11.56,-0.59,-1.69,atl
+6,7,Sun,October 23,1:00PM ET,boxscore,L,H,3-4,A,Cincinnati Bengals,17.0,35.0,13.0,214.0,107.0,107.0,H,29.0,537.0,459.0,78.0,H,3.19,-33.05,6.33,atl
+7,8,Sun,October 30,1:00PM ET,boxscore,W,OT,4-4,H,Carolina Panthers,37.0,34.0,21.0,406.0,239.0,167.0,2.0,23.0,478.0,309.0,169.0,1.0,9.4,-9.83,1.64,atl
+8,9,Sun,November 6,1:00PM ET,boxscore,L,H,4-5,H,Los Angeles Chargers,17.0,20.0,19.0,315.0,114.0,201.0,2.0,19.0,336.0,245.0,91.0,2.0,1.74,-5.12,0.66,atl
+9,10,Thu,November 10,8:15PM ET,boxscore,L,H,4-6,A,Carolina Panthers,15.0,25.0,20.0,291.0,153.0,138.0,1.0,18.0,333.0,101.0,232.0,H,-6.14,-2.11,-0.94,atl
+10,11,Sun,November 20,1:00PM ET,boxscore,W,H,5-6,H,Chicago Bears,27.0,24.0,18.0,280.0,131.0,149.0,2.0,20.0,288.0,128.0,160.0,1.0,4.06,-3.91,5.42,atl
+11,12,Sun,November 27,1:00PM ET,boxscore,L,H,5-7,A,Washington Commanders,13.0,19.0,18.0,332.0,165.0,167.0,1.0,20.0,314.0,138.0,176.0,1.0,1.62,-3.96,-2.06,atl
+12,13,Sun,December 4,1:00PM ET,boxscore,L,H,5-8,H,Pittsburgh Steelers,16.0,19.0,18.0,306.0,160.0,146.0,1.0,22.0,351.0,197.0,154.0,H,0.33,-9.6,1.33,atl
+14,15,Sun,December 18,1:00PM ET,boxscore,L,H,5-9,A,New Orleans Saints,18.0,21.0,21.0,320.0,89.0,231.0,1.0,17.0,348.0,214.0,134.0,1.0,8.41,-6.38,-1.86,atl
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,5-10,A,Baltimore Ravens,9.0,17.0,17.0,327.0,212.0,115.0,1.0,15.0,299.0,115.0,184.0,H,-7.26,-2.18,3.42,atl
+16,17,Sun,January 1,1:00PM ET,boxscore,W,H,6-10,H,Arizona Cardinals,20.0,19.0,20.0,298.0,166.0,132.0,1.0,22.0,339.0,213.0,126.0,H,3.27,-6.1,5.1,atl
+17,18,Sun,January 8,1:00PM ET,boxscore,W,H,7-10,H,Tampa Bay Buccaneers,30.0,17.0,22.0,382.0,208.0,174.0,1.0,12.0,222.0,136.0,86.0,1.0,8.84,6.05,-1.56,atl
+0,1,Sun,September 11,1:00PM ET,boxscore,L,H,0-1,A,Chicago Bears,10.0,19.0,17.0,331.0,155.0,176.0,2.0,15.0,204.0,105.0,99.0,1.0,-11.26,-0.67,0.42,sfo
+1,2,Sun,September 18,4:05PM ET,boxscore,W,H,1-1,H,Seattle Seahawks,27.0,7.0,25.0,373.0,184.0,189.0,H,14.0,216.0,180.0,36.0,3.0,16.39,9.18,-7.67,sfo
+2,3,Sun,September 25,8:20PM ET,boxscore,L,H,1-2,A,Denver Broncos,10.0,11.0,13.0,267.0,179.0,88.0,3.0,14.0,261.0,160.0,101.0,H,-16.39,13.59,-1.26,sfo
+3,4,Mon,October 3,8:15PM ET,boxscore,W,H,2-2,H,Los Angeles Rams,24.0,9.0,13.0,327.0,239.0,88.0,H,21.0,257.0,200.0,57.0,2.0,10.05,11.56,-7.93,sfo
+4,5,Sun,October 9,4:05PM ET,boxscore,W,H,3-2,A,Carolina Panthers,37.0,15.0,22.0,397.0,244.0,153.0,1.0,15.0,308.0,244.0,64.0,1.0,16.04,13.22,-7.82,sfo
+5,6,Sun,October 16,1:00PM ET,boxscore,L,H,3-3,A,Atlanta Falcons,14.0,28.0,21.0,346.0,296.0,50.0,3.0,18.0,289.0,121.0,168.0,H,0.59,-11.56,1.69,sfo
+6,7,Sun,October 23,4:25PM ET,boxscore,L,H,3-4,H,Kansas City Chiefs,23.0,44.0,25.0,444.0,343.0,101.0,3.0,24.0,529.0,417.0,112.0,2.0,3.59,-30.58,8.5,sfo
+7,8,Sun,October 30,4:25PM ET,boxscore,W,H,4-4,A,Los Angeles Rams,31.0,14.0,22.0,368.0,257.0,111.0,H,16.0,223.0,167.0,56.0,H,23.18,-3.37,-2.48,sfo
+9,10,Sun,November 13,8:20PM ET,boxscore,W,H,5-4,H,Los Angeles Chargers,22.0,16.0,22.0,387.0,230.0,157.0,1.0,12.0,238.0,187.0,51.0,1.0,6.2,7.29,-5.38,sfo
+10,11,Mon,November 21,8:15PM ET,boxscore,W,H,6-4,A,Arizona Cardinals,38.0,10.0,21.0,387.0,228.0,159.0,H,19.0,314.0,247.0,67.0,2.0,20.26,9.44,-1.43,sfo
+11,12,Sun,November 27,4:25PM ET,boxscore,W,H,7-4,H,New Orleans Saints,13.0,0.0,21.0,317.0,221.0,96.0,H,14.0,260.0,197.0,63.0,2.0,2.05,8.15,2.22,sfo
+12,13,Sun,December 4,4:05PM ET,boxscore,W,H,8-4,H,Miami Dolphins,33.0,17.0,24.0,351.0,230.0,121.0,1.0,14.0,308.0,275.0,33.0,4.0,1.78,13.36,1.0,sfo
+13,14,Sun,December 11,4:25PM ET,boxscore,W,H,9-4,H,Tampa Bay Buccaneers,35.0,7.0,24.0,404.0,195.0,209.0,1.0,18.0,322.0,253.0,69.0,3.0,18.39,13.41,-0.43,sfo
+14,15,Thu,December 15,8:15PM ET,boxscore,W,H,10-4,A,Seattle Seahawks,21.0,13.0,15.0,381.0,211.0,170.0,H,16.0,277.0,207.0,70.0,1.0,9.75,11.24,-8.96,sfo
+15,16,Sat,December 24,4:05PM ET,boxscore,W,H,11-4,H,Washington Commanders,37.0,20.0,14.0,371.0,218.0,153.0,1.0,21.0,349.0,270.0,79.0,2.0,9.41,2.45,3.02,sfo
+16,17,Sun,January 1,4:05PM ET,boxscore,W,OT,12-4,A,Las Vegas Raiders,37.0,34.0,27.0,454.0,284.0,170.0,1.0,29.0,500.0,365.0,135.0,2.0,23.25,-13.83,-6.49,sfo
+17,18,Sun,January 8,4:25PM ET,boxscore,W,H,13-4,H,Arizona Cardinals,38.0,13.0,21.0,311.0,142.0,169.0,H,11.0,255.0,194.0,61.0,4.0,9.62,15.23,0.8,sfo
+19,Wild Card,Sat,January 14,4:30PM ET,boxscore,W,H,14-4,H,Seattle Seahawks,41.0,23.0,24.0,505.0,324.0,181.0,H,22.0,332.0,228.0,104.0,2.0,27.6,-6.41,-0.62,sfo
+20,Division,Sun,January 22,6:30PM ET,boxscore,W,H,15-4,H,Dallas Cowboys,19.0,12.0,21.0,312.0,199.0,113.0,1.0,15.0,282.0,206.0,76.0,2.0,6.35,6.08,-4.19,sfo
+21,Conf. Champ.,Sun,January 29,3:00PM ET,boxscore,L,H,15-5,A,Philadelphia Eagles,7.0,31.0,11.0,164.0,83.0,81.0,3.0,25.0,269.0,121.0,148.0,H,-15.56,-11.52,2.56,sfo
+0,1,Mon,September 12,8:20PM ET,boxscore,W,H,1-0,H,Denver Broncos,17.0,16.0,19.0,253.0,177.0,76.0,1.0,20.0,433.0,330.0,103.0,2.0,4.1,-9.94,6.84,sea
+1,2,Sun,September 18,4:05PM ET,boxscore,L,H,1-1,A,San Francisco 49ers,7.0,27.0,14.0,216.0,180.0,36.0,3.0,25.0,373.0,184.0,189.0,H,-9.18,-16.39,7.67,sea
+2,3,Sun,September 25,4:25PM ET,boxscore,L,H,1-2,H,Atlanta Falcons,23.0,27.0,23.0,420.0,308.0,112.0,1.0,24.0,386.0,207.0,179.0,2.0,15.09,-20.84,-1.2,sea
+3,4,Sun,October 2,1:00PM ET,boxscore,W,H,2-2,A,Detroit Lions,48.0,45.0,27.0,555.0,320.0,235.0,1.0,27.0,520.0,375.0,145.0,2.0,32.93,-22.12,-3.99,sea
+4,5,Sun,October 9,1:00PM ET,boxscore,L,H,2-3,A,New Orleans Saints,32.0,39.0,15.0,396.0,245.0,151.0,1.0,26.0,438.0,203.0,235.0,2.0,4.57,-15.05,0.32,sea
+5,6,Sun,October 16,4:05PM ET,boxscore,W,H,3-3,H,Arizona Cardinals,19.0,9.0,19.0,296.0,160.0,136.0,1.0,15.0,315.0,171.0,144.0,2.0,-8.22,14.01,5.25,sea
+6,7,Sun,October 23,4:25PM ET,boxscore,W,H,4-3,A,Los Angeles Chargers,37.0,23.0,24.0,404.0,191.0,213.0,2.0,21.0,329.0,276.0,53.0,2.0,12.13,4.6,-1.1,sea
+7,8,Sun,October 30,4:25PM ET,boxscore,W,H,5-3,H,New York Giants,27.0,13.0,19.0,277.0,190.0,87.0,1.0,14.0,225.0,147.0,78.0,2.0,-2.79,10.8,8.31,sea
+8,9,Sun,November 6,4:05PM ET,boxscore,W,H,6-3,A,Arizona Cardinals,31.0,21.0,27.0,421.0,263.0,158.0,1.0,15.0,262.0,140.0,122.0,1.0,10.67,5.02,0.9,sea
+9,10,Sun,November 13,9:30AM ET,boxscore,L,H,6-4,A,Tampa Bay Buccaneers,16.0,21.0,19.0,283.0,244.0,39.0,1.0,26.0,419.0,258.0,161.0,2.0,-0.15,-13.2,7.78,sea
+11,12,Sun,November 27,4:05PM ET,boxscore,L,OT,6-5,H,Las Vegas Raiders,34.0,40.0,22.0,372.0,307.0,65.0,2.0,27.0,576.0,293.0,283.0,2.0,6.66,-16.24,6.76,sea
+12,13,Sun,December 4,4:05PM ET,boxscore,W,H,7-5,A,Los Angeles Rams,27.0,23.0,25.0,438.0,348.0,90.0,2.0,20.0,319.0,148.0,171.0,2.0,12.57,-4.46,-3.11,sea
+13,14,Sun,December 11,4:25PM ET,boxscore,L,H,7-6,H,Carolina Panthers,24.0,30.0,16.0,287.0,241.0,46.0,2.0,24.0,328.0,105.0,223.0,H,1.49,-9.49,-0.23,sea
+14,15,Thu,December 15,8:15PM ET,boxscore,L,H,7-7,H,San Francisco 49ers,13.0,21.0,16.0,277.0,207.0,70.0,1.0,15.0,381.0,211.0,170.0,H,-11.24,-9.75,8.96,sea
+15,16,Sat,December 24,1:00PM ET,boxscore,L,H,7-8,A,Kansas City Chiefs,10.0,24.0,19.0,333.0,200.0,133.0,1.0,14.0,297.0,220.0,77.0,H,-11.64,-3.1,2.23,sea
+16,17,Sun,January 1,4:05PM ET,boxscore,W,H,8-8,H,New York Jets,23.0,6.0,20.0,346.0,148.0,198.0,H,20.0,279.0,204.0,75.0,3.0,3.31,16.78,-4.05,sea
+17,18,Sun,January 8,4:25PM ET,boxscore,W,OT,9-8,H,Los Angeles Rams,19.0,16.0,22.0,402.0,205.0,197.0,2.0,14.0,269.0,123.0,146.0,1.0,-3.11,3.8,2.32,sea
+19,Wild Card,Sat,January 14,4:30PM ET,boxscore,L,H,9-9,A,San Francisco 49ers,23.0,41.0,22.0,332.0,228.0,104.0,2.0,24.0,505.0,324.0,181.0,H,6.41,-27.6,0.62,sea
+0,1,Thu,September 8,8:20PM ET,boxscore,L,H,0-1,H,Buffalo Bills,10.0,31.0,19.0,243.0,191.0,52.0,3.0,23.0,413.0,292.0,121.0,4.0,-10.29,-13.89,3.96,ram
+1,2,Sun,September 18,4:05PM ET,boxscore,W,H,1-1,H,Atlanta Falcons,31.0,27.0,24.0,337.0,272.0,65.0,3.0,17.0,261.0,171.0,90.0,3.0,8.46,3.49,-8.11,ram
+2,3,Sun,September 25,4:25PM ET,boxscore,W,H,2-1,A,Arizona Cardinals,20.0,12.0,15.0,339.0,239.0,100.0,1.0,23.0,365.0,295.0,70.0,H,5.31,-0.8,5.72,ram
+3,4,Mon,October 3,8:15PM ET,boxscore,L,H,2-2,A,San Francisco 49ers,9.0,24.0,21.0,257.0,200.0,57.0,2.0,13.0,327.0,239.0,88.0,H,-11.56,-10.05,7.93,ram
+4,5,Sun,October 9,4:25PM ET,boxscore,L,H,2-3,H,Dallas Cowboys,10.0,22.0,14.0,323.0,285.0,38.0,3.0,10.0,239.0,76.0,163.0,H,-11.11,8.44,-6.98,ram
+5,6,Sun,October 16,4:05PM ET,boxscore,W,H,3-3,H,Carolina Panthers,24.0,10.0,22.0,360.0,249.0,111.0,1.0,8.0,203.0,110.0,93.0,1.0,3.51,11.74,-2.53,ram
+7,8,Sun,October 30,4:25PM ET,boxscore,L,H,3-4,H,San Francisco 49ers,14.0,31.0,16.0,223.0,167.0,56.0,H,22.0,368.0,257.0,111.0,H,3.37,-23.18,2.48,ram
+8,9,Sun,November 6,4:25PM ET,boxscore,L,H,3-5,A,Tampa Bay Buccaneers,13.0,16.0,9.0,206.0,138.0,68.0,H,18.0,323.0,272.0,51.0,H,-10.99,8.87,-1.37,ram
+9,10,Sun,November 13,4:25PM ET,boxscore,L,H,3-6,H,Arizona Cardinals,17.0,27.0,18.0,256.0,190.0,66.0,2.0,18.0,298.0,220.0,78.0,H,-5.36,-5.83,0.48,ram
+10,11,Sun,November 20,1:00PM ET,boxscore,L,H,3-7,A,New Orleans Saints,20.0,27.0,17.0,336.0,188.0,148.0,H,19.0,323.0,235.0,88.0,H,3.06,-8.99,-2.98,ram
+11,12,Sun,November 27,4:25PM ET,boxscore,L,H,3-8,A,Kansas City Chiefs,10.0,26.0,13.0,198.0,82.0,116.0,2.0,29.0,437.0,320.0,117.0,2.0,-9.01,-13.96,8.76,ram
+12,13,Sun,December 4,4:05PM ET,boxscore,L,H,3-9,H,Seattle Seahawks,23.0,27.0,20.0,319.0,148.0,171.0,2.0,25.0,438.0,348.0,90.0,2.0,4.46,-12.57,3.11,ram
+13,14,Thu,December 8,8:15PM ET,boxscore,W,H,4-9,H,Las Vegas Raiders,17.0,16.0,20.0,282.0,211.0,71.0,1.0,17.0,302.0,137.0,165.0,2.0,5.59,-0.55,-4.09,ram
+14,15,Mon,December 19,8:15PM ET,boxscore,L,H,4-10,A,Green Bay Packers,12.0,24.0,13.0,156.0,84.0,72.0,1.0,27.0,345.0,207.0,138.0,2.0,-1.29,-13.03,-0.81,ram
+15,16,Sun,December 25,4:30PM ET,boxscore,W,H,5-10,H,Denver Broncos,51.0,14.0,26.0,388.0,230.0,158.0,H,18.0,323.0,219.0,104.0,4.0,22.61,13.18,1.14,ram
+16,17,Sun,January 1,4:25PM ET,boxscore,L,H,5-11,A,Los Angeles Chargers,10.0,31.0,12.0,277.0,111.0,166.0,1.0,22.0,431.0,239.0,192.0,H,-0.47,-21.57,0.25,ram
+17,18,Sun,January 8,4:25PM ET,boxscore,L,OT,5-12,A,Seattle Seahawks,16.0,19.0,14.0,269.0,123.0,146.0,1.0,22.0,402.0,205.0,197.0,2.0,-3.8,3.11,-2.32,ram
+0,1,Sun,September 11,4:25PM ET,boxscore,L,H,0-1,H,Kansas City Chiefs,21.0,44.0,18.0,282.0,179.0,103.0,H,33.0,488.0,360.0,128.0,1.0,2.29,-33.41,6.88,crd
+1,2,Sun,September 18,4:25PM ET,boxscore,W,OT,1-1,A,Las Vegas Raiders,29.0,23.0,28.0,413.0,270.0,143.0,1.0,20.0,324.0,244.0,80.0,1.0,12.0,-4.86,1.75,crd
+2,3,Sun,September 25,4:25PM ET,boxscore,L,H,1-2,H,Los Angeles Rams,12.0,20.0,23.0,365.0,295.0,70.0,H,15.0,339.0,239.0,100.0,1.0,0.8,-5.31,-5.72,crd
+3,4,Sun,October 2,4:05PM ET,boxscore,W,H,2-2,A,Carolina Panthers,26.0,16.0,20.0,338.0,206.0,132.0,1.0,11.0,220.0,180.0,40.0,3.0,-6.14,19.54,-1.9,crd
+4,5,Sun,October 9,4:25PM ET,boxscore,L,H,2-3,H,Philadelphia Eagles,17.0,20.0,23.0,363.0,239.0,124.0,1.0,24.0,357.0,218.0,139.0,H,12.33,-10.63,-5.16,crd
+5,6,Sun,October 16,4:05PM ET,boxscore,L,H,2-4,A,Seattle Seahawks,9.0,19.0,15.0,315.0,171.0,144.0,2.0,19.0,296.0,160.0,136.0,1.0,-14.01,8.22,-5.25,crd
+6,7,Thu,October 20,8:15PM ET,boxscore,W,H,3-4,H,New Orleans Saints,42.0,34.0,21.0,326.0,189.0,137.0,H,25.0,494.0,409.0,85.0,3.0,13.74,-5.93,1.75,crd
+7,8,Sun,October 30,1:00PM ET,boxscore,L,H,3-5,A,Minnesota Vikings,26.0,34.0,25.0,375.0,297.0,78.0,3.0,25.0,381.0,208.0,173.0,1.0,2.87,-10.22,-3.71,crd
+8,9,Sun,November 6,4:05PM ET,boxscore,L,H,3-6,H,Seattle Seahawks,21.0,31.0,15.0,262.0,140.0,122.0,1.0,27.0,421.0,263.0,158.0,1.0,-5.02,-10.67,-0.9,crd
+9,10,Sun,November 13,4:25PM ET,boxscore,W,H,4-6,A,Los Angeles Rams,27.0,17.0,18.0,298.0,220.0,78.0,H,18.0,256.0,190.0,66.0,2.0,5.83,5.36,-0.48,crd
+10,11,Mon,November 21,8:15PM ET,boxscore,L,H,4-7,H,San Francisco 49ers,10.0,38.0,19.0,314.0,247.0,67.0,2.0,21.0,387.0,228.0,159.0,H,-9.44,-20.26,1.43,crd
+11,12,Sun,November 27,4:05PM ET,boxscore,L,H,4-8,H,Los Angeles Chargers,24.0,25.0,20.0,366.0,185.0,181.0,2.0,22.0,311.0,246.0,65.0,H,7.69,-6.53,-1.25,crd
+13,14,Mon,December 12,8:15PM ET,boxscore,L,H,4-9,H,New England Patriots,13.0,27.0,19.0,323.0,210.0,113.0,2.0,18.0,328.0,225.0,103.0,1.0,-17.43,0.47,0.9,crd
+14,15,Sun,December 18,4:05PM ET,boxscore,L,H,4-10,A,Denver Broncos,15.0,24.0,13.0,240.0,167.0,73.0,3.0,23.0,324.0,156.0,168.0,2.0,-19.01,0.79,6.6,crd
+15,16,Sun,December 25,8:20PM ET,boxscore,L,OT,4-11,H,Tampa Bay Buccaneers,16.0,19.0,16.0,325.0,204.0,121.0,3.0,21.0,396.0,281.0,115.0,2.0,-13.64,4.6,6.77,crd
+16,17,Sun,January 1,1:00PM ET,boxscore,L,H,4-12,A,Atlanta Falcons,19.0,20.0,22.0,339.0,213.0,126.0,H,20.0,298.0,166.0,132.0,1.0,6.1,-3.27,-5.1,crd
+17,18,Sun,January 8,4:25PM ET,boxscore,L,H,4-13,A,San Francisco 49ers,13.0,38.0,11.0,255.0,194.0,61.0,4.0,21.0,311.0,142.0,169.0,H,-15.23,-9.62,-0.8,crd

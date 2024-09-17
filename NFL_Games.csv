@@ -1,0 +1,1139 @@
+,Week,Day,Date,Time,Boxscore,W/L,OT,Rec,Home/Away,Oppon,Tm,Opp,1stDO,TotYdO,PassYO,RushYO,TOO,1stDD,TotYdD,PassYD,RushYD,TOD,Offense,Defense,Sp. Tms,Teams,
+0,1,Mon,2023-09-11,8:15PM ET,boxscore,L,OT,0-1,Away,New York Jets,16,22,19,314,217,97,4,13,289,117,172,1,-4.85,1.19,-2.27,buf
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,1-Jan,Home,Las Vegas Raiders,38,10,29,450,267,183,0,13,240,185,55,3,27.19,4.89,-3.85,buf
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,1-Feb,Away,Washington Commanders,37,3,20,386,218,168,1,15,230,125,105,5,10.16,23.07,-1.39,buf
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,1-Mar,Home,Miami Dolphins,48,20,24,414,310,104,0,20,393,251,142,2,27.56,2.09,-1.37,buf
+4,5,Sun,2023-10-08,9:30AM ET,boxscore,L,NO,2-Mar,Home,Jacksonville Jaguars,20,25,18,388,359,29,2,29,474,278,196,2,6.27,-13.93,-2.21,buf
+5,6,Sun,2023-10-15,8:20PM ET,boxscore,W,NO,2-Apr,Home,New York Giants,14,9,22,297,169,128,2,20,317,185,132,0,2.9,-3.02,-6.7,buf
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,3-Apr,Away,New England Patriots,25,29,24,339,258,81,2,21,364,268,96,1,11.63,-10.65,-5.61,buf
+7,8,Thu,2023-10-26,8:15PM ET,boxscore,W,NO,3-May,Home,Tampa Bay Buccaneers,24,18,25,427,312,115,1,17,302,224,78,0,9.78,-3.38,-1.24,buf
+8,9,Sun,2023-11-05,8:20PM ET,boxscore,L,NO,4-May,Away,Cincinnati Bengals,18,24,21,317,249,68,2,23,397,343,54,0,6.05,-14.35,0.96,buf
+9,10,Mon,2023-11-13,8:15PM ET,boxscore,L,NO,5-May,Home,Denver Broncos,22,24,18,369,177,192,4,19,300,178,122,1,-0.44,4.09,-4.65,buf
+10,11,Sun,2023-11-19,4:25PM ET,boxscore,W,NO,5-Jun,Home,New York Jets,32,6,22,393,263,130,1,14,155,92,63,4,14.64,15.34,1.82,buf
+11,12,Sun,2023-11-26,4:25PM ET,boxscore,L,OT,6-Jun,Away,Philadelphia Eagles,34,37,29,505,332,173,1,24,378,193,185,2,13.85,-7.6,-9.18,buf
+13,14,Sun,2023-12-10,4:25PM ET,boxscore,W,NO,6-Jul,Away,Kansas City Chiefs,20,17,21,327,209,118,1,21,346,264,82,2,1.78,2.22,0.36,buf
+14,15,Sun,2023-12-17,4:25PM ET,boxscore,W,NO,6-Aug,Home,Dallas Cowboys,31,10,28,351,85,266,0,14,195,106,89,1,19.98,3.23,-3.82,buf
+15,16,Sat,2023-12-23,8:00PM ET,boxscore,W,NO,6-Sep,Away,Los Angeles Chargers,24,22,16,335,230,105,3,18,273,175,98,0,7.67,4.02,-9.12,buf
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,6-Oct,Home,New England Patriots,27,21,19,281,154,127,1,16,294,191,103,4,0.15,11.94,-1.73,buf
+17,18,Sun,2024-01-07,8:20PM ET,boxscore,W,NO,6-Nov,Away,Miami Dolphins,21,14,26,473,345,128,3,16,275,167,108,2,12.65,-3.92,3.03,buf
+19,Wild Card,Mon,2024-01-15,4:30PM ET,boxscore,W,NO,6-Dec,Home,Pittsburgh Steelers,31,17,24,368,189,179,0,22,324,218,106,2,16.05,2.33,-7.99,buf
+20,Division,Sun,2024-01-21,6:30PM ET,boxscore,L,NO,7-Dec,Home,Kansas City Chiefs,24,27,27,368,186,182,0,21,361,215,146,1,14.55,-11.85,-4.08,buf
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,W,NO,Jan-00,Away,Los Angeles Chargers,36,34,30,536,466,70,2,30,433,200,233,0,26.53,-18.83,-3.22,mia
+1,2,Sun,2023-09-17,8:20PM ET,boxscore,W,NO,Feb-00,Away,New England Patriots,24,17,22,389,244,145,1,23,288,200,88,2,13.09,0.98,-7.69,mia
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,Mar-00,Home,Denver Broncos,70,20,30,726,376,350,0,16,363,294,69,3,48.65,13.39,-12.38,mia
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,1-Mar,Away,Buffalo Bills,20,48,20,393,251,142,2,24,414,310,104,0,-2.09,-27.56,1.37,mia
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,1-Apr,Home,New York Giants,31,16,22,524,302,222,3,15,268,183,85,0,10.45,6.46,-1.72,mia
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,1-May,Home,Carolina Panthers,42,21,23,424,262,162,1,21,296,188,108,0,14.79,6.44,-0.33,mia
+6,7,Sun,2023-10-22,8:20PM ET,boxscore,L,NO,2-May,Away,Philadelphia Eagles,17,31,12,244,199,45,1,26,355,256,99,2,-7.17,-11.06,2.9,mia
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,2-Jun,Home,New England Patriots,31,17,24,390,312,78,2,13,218,141,77,1,10.64,9.73,-3.59,mia
+8,9,Sun,2023-11-05,9:30AM ET,boxscore,L,NO,3-Jun,Away,Kansas City Chiefs,14,21,20,292,175,117,1,16,267,174,93,1,-9.86,1.1,1,mia
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,3-Jul,Home,Las Vegas Raiders,20,13,21,422,323,99,3,12,296,260,36,3,1.48,15.77,-8.12,mia
+11,12,Fri,2023-11-24,3:00PM ET,boxscore,W,NO,3-Aug,Away,New York Jets,34,13,22,395,228,167,3,12,159,130,29,2,3.64,20.96,-2.09,mia
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,3-Sep,Away,Washington Commanders,45,15,20,406,283,123,0,11,245,107,138,1,25.98,6.88,-0.52,mia
+13,14,Mon,2023-12-11,8:15PM ET,boxscore,L,NO,4-Sep,Home,Tennessee Titans,27,28,20,366,208,158,1,22,403,320,83,3,-0.67,-1.86,0.42,mia
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,NO,4-Oct,Home,New York Jets,30,0,16,290,213,77,0,11,103,80,23,4,4.37,28.99,-5.48,mia
+15,16,Sun,2023-12-24,4:25PM ET,boxscore,W,NO,4-Nov,Home,Dallas Cowboys,22,20,22,375,284,91,0,19,339,242,97,1,6.06,-8.66,4.74,mia
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,5-Nov,Away,Baltimore Ravens,19,56,20,375,221,154,3,24,491,331,160,1,-10.36,-31.09,1.21,mia
+17,18,Sun,2024-01-07,8:20PM ET,boxscore,L,NO,6-Nov,Home,Buffalo Bills,14,21,16,275,167,108,2,26,473,345,128,3,3.92,-12.65,-3.03,mia
+19,Wild Card,Sat,2024-01-13,8:10PM ET,boxscore,L,NO,7-Nov,Away,Kansas City Chiefs,7,26,13,264,188,76,1,25,409,262,147,1,-10.55,-9.58,4.67,mia
+0,1,Mon,2023-09-11,8:15PM ET,boxscore,W,OT,Jan-00,Home,Buffalo Bills,22,16,13,289,117,172,1,19,314,217,97,4,-1.19,4.85,2.27,nyj
+1,2,Sun,2023-09-17,4:25PM ET,boxscore,L,NO,1-Jan,Away,Dallas Cowboys,10,30,12,215,151,64,4,26,382,248,134,0,-14.82,-7.01,2.25,nyj
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,2-Jan,Home,New England Patriots,10,15,12,171,133,38,0,17,358,201,157,0,-15.2,2.13,6.78,nyj
+3,4,Sun,2023-10-01,8:20PM ET,boxscore,L,NO,3-Jan,Home,Kansas City Chiefs,20,23,18,336,228,108,1,24,401,197,204,2,3.25,-10.22,-1.48,nyj
+4,5,Sun,2023-10-08,4:25PM ET,boxscore,W,NO,3-Feb,Away,Denver Broncos,31,21,18,407,173,234,2,18,308,169,139,3,5.79,6.26,2.75,nyj
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,W,NO,3-Mar,Home,Philadelphia Eagles,20,14,17,244,155,89,0,24,348,268,80,4,-7.52,5.91,8.89,nyj
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,OT,3-Apr,Away,New York Giants,13,10,12,251,193,58,2,12,194,-9,203,0,-20.78,20.38,1.41,nyj
+8,9,Mon,2023-11-06,8:15PM ET,boxscore,L,NO,4-Apr,Home,Los Angeles Chargers,6,27,17,270,206,64,3,14,191,107,84,0,-25.2,6.47,-1.49,nyj
+9,10,Sun,2023-11-12,8:20PM ET,boxscore,L,NO,5-Apr,Away,Las Vegas Raiders,12,16,14,365,257,108,1,15,274,126,148,2,-7.21,8.01,-3.38,nyj
+10,11,Sun,2023-11-19,4:25PM ET,boxscore,L,NO,6-Apr,Away,Buffalo Bills,6,32,14,155,92,63,4,22,393,263,130,1,-15.34,-14.64,-1.82,nyj
+11,12,Fri,2023-11-24,3:00PM ET,boxscore,L,NO,7-Apr,Home,Miami Dolphins,13,34,12,159,130,29,2,22,395,228,167,3,-20.96,-3.64,2.09,nyj
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,8-Apr,Home,Atlanta Falcons,8,13,14,259,197,62,3,15,194,104,90,0,-20.36,11.41,1.05,nyj
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,8-May,Home,Houston Texans,30,6,20,347,268,79,1,10,135,54,81,0,2.85,22.37,-3.08,nyj
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,NO,9-May,Away,Miami Dolphins,0,30,11,103,80,23,4,16,290,213,77,0,-28.99,-4.37,5.48,nyj
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,9-Jun,Home,Washington Commanders,30,28,26,381,217,164,2,18,245,143,102,3,-15.58,3.65,8.61,nyj
+16,17,Thu,2023-12-28,8:15PM ET,boxscore,L,NO,10-Jun,Away,Cleveland Browns,20,37,17,360,253,107,2,20,428,301,127,3,-7.73,-3.15,-3.99,nyj
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,W,NO,10-Jul,Away,New England Patriots,17,3,13,254,69,185,1,6,119,31,88,2,-10.78,27.43,-3.32,nyj
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,L,NO,0-1,Home,Philadelphia Eagles,20,25,24,382,306,76,2,17,251,154,97,1,-12.04,10.42,-4.39,nwe
+1,2,Sun,2023-09-17,8:20PM ET,boxscore,L,NO,0-2,Home,Miami Dolphins,17,24,23,288,200,88,2,22,389,244,145,1,-0.98,-13.09,7.69,nwe
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,2-Jan,Away,New York Jets,15,10,17,358,201,157,0,12,171,133,38,0,-2.13,15.2,-6.78,nwe
+3,4,Sun,2023-10-01,4:25PM ET,boxscore,L,NO,3-Jan,Away,Dallas Cowboys,3,38,10,253,200,53,3,22,377,253,124,0,-26.22,-8.01,-0.2,nwe
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,4-Jan,Home,New Orleans Saints,0,34,8,156,111,45,3,17,304,168,136,0,-33.72,1.91,-3.4,nwe
+5,6,Sun,2023-10-15,4:05PM ET,boxscore,L,NO,5-Jan,Away,Las Vegas Raiders,17,21,17,259,176,83,1,19,348,264,84,1,3.68,-2.79,-5.62,nwe
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,5-Feb,Home,Buffalo Bills,29,25,21,364,268,96,1,24,339,258,81,2,10.65,-11.63,5.61,nwe
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,6-Feb,Away,Miami Dolphins,17,31,13,218,141,77,1,24,390,312,78,2,-9.73,-10.64,3.59,nwe
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,7-Feb,Home,Washington Commanders,17,20,18,327,220,107,1,23,432,308,124,2,0.28,-3.37,-1.3,nwe
+9,10,Sun,2023-11-12,9:30AM ET,boxscore,L,NO,8-Feb,Home,Indianapolis Colts,6,10,21,340,173,167,2,14,264,194,70,1,-0.42,-0.31,-0.28,nwe
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,9-Feb,Away,New York Giants,7,10,18,283,136,147,3,10,220,162,58,1,-12.51,12.44,-2.86,nwe
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,10-Feb,Home,Los Angeles Chargers,0,6,13,257,109,148,1,13,241,212,29,0,-13.06,9.06,-4.71,nwe
+13,14,Thu,2023-12-07,8:15PM ET,boxscore,W,NO,10-Mar,Away,Pittsburgh Steelers,21,18,14,303,222,81,1,18,264,182,82,1,-4.53,9.55,-2.96,nwe
+14,15,Mon,2023-12-17,1:00PM ET,boxscore,L,NO,11-Mar,Home,Kansas City Chiefs,17,27,10,206,154,52,1,19,326,283,43,2,-16.05,5.95,0.09,nwe
+15,16,Sun,2023-12-24,8:15PM ET,boxscore,W,NO,11-Apr,Away,Denver Broncos,26,23,12,289,230,59,1,19,276,193,83,2,-1.42,0.12,4.11,nwe
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,12-Apr,Away,Buffalo Bills,21,27,16,294,191,103,4,19,281,154,127,1,-11.94,-0.15,1.73,nwe
+17,18,Sun,2023-01-07,1:00PM ET,boxscore,L,NO,13-Apr,Home,New York Jets,3,17,6,119,31,88,2,13,254,69,185,1,-27.43,10.78,3.32,nwe
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Home,Houston Texans,25,9,18,265,155,110,2,18,268,196,72,1,-0.55,15.24,-0.49,rav
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,Feb-00,Away,Cincinnati Bengals,27,24,26,415,237,178,0,19,282,216,66,1,18.73,-6.95,-6.67,rav
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,OT,1-Feb,Home,Indianapolis Colts,19,22,20,364,178,186,2,19,327,188,139,0,-5.27,13.57,-10.63,rav
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,1-Mar,Away,Cleveland Browns,28,3,16,296,165,131,1,13,166,73,93,3,2.36,25.42,-2.71,rav
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,2-Mar,Away,Pittsburgh Steelers,10,17,19,335,210,125,3,17,289,202,87,1,-16.12,5.08,3.84,rav
+5,6,Sun,2023-10-15,9:30AM ET,boxscore,W,NO,2-Apr,Away,Tennessee Titans,24,16,20,360,221,139,1,17,233,104,129,2,3.16,1.3,4.65,rav
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,2-May,Home,Detroit Lions,38,6,23,503,357,146,1,18,337,253,84,1,26.48,6.4,-3.38,rav
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,W,NO,2-Jun,Away,Arizona Cardinals,31,24,21,268,138,130,0,22,310,181,129,2,9.2,3.72,-1.65,rav
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,2-Jul,Home,Seattle Seahawks,37,3,29,515,217,298,2,6,151,123,28,2,17.08,21.73,-5.23,rav
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,3-Jul,Home,Cleveland Browns,31,33,18,306,200,106,2,24,373,195,178,2,2.49,-6.32,1.1,rav
+10,11,Thu,2023-11-16,8:15PM ET,boxscore,W,NO,3-Aug,Home,Cincinnati Bengals,34,20,22,405,248,157,0,20,272,136,136,0,19.09,-4.61,1.27,rav
+11,12,Sun,2023-11-26,8:20PM ET,boxscore,W,NO,3-Sep,Away,Los Angeles Chargers,20,10,20,361,164,197,0,16,279,193,86,4,1.22,16.16,-5.76,rav
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,OT,3-Oct,Home,Los Angeles Rams,37,31,23,449,310,139,1,24,410,282,128,0,13.48,-7.96,0.55,rav
+14,15,Sun,2023-12-17,8:20PM ET,boxscore,W,NO,3-Nov,Away,Jacksonville Jaguars,23,7,25,396,145,251,1,16,333,258,75,2,8.41,3.03,2.47,rav
+15,16,Mon,2023-12-25,8:15PM ET,boxscore,W,NO,3-Dec,Away,San Francisco 49ers,33,19,23,343,241,102,0,21,429,308,121,5,11.84,4.26,-1.31,rav
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,13-3,Home,Miami Dolphins,56,19,24,491,331,160,1,20,375,221,154,3,31.09,10.36,-1.21,rav
+17,18,Sat,2024-01-06,4:30PM ET,boxscore,L,NO,13-4,Home,Pittsburgh Steelers,10,17,13,224,118,106,2,16,289,134,155,2,-12.05,7.1,-3.24,rav
+19,Division,Sat,2024-01-20,4:30PM ET,boxscore,W,NO,14-4,Home,Houston Texans,34,10,22,352,123,229,0,10,213,175,38,0,15.37,10.33,-2.77,rav
+20,Conf. Champ.,Sun,2024-01-28,3:00PM ET,boxscore,L,NO,14-5,Home,Kansas City Chiefs,10,17,16,336,255,81,3,22,319,230,89,0,-7.2,-4.1,2.43,rav
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Home,Cincinnati Bengals,24,3,21,350,144,206,2,6,142,67,75,0,-6.77,23.57,3.92,cle
+1,2,Mon,2023-09-18,8:15PM ET,boxscore,L,NO,1-Jan,Away,Pittsburgh Steelers,22,26,20,408,210,198,4,9,255,200,55,2,-19.51,16.63,-2.81,cle
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,1-Feb,Home,Tennessee Titans,27,3,23,341,263,78,1,6,94,68,26,0,13.99,13.12,-4.04,cle
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,2-Feb,Home,Baltimore Ravens,3,28,13,166,73,93,3,16,296,165,131,1,-25.42,-2.36,2.71,cle
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,2-Mar,Home,San Francisco 49ers,19,17,18,334,174,160,2,15,215,107,108,1,-11.32,6.05,7.34,cle
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,2-Apr,Away,Indianapolis Colts,39,38,18,316,166,150,2,20,456,288,168,4,-5.3,-1.77,10.23,cle
+7,8,Sun,2023-10-29,4:05PM ET,boxscore,L,NO,3-Apr,Away,Seattle Seahawks,20,24,23,385,230,155,3,17,362,248,114,2,0,-6.04,-2.5,cle
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,3-May,Home,Arizona Cardinals,27,0,17,326,213,113,0,7,58,17,41,3,0.59,35.86,-7.62,cle
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,3-Jun,Away,Baltimore Ravens,33,31,24,373,195,178,2,18,306,200,106,2,6.32,-2.49,-1.1,cle
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,3-Jul,Home,Pittsburgh Steelers,13,10,20,259,163,96,1,12,249,77,172,0,-6.18,6.04,1.74,cle
+11,12,Sun,2023-11-26,4:05PM ET,boxscore,L,NO,4-Jul,Away,Denver Broncos,12,29,19,269,162,107,3,17,294,125,169,1,-14,-3.83,0.36,cle
+12,13,Sun,2023-12-03,4:25PM ET,boxscore,L,NO,5-Jul,Away,Los Angeles Rams,19,36,20,327,240,87,1,20,399,279,120,0,-1.73,-16.49,1.43,cle
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,5-Aug,Home,Jacksonville Jaguars,31,27,16,389,307,82,3,20,293,235,58,4,-8.29,8.51,5.12,cle
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,NO,5-Sep,Home,Chicago Bears,20,17,14,377,348,29,3,12,236,148,88,3,-20.66,20.51,3.15,cle
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,5-Oct,Away,Houston Texans,36,22,26,418,364,54,2,20,250,178,72,2,12.38,9.69,-8.56,cle
+16,17,Thu,2023-12-28,8:15PM ET,boxscore,W,NO,5-Nov,Home,New York Jets,37,20,20,428,301,127,3,17,360,253,107,2,3.15,7.73,3.99,cle
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,L,NO,6-Nov,Away,Cincinnati Bengals,14,31,13,244,140,104,2,22,328,145,183,1,-8.3,-8.81,1.32,cle
+19,Wild Card,Sat,2024-01-13,4:30PM ET,boxscore,L,NO,7-Nov,Away,Houston Texans,14,45,18,324,268,56,2,14,356,280,76,0,-19.5,-15.45,3.91,cle
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Home,San Francisco 49ers,7,30,15,239,198,41,2,22,391,203,188,1,-13.55,-9.73,0.78,pit
+1,2,Mon,2023-09-18,8:15PM ET,boxscore,W,NO,1-Jan,Home,Cleveland Browns,26,22,9,255,200,55,2,20,408,210,198,4,-16.63,19.51,2.81,pit
+2,3,Sun,2023-09-24,8:20PM ET,boxscore,W,NO,1-Feb,Away,Las Vegas Raiders,23,18,17,333,228,105,0,19,362,293,69,3,5.43,3.82,0.12,pit
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,2-Feb,Away,Houston Texans,6,30,12,225,111,114,1,24,451,312,139,0,-8.54,-15.66,2.59,pit
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,2-Mar,Home,Baltimore Ravens,17,10,17,289,202,87,1,19,335,210,125,3,-5.08,16.12,-3.84,pit
+6,7,Sun,2023-10-22,4:05PM ET,boxscore,W,NO,2-Apr,Away,Los Angeles Rams,24,17,17,300,214,86,0,19,354,219,135,1,4.14,-3.06,6.47,pit
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,3-Apr,Home,Jacksonville Jaguars,10,20,17,261,191,70,2,20,377,271,106,3,-3.68,2.59,-2.01,pit
+8,9,Thu,2023-11-02,8:15PM ET,boxscore,W,NO,3-May,Home,Tennessee Titans,20,16,22,326,160,166,0,23,340,235,105,1,10.92,-3.61,-3.77,pit
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,3-Jun,Home,Green Bay Packers,23,19,21,324,119,205,0,17,399,283,116,2,7.06,-8.81,3.18,pit
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,4-Jun,Away,Cleveland Browns,10,13,12,249,77,172,0,20,259,163,96,1,-6.04,6.18,-1.74,pit
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,4-Jul,Away,Cincinnati Bengals,16,10,22,421,268,153,1,10,222,197,25,1,4.32,6.04,-3.05,pit
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,5-Jul,Home,Arizona Cardinals,10,24,18,317,187,130,1,18,282,132,150,0,-2.22,-6.39,-7.39,pit
+13,14,Thu,2023-12-07,8:15PM ET,boxscore,L,NO,6-Jul,Home,New England Patriots,18,21,18,264,182,82,1,14,303,222,81,1,-9.55,4.53,2.96,pit
+14,15,Sun,2023-12-16,4:30PM ET,boxscore,L,NO,7-Jul,Away,Indianapolis Colts,13,30,13,216,142,74,3,19,372,202,170,0,-9.21,-11.18,3.34,pit
+15,16,Sat,2023-12-23,4:30PM ET,boxscore,W,NO,7-Aug,Home,Cincinnati Bengals,34,11,16,397,284,113,0,17,368,309,59,3,15.02,7.25,-1.38,pit
+16,17,Sun,2023-12-31,4:05PM ET,boxscore,W,NO,7-Sep,Away,Seattle Seahawks,30,23,25,468,266,202,0,17,369,281,88,1,20.36,-7.51,-0.67,pit
+17,18,Sat,2024-01-06,4:30PM ET,boxscore,W,NO,7-Oct,Away,Baltimore Ravens,17,10,16,289,134,155,2,13,224,118,106,2,-7.1,12.05,3.24,pit
+19,Wild Card,Mon,2024-01-15,4:30PM ET,boxscore,L,NO,8-Oct,Away,Buffalo Bills,17,31,22,324,218,106,2,24,368,189,179,0,-2.33,-16.05,7.99,pit
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Away,Cleveland Browns,3,24,6,142,67,75,0,21,350,144,206,2,-23.57,6.77,-3.92,cin
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,0-2,Home,Baltimore Ravens,24,27,19,282,216,66,1,26,415,237,178,0,6.95,-18.73,6.67,cin
+2,3,Mon,2023-09-25,8:15PM ET,boxscore,W,NO,2-Jan,Home,Los Angeles Rams,19,16,19,309,242,67,1,15,292,221,71,2,-8,7.34,3.79,cin
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,3-Jan,Away,Tennessee Titans,3,27,14,211,139,72,1,23,400,227,173,1,-9.18,-18.97,1.14,cin
+4,5,Sun,2023-10-08,4:05PM ET,boxscore,W,NO,3-Feb,Away,Arizona Cardinals,34,20,27,380,287,93,1,15,294,152,142,3,4.11,9.49,0.68,cin
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,3-Mar,Home,Seattle Seahawks,17,13,15,214,168,46,1,24,384,297,87,2,-1.37,3.89,1.98,cin
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,W,NO,3-Apr,Away,San Francisco 49ers,31,17,29,400,266,134,1,24,460,347,113,3,18.3,-9.25,-2.48,cin
+8,9,Sun,2023-11-05,8:20PM ET,boxscore,W,NO,3-May,Home,Buffalo Bills,24,18,23,397,343,54,0,21,317,249,68,2,14.35,-6.05,-0.96,cin
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,4-May,Home,Houston Texans,27,30,20,380,314,66,2,28,544,356,188,3,4.94,-13.25,4.46,cin
+10,11,Thu,2023-11-16,8:15PM ET,boxscore,L,NO,5-May,Away,Baltimore Ravens,20,34,20,272,136,136,0,22,405,248,157,0,4.61,-19.09,-1.27,cin
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,6-May,Home,Pittsburgh Steelers,10,16,10,222,197,25,1,22,421,268,153,1,-6.04,-4.32,3.05,cin
+12,13,Mon,2023-12-04,8:15PM ET,boxscore,W,OT,6-Jun,Away,Jacksonville Jaguars,34,31,27,491,335,156,1,23,376,305,71,0,17.41,-13.98,0.31,cin
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,6-Jul,Home,Indianapolis Colts,34,14,19,385,274,111,1,19,272,226,46,2,6.86,4.37,8.34,cin
+14,15,Sun,2023-12-16,1:00PM ET,boxscore,W,OT,6-Aug,Home,Minnesota Vikings,27,24,22,378,298,80,1,24,424,281,143,2,9.29,-8.62,1.35,cin
+15,16,Sat,2023-12-23,4:30PM ET,boxscore,L,NO,7-Aug,Away,Pittsburgh Steelers,11,34,17,368,309,59,3,16,397,284,113,0,-7.25,-15.02,1.38,cin
+16,17,Sun,2023-12-31,4:25PM ET,boxscore,L,NO,8-Aug,Away,Kansas City Chiefs,17,25,20,263,159,104,0,15,373,241,132,1,1.31,-5.05,-3.55,cin
+17,18,Sun,2023-01-07,1:00PM ET,boxscore,W,NO,8-Sep,Home,Cleveland Browns,31,14,22,328,145,183,1,13,244,140,104,2,8.81,8.3,-1.32,cin
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Away,Baltimore Ravens,9,25,18,268,196,72,1,18,265,155,110,2,-15.24,0.55,0.49,htx
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,0-2,Home,Indianapolis Colts,20,31,24,389,337,52,1,19,353,227,126,0,7.88,-14.21,-4.04,htx
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,2-Jan,Away,Jacksonville Jaguars,37,17,15,366,280,86,0,22,404,288,116,2,13.65,-3.88,10.46,htx
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,2-Feb,Home,Pittsburgh Steelers,30,6,24,451,312,139,0,12,225,111,114,1,15.66,8.54,-2.59,htx
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,3-Feb,Away,Atlanta Falcons,19,21,17,313,249,64,0,26,447,351,96,2,2.73,-6.01,1.01,htx
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,3-Mar,Home,New Orleans Saints,20,13,19,297,177,120,1,24,430,341,89,2,8.1,-5.96,3.91,htx
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,4-Mar,Away,Carolina Panthers,13,15,16,229,119,110,1,20,224,180,44,0,-3.6,-0.91,2.13,htx
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,4-Apr,Home,Tampa Bay Buccaneers,39,37,26,496,443,53,1,21,332,251,81,1,16.65,-13.23,-5.81,htx
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,4-May,Away,Cincinnati Bengals,30,27,28,544,356,188,3,20,380,314,66,2,13.25,-4.94,-4.46,htx
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,4-Jun,Home,Arizona Cardinals,21,16,22,419,308,111,3,20,319,196,123,2,4.22,1.11,-0.49,htx
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,5-Jun,Home,Jacksonville Jaguars,21,24,19,352,261,91,0,22,445,364,81,1,8.2,-13.92,-3.64,htx
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,5-Jul,Home,Denver Broncos,22,17,14,353,264,89,0,16,282,164,118,3,-1.15,4.63,0.91,htx
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,6-Jul,Away,New York Jets,6,30,10,135,54,81,0,20,347,268,79,1,-22.37,-2.85,3.08,htx
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,OT,6-Aug,Away,Tennessee Titans,19,16,21,340,192,148,1,14,204,138,66,1,-9,8.62,3.38,htx
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,7-Aug,Home,Cleveland Browns,22,36,20,250,178,72,2,26,418,364,54,2,-9.69,-12.38,8.56,htx
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,7-Sep,Home,Tennessee Titans,26,3,20,312,201,111,0,11,187,134,53,1,3.77,18.77,-1.45,htx
+17,18,Sat,2024-01-06,8:15PM ET,boxscore,W,NO,7-Oct,Away,Indianapolis Colts,23,19,16,306,246,60,0,21,360,133,227,1,5.93,-3.98,-1.85,htx
+19,Wild Card,Sat,2024-01-13,4:30PM ET,boxscore,W,NO,7-Nov,Home,Cleveland Browns,45,14,14,356,280,76,0,18,324,268,56,2,15.45,19.5,-3.91,htx
+20,Division,Sat,2024-01-20,4:30PM ET,boxscore,L,NO,8-Nov,Away,Baltimore Ravens,10,34,10,213,175,38,0,22,352,123,229,0,-10.33,-15.37,2.77,htx
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Away,Indianapolis Colts,31,21,20,342,237,105,2,18,280,215,65,3,-9.8,17.62,2.44,jax
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,1-Jan,Home,Kansas City Chiefs,9,17,18,271,197,74,1,19,399,298,101,3,-10.72,-7.01,6.76,jax
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,2-Jan,Home,Houston Texans,17,37,22,404,288,116,2,15,366,280,86,0,3.88,-13.65,-10.46,jax
+3,4,Sun,2023-10-01,9:30AM ET,boxscore,W,NO,2-Feb,Home,Atlanta Falcons,23,7,16,300,195,105,0,17,287,160,127,3,0.72,15.78,-0.86,jax
+4,5,Sun,2023-10-08,9:30AM ET,boxscore,W,NO,2-Mar,Away,Buffalo Bills,25,20,29,474,278,196,2,18,388,359,29,2,13.93,-6.27,2.21,jax
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,2-Apr,Home,Indianapolis Colts,37,20,17,233,148,85,1,18,354,310,44,4,-0.16,12.21,4.88,jax
+6,7,Thu,2023-10-19,8:15PM ET,boxscore,W,NO,2-May,Away,New Orleans Saints,31,24,18,330,217,113,2,25,407,295,112,1,2.64,4.83,-1.15,jax
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,2-Jun,Away,Pittsburgh Steelers,20,10,20,377,271,106,3,17,261,191,70,2,-2.59,3.68,2.01,jax
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,3-Jun,Home,San Francisco 49ers,3,34,12,221,162,59,4,20,437,293,144,0,-18.16,-15.13,3.53,jax
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,3-Jul,Home,Tennessee Titans,34,14,24,389,261,128,0,12,235,143,92,2,21.06,-3.96,2.84,jax
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,3-Aug,Away,Houston Texans,24,21,22,445,364,81,1,19,352,261,91,0,13.92,-8.2,3.64,jax
+12,13,Mon,2023-12-04,8:15PM ET,boxscore,L,OT,4-Aug,Home,Cincinnati Bengals,31,34,23,376,305,71,0,27,491,335,156,1,13.98,-17.41,-0.31,jax
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,5-Aug,Away,Cleveland Browns,27,31,20,293,235,58,4,16,389,307,82,3,-8.51,8.29,-5.12,jax
+14,15,Sun,2023-12-17,8:20PM ET,boxscore,L,NO,6-Aug,Home,Baltimore Ravens,7,23,16,333,258,75,2,25,396,145,251,1,-3.03,-8.41,-2.47,jax
+15,16,Sun,2023-12-24,4:05PM ET,boxscore,L,NO,7-Aug,Away,Tampa Bay Buccaneers,12,30,23,305,268,37,4,22,335,265,70,0,-9.43,-8.09,-4.78,jax
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,7-Sep,Home,Carolina Panthers,26,0,16,317,162,155,0,7,124,67,57,1,6.77,24.8,-4.36,jax
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,L,NO,8-Sep,Away,Tennessee Titans,20,28,20,362,280,82,2,19,327,152,175,1,-0.86,-7.12,-0.99,jax
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Home,Jacksonville Jaguars,21,31,18,280,215,65,3,20,342,237,105,2,-17.62,9.8,-2.44,clt
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,1-Jan,Away,Houston Texans,31,20,19,353,227,126,0,24,389,337,52,1,14.21,-7.88,4.04,clt
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,OT,1-Feb,Away,Baltimore Ravens,22,19,19,327,188,139,0,20,364,178,186,2,-13.57,5.27,10.63,clt
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,OT,2-Feb,Home,Los Angeles Rams,23,29,19,329,196,133,1,27,467,303,164,1,5.51,-15.52,0.74,clt
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,2-Mar,Home,Tennessee Titans,23,16,21,429,236,193,0,19,348,259,89,1,16.77,-6.32,-0.89,clt
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,3-Mar,Away,Jacksonville Jaguars,20,37,18,354,310,44,4,17,233,148,85,1,-12.21,0.16,-4.88,clt
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,4-Mar,Home,Cleveland Browns,38,39,20,456,288,168,4,18,316,166,150,2,1.77,5.3,-10.23,clt
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,5-Mar,Home,New Orleans Saints,27,38,19,371,207,164,1,24,511,350,161,1,8.38,-23.78,3.03,clt
+8,9,Sun,2023-11-05,4:05PM ET,boxscore,W,NO,5-Apr,Away,Carolina Panthers,27,13,17,198,120,78,1,17,275,137,138,3,-3.93,23.07,-2.92,clt
+9,10,Sun,2023-11-12,9:30AM ET,boxscore,W,NO,5-May,Away,New England Patriots,10,6,14,264,194,70,1,21,340,173,167,2,0.31,0.42,0.28,clt
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,5-Jun,Home,Tampa Bay Buccaneers,27,20,26,394,239,155,1,17,298,173,125,2,10.81,0.3,1.18,clt
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,OT,5-Jul,Away,Tennessee Titans,31,28,19,355,300,55,2,25,381,204,177,2,2.48,-3.29,6.88,clt
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,6-Jul,Away,Cincinnati Bengals,14,34,19,272,226,46,2,19,385,274,111,1,-4.37,-6.86,-8.34,clt
+14,15,Sun,2023-12-16,4:30PM ET,boxscore,W,NO,6-Aug,Home,Pittsburgh Steelers,30,13,19,372,202,170,0,13,216,142,74,3,11.18,9.21,-3.34,clt
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,7-Aug,Away,Atlanta Falcons,10,29,20,262,170,92,1,23,406,229,177,0,-4.99,-13.44,1.88,clt
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,7-Sep,Home,Las Vegas Raiders,23,20,16,349,215,134,0,26,370,286,84,0,11.41,-8.69,1.73,clt
+17,18,Sat,2024-01-06,8:15PM ET,boxscore,L,NO,8-Sep,Home,Houston Texans,19,23,21,360,133,227,1,16,306,246,60,0,3.98,-5.93,1.85,clt
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Away,New Orleans Saints,15,16,16,285,181,104,3,15,351,282,69,2,-8.64,-0.83,4.03,oti
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,OT,1-Jan,Home,Los Angeles Chargers,27,24,22,341,200,141,0,19,342,281,61,0,9.86,-6.8,-0.06,oti
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,2-Jan,Away,Cleveland Browns,3,27,6,94,68,26,0,23,341,263,78,1,-13.12,-13.99,4.04,oti
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,2-Feb,Home,Cincinnati Bengals,27,3,23,400,227,173,1,14,211,139,72,1,18.97,9.18,-1.14,oti
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,3-Feb,Away,Indianapolis Colts,16,23,19,348,259,89,1,21,429,236,193,0,6.32,-16.77,0.89,oti
+5,6,Sun,2023-10-15,9:30AM ET,boxscore,L,NO,4-Feb,Home,Baltimore Ravens,16,24,17,233,104,129,2,20,360,221,139,1,-1.3,-3.16,-4.65,oti
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,4-Mar,Home,Atlanta Falcons,28,23,17,375,226,149,1,17,342,202,140,1,4.14,3.34,0.17,oti
+8,9,Thu,2023-11-02,8:15PM ET,boxscore,L,NO,5-Mar,Away,Pittsburgh Steelers,16,20,23,340,235,105,1,22,326,160,166,0,3.61,-10.92,3.77,oti
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,6-Mar,Away,Tampa Bay Buccaneers,6,20,14,209,167,42,1,19,340,263,77,1,-14.75,-7.05,4.53,oti
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,7-Mar,Away,Jacksonville Jaguars,14,34,12,235,143,92,2,24,389,261,128,0,3.96,-21.06,-2.84,oti
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,7-Apr,Home,Carolina Panthers,17,10,15,264,184,80,0,19,258,162,96,1,0.52,7.57,0.58,oti
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,OT,8-Apr,Home,Indianapolis Colts,28,31,25,381,204,177,2,19,355,300,55,2,3.29,-2.48,-6.88,oti
+13,14,Mon,2023-12-11,8:15PM ET,boxscore,W,NO,8-May,Away,Miami Dolphins,28,27,22,403,320,83,3,20,366,208,158,1,1.86,0.67,-0.42,oti
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,OT,9-May,Home,Houston Texans,16,19,14,204,138,66,1,21,340,192,148,1,-8.62,9,-3.38,oti
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,10-May,Home,Seattle Seahawks,17,20,23,287,125,162,0,21,273,215,58,0,9.37,-13.04,-0.67,oti
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,11-May,Away,Houston Texans,3,26,11,187,134,53,1,20,312,201,111,0,-18.77,-3.77,1.45,oti
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,W,NO,11-Jun,Home,Jacksonville Jaguars,28,20,19,327,152,175,1,20,362,280,82,2,7.12,0.86,0.99,oti
+0,1,Thu,2023-09-07,8:20PM ET,boxscore,L,NO,0-1,Home,Detroit Lions,20,21,17,316,226,90,1,19,368,250,118,1,-4.17,-2.6,2.11,kan
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,1-Jan,Away,Jacksonville Jaguars,17,9,19,399,298,101,3,18,271,197,74,1,7.01,10.72,-6.76,kan
+2,3,Sun,2023-09-24,4:25PM ET,boxscore,W,NO,1-Feb,Home,Chicago Bears,41,10,31,456,303,153,2,11,203,87,116,2,20.09,13.6,-1.47,kan
+3,4,Sun,2023-10-01,8:20PM ET,boxscore,W,NO,1-Mar,Away,New York Jets,23,20,24,401,197,204,2,18,336,228,108,1,10.22,-3.25,1.48,kan
+4,5,Sun,2023-10-08,4:25PM ET,boxscore,W,NO,1-Apr,Away,Minnesota Vikings,27,20,21,333,266,67,0,24,329,259,70,1,15.55,-10.22,0.17,kan
+5,6,Thu,2023-10-12,8:15PM ET,boxscore,W,NO,1-May,Home,Denver Broncos,19,8,22,389,293,96,1,14,197,82,115,3,1.99,13.65,-1.97,kan
+6,7,Sun,2023-10-22,4:25PM ET,boxscore,W,NO,1-Jun,Home,Los Angeles Chargers,31,17,25,483,415,68,2,16,358,219,139,2,19.19,-3.03,-2.58,kan
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,L,NO,2-Jun,Away,Denver Broncos,9,24,18,274,212,62,5,19,240,87,153,1,-11.85,1.52,-4.12,kan
+8,9,Sun,2023-11-05,9:30AM ET,boxscore,W,NO,2-Jul,Home,Miami Dolphins,21,14,16,267,174,93,1,20,292,175,117,1,-1.1,9.86,-1,kan
+10,11,Mon,2023-11-20,8:15PM ET,boxscore,L,NO,3-Jul,Home,Philadelphia Eagles,17,21,23,336,168,168,2,16,238,124,114,1,-3.4,2.22,-3.61,kan
+11,12,Sun,2023-11-26,4:25PM ET,boxscore,W,NO,3-Aug,Away,Las Vegas Raiders,31,17,23,360,291,69,0,16,358,235,123,0,14,-6.49,5.9,kan
+12,13,Sun,2023-12-03,8:20PM ET,boxscore,L,NO,4-Aug,Away,Green Bay Packers,19,27,25,337,189,148,1,24,382,253,129,0,9.54,-19.21,0.96,kan
+13,14,Sun,2023-12-10,4:25PM ET,boxscore,L,NO,5-Aug,Home,Buffalo Bills,17,20,21,346,264,82,2,21,327,209,118,1,-2.22,-1.78,-0.36,kan
+14,15,Mon,2023-12-17,1:00PM ET,boxscore,W,NO,5-Sep,Away,New England Patriots,27,17,19,326,283,43,2,10,206,154,52,1,-5.95,16.05,-0.09,kan
+15,16,Mon,2023-12-25,1:00PM ET,boxscore,L,NO,6-Sep,Home,Las Vegas Raiders,14,20,19,308,223,85,2,12,205,48,157,0,-11.63,8.4,-3.27,kan
+16,17,Sun,2023-12-31,4:25PM ET,boxscore,W,NO,6-Oct,Home,Cincinnati Bengals,25,17,15,373,241,132,1,20,263,159,104,0,5.05,-1.31,3.55,kan
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,6-Nov,Away,Los Angeles Chargers,13,12,12,268,145,123,1,22,353,235,118,1,-3.31,8.89,-1.81,kan
+19,Wild Card,Sat,2024-01-13,8:10PM ET,boxscore,W,NO,6-Dec,Home,Miami Dolphins,26,7,25,409,262,147,1,13,264,188,76,1,9.58,10.55,-4.67,kan
+20,Division,Sun,2024-01-21,6:30PM ET,boxscore,W,NO,13-6,Away,Buffalo Bills,27,24,21,361,215,146,1,27,368,186,182,0,11.85,-14.55,4.08,kan
+21,Conf. Champ.,Sun,2024-01-28,3:00PM ET,boxscore,W,NO,14-6,Away,Baltimore Ravens,17,10,22,319,230,89,0,16,336,255,81,3,4.1,7.2,-2.43,kan
+22,SuperBowl,Sun,2024-02-11,6:30PM ET,boxscore,W,OT,15-6,Home,San Francisco 49ers,25,22,24,455,325,130,2,23,382,272,110,2,3.42,-4.68,3.39,kan
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,W,NO,Jan-00,Away,Denver Broncos,17,16,22,261,200,61,1,22,260,166,94,0,9.59,-10.75,3.68,rai
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,1-Jan,Away,Buffalo Bills,10,38,13,240,185,55,3,29,450,267,183,0,-4.89,-27.19,3.85,rai
+2,3,Sun,2023-09-24,8:20PM ET,boxscore,L,NO,2-Jan,Home,Pittsburgh Steelers,18,23,19,362,293,69,3,17,333,228,105,0,-3.82,-5.43,-0.12,rai
+3,4,Sun,2023-10-01,4:05PM ET,boxscore,L,NO,3-Jan,Away,Los Angeles Chargers,17,24,22,264,188,76,3,16,305,150,155,1,-8.27,-4.86,6.07,rai
+4,5,Mon,2023-10-09,8:15PM ET,boxscore,W,NO,3-Feb,Home,Green Bay Packers,17,13,19,279,183,96,1,18,285,175,110,3,-1.23,6.99,-5.61,rai
+5,6,Sun,2023-10-15,4:05PM ET,boxscore,W,NO,3-Mar,Home,New England Patriots,21,17,19,348,264,84,1,17,259,176,83,1,2.79,-3.68,5.62,rai
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,4-Mar,Away,Chicago Bears,12,30,20,235,196,39,3,23,323,150,173,0,-6.37,-12.58,-2.41,rai
+7,8,Mon,2023-10-30,8:15PM ET,boxscore,L,NO,5-Mar,Away,Detroit Lions,14,26,12,157,77,80,1,29,486,264,222,3,-15.25,-0.57,2.81,rai
+8,9,Sun,2023-11-05,4:25PM ET,boxscore,W,NO,5-Apr,Home,New York Giants,30,6,15,334,209,125,0,15,277,154,123,2,1.99,18.96,1.85,rai
+9,10,Sun,2023-11-12,8:20PM ET,boxscore,W,NO,5-May,Home,New York Jets,16,12,15,274,126,148,2,14,365,257,108,1,-8.01,7.21,3.38,rai
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,6-May,Away,Miami Dolphins,13,20,12,296,260,36,3,21,422,323,99,3,-15.77,-1.48,8.12,rai
+11,12,Sun,2023-11-26,4:25PM ET,boxscore,L,NO,7-May,Home,Kansas City Chiefs,17,31,16,358,235,123,0,23,360,291,69,0,6.49,-14,-5.9,rai
+13,14,Sun,2023-12-10,4:05PM ET,boxscore,L,NO,8-May,Home,Minnesota Vikings,0,3,8,202,146,56,3,16,231,99,132,0,-20.46,10.05,6.43,rai
+14,15,Thu,2023-12-14,8:15PM ET,boxscore,W,NO,8-Jun,Home,Los Angeles Chargers,63,21,20,378,254,124,0,18,326,234,92,5,22.25,15.82,3.05,rai
+15,16,Mon,2023-12-25,1:00PM ET,boxscore,W,NO,8-Jul,Away,Kansas City Chiefs,20,14,12,205,48,157,0,19,308,223,85,2,-8.4,11.63,3.27,rai
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,9-Jul,Away,Indianapolis Colts,20,23,26,370,286,84,0,16,349,215,134,0,8.69,-11.41,-1.73,rai
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,9-Aug,Home,Denver Broncos,27,14,22,359,230,129,0,17,286,238,48,1,12.72,-1.3,0.08,rai
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,L,NO,0-1,Home,Las Vegas Raiders,16,17,22,260,166,94,0,22,261,200,61,1,10.75,-9.59,-3.68,den
+1,2,Sun,2023-09-17,4:25PM ET,boxscore,L,NO,0-2,Home,Washington Commanders,33,35,21,399,277,122,2,26,388,266,122,0,11.6,-16.73,3.13,den
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,0-3,Away,Miami Dolphins,20,70,16,363,294,69,3,30,726,376,350,0,-13.39,-48.65,12.38,den
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,3-Jan,Away,Chicago Bears,31,28,17,311,214,97,0,26,471,300,171,2,13.54,-13.11,1.5,den
+4,5,Sun,2023-10-08,4:25PM ET,boxscore,L,NO,4-Jan,Home,New York Jets,21,31,18,308,169,139,3,18,407,173,234,2,-6.26,-5.79,-2.75,den
+5,6,Thu,2023-10-12,8:15PM ET,boxscore,L,NO,5-Jan,Away,Kansas City Chiefs,8,19,14,197,82,115,3,22,389,293,96,1,-13.65,-1.99,1.97,den
+6,7,Sun,2023-10-22,4:25PM ET,boxscore,W,NO,5-Feb,Home,Green Bay Packers,19,17,18,339,194,145,0,20,331,194,137,1,9.89,-11.33,2.65,den
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,W,NO,5-Mar,Home,Kansas City Chiefs,24,9,19,240,87,153,1,18,274,212,62,5,-1.52,11.85,4.12,den
+9,10,Mon,2023-11-13,8:15PM ET,boxscore,W,NO,5-Apr,Away,Buffalo Bills,24,22,19,300,178,122,1,18,369,177,192,4,-4.09,0.44,4.65,den
+10,11,Sun,2023-11-19,8:20PM ET,boxscore,W,NO,5-May,Home,Minnesota Vikings,21,20,13,295,249,46,0,19,385,210,175,3,-3.68,1.96,5.21,den
+11,12,Sun,2023-11-26,4:05PM ET,boxscore,W,NO,5-Jun,Home,Cleveland Browns,29,12,17,294,125,169,1,19,269,162,107,3,3.83,14,-0.36,den
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,6-Jun,Away,Houston Texans,17,22,16,282,164,118,3,14,353,264,89,0,-4.63,1.15,-0.91,den
+13,14,Sun,2023-12-10,4:25PM ET,boxscore,W,NO,6-Jul,Away,Los Angeles Chargers,24,7,19,322,216,106,1,17,283,207,76,2,-1.17,21.6,-2.39,den
+14,15,Sun,2023-12-16,8:15PM ET,boxscore,L,NO,7-Jul,Away,Detroit Lions,17,42,20,287,204,83,1,29,448,263,185,0,3.2,-29.35,3.14,den
+15,16,Sun,2023-12-24,8:15PM ET,boxscore,L,NO,8-Jul,Home,New England Patriots,23,26,19,276,193,83,2,12,289,230,59,1,-0.12,1.42,-4.11,den
+16,17,Sun,2023-12-31,4:25PM ET,boxscore,W,NO,8-Aug,Home,Los Angeles Chargers,16,9,16,313,212,101,0,17,301,215,86,1,2.08,5.75,1.2,den
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,9-Aug,Away,Las Vegas Raiders,14,27,17,286,238,48,1,22,359,230,129,0,1.3,-12.72,-0.08,den
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,L,NO,0-1,Home,Miami Dolphins,34,36,30,433,200,233,0,30,536,466,70,2,18.83,-26.53,3.22,sdg
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,OT,0-2,Away,Tennessee Titans,24,27,19,342,281,61,0,22,341,200,141,0,6.8,-9.86,0.06,sdg
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,2-Jan,Away,Minnesota Vikings,28,24,24,475,445,30,1,29,475,345,130,2,15.21,-8.26,-4.83,sdg
+3,4,Sun,2023-10-01,4:05PM ET,boxscore,W,NO,2-Feb,Home,Las Vegas Raiders,24,17,16,305,150,155,1,22,264,188,76,3,4.86,8.27,-6.07,sdg
+5,6,Mon,2023-10-16,8:15PM ET,boxscore,L,NO,3-Feb,Home,Dallas Cowboys,17,20,18,272,219,53,1,20,342,246,96,1,-1.3,-8.96,5.38,sdg
+6,7,Sun,2023-10-22,4:25PM ET,boxscore,L,NO,4-Feb,Away,Kansas City Chiefs,17,31,16,358,219,139,2,25,483,415,68,2,3.03,-19.19,2.58,sdg
+7,8,Sun,2023-10-29,8:20PM ET,boxscore,W,NO,4-Mar,Home,Chicago Bears,30,13,20,352,298,54,1,17,295,222,73,2,7.29,6.71,5.12,sdg
+8,9,Mon,2023-11-06,8:15PM ET,boxscore,W,NO,4-Apr,Away,New York Jets,27,6,14,191,107,84,0,17,270,206,64,3,-6.47,25.2,1.49,sdg
+9,10,Sun,2023-11-12,4:05PM ET,boxscore,L,NO,5-Apr,Home,Detroit Lions,38,41,24,421,323,98,1,23,533,333,200,0,25.22,-31.55,2.59,sdg
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,6-Apr,Away,Green Bay Packers,20,23,17,394,244,150,1,23,397,295,102,0,2.45,-12.8,4.58,sdg
+11,12,Sun,2023-11-26,8:20PM ET,boxscore,L,NO,7-Apr,Home,Baltimore Ravens,10,20,16,279,193,86,4,20,361,164,197,0,-16.16,-1.22,5.76,sdg
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,7-May,Away,New England Patriots,6,0,13,241,212,29,0,13,257,109,148,1,-9.06,13.06,4.71,sdg
+13,14,Sun,2023-12-10,4:25PM ET,boxscore,L,NO,8-May,Home,Denver Broncos,7,24,17,283,207,76,2,19,322,216,106,1,-21.6,1.17,2.39,sdg
+14,15,Thu,2023-12-14,8:15PM ET,boxscore,L,NO,9-May,Away,Las Vegas Raiders,21,63,18,326,234,92,5,20,378,254,124,0,-15.82,-22.25,-3.05,sdg
+15,16,Sat,2023-12-23,8:00PM ET,boxscore,L,NO,10-May,Home,Buffalo Bills,22,24,18,273,175,98,0,16,335,230,105,3,-4.02,-7.67,9.12,sdg
+16,17,Sun,2023-12-31,4:25PM ET,boxscore,L,NO,11-May,Away,Denver Broncos,9,16,17,301,215,86,1,16,313,212,101,0,-5.75,-2.08,-1.2,sdg
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,12-May,Home,Kansas City Chiefs,12,13,22,353,235,118,1,12,268,145,123,1,-8.89,3.31,1.81,sdg
+0,1,Sun,2023-09-10,8:20PM ET,boxscore,W,NO,Jan-00,Away,New York Giants,40,0,18,265,143,122,0,14,171,63,108,3,9.37,27.25,5.36,dal
+1,2,Sun,2023-09-17,4:25PM ET,boxscore,W,NO,Feb-00,Home,New York Jets,30,10,26,382,248,134,0,12,215,151,64,4,7.01,14.82,-2.25,dal
+2,3,Sun,2023-09-24,4:25PM ET,boxscore,L,NO,1-Feb,Away,Arizona Cardinals,16,28,26,416,231,185,1,20,400,178,222,0,6.78,-18.46,-1.14,dal
+3,4,Sun,2023-10-01,4:25PM ET,boxscore,W,NO,1-Mar,Home,New England Patriots,38,3,22,377,253,124,0,10,253,200,53,3,8.01,26.22,0.2,dal
+4,5,Sun,2023-10-08,8:20PM ET,boxscore,L,NO,2-Mar,Away,San Francisco 49ers,10,42,8,197,140,57,4,25,421,251,170,1,-23.12,-12.84,5.21,dal
+5,6,Mon,2023-10-16,8:15PM ET,boxscore,W,NO,2-Apr,Away,Los Angeles Chargers,20,17,20,342,246,96,1,18,272,219,53,1,8.96,1.3,-5.38,dal
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,2-May,Home,Los Angeles Rams,43,20,24,387,285,102,1,15,280,188,92,1,15.46,8.68,1.87,dal
+8,9,Sun,2023-11-05,4:25PM ET,boxscore,L,NO,3-May,Away,Philadelphia Eagles,23,28,27,406,333,73,1,20,292,183,109,0,10.9,-15,-2.75,dal
+9,10,Sun,2023-11-12,4:25PM ET,boxscore,W,NO,3-Jun,Home,New York Giants,49,17,32,640,472,168,2,16,172,61,111,1,31,8.61,-8,dal
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,3-Jul,Away,Carolina Panthers,33,10,23,311,204,107,0,13,187,77,110,2,14.98,13.81,-6.04,dal
+11,12,Thu,2023-11-23,4:30PM ET,boxscore,W,NO,3-Aug,Home,Washington Commanders,45,10,21,431,331,100,0,23,376,268,108,1,25.86,9.65,-2.36,dal
+12,13,Thu,2023-11-30,8:15PM ET,boxscore,W,NO,3-Sep,Home,Seattle Seahawks,41,35,33,411,275,136,0,25,406,334,72,1,24.14,-20.82,3.78,dal
+13,14,Sun,2023-12-10,8:20PM ET,boxscore,W,NO,3-Oct,Home,Philadelphia Eagles,33,13,24,394,256,138,1,17,324,218,106,3,10.85,4.61,2.77,dal
+14,15,Sun,2023-12-17,4:25PM ET,boxscore,L,NO,4-Oct,Away,Buffalo Bills,10,31,14,195,106,89,1,28,351,85,266,0,-3.23,-19.98,3.82,dal
+15,16,Sun,2023-12-24,4:25PM ET,boxscore,L,NO,5-Oct,Away,Miami Dolphins,20,22,19,339,242,97,1,22,375,284,91,0,8.66,-6.06,-4.74,dal
+16,17,Sat,2023-12-30,8:15PM ET,boxscore,W,NO,5-Nov,Home,Detroit Lions,20,19,17,384,323,61,2,21,420,295,125,2,0.39,0.45,1.92,dal
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,5-Dec,Away,Washington Commanders,38,10,31,440,309,131,1,12,180,130,50,3,25.23,9.84,-7.97,dal
+19,Wild Card,Sun,2024-01-14,4:30PM ET,boxscore,L,NO,6-Dec,Home,Green Bay Packers,32,48,37,510,387,123,2,22,415,272,143,0,11.47,-27.79,-2.74,dal
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,W,NO,Jan-00,Away,New England Patriots,25,20,17,251,154,97,1,24,382,306,76,2,-10.42,12.04,4.39,phi
+1,2,Thu,2023-09-14,8:15PM ET,boxscore,W,NO,Feb-00,Home,Minnesota Vikings,34,28,24,430,171,259,1,19,374,346,28,4,14.53,-7.44,-0.51,phi
+2,3,Mon,2023-09-25,7:15PM ET,boxscore,W,NO,Mar-00,Away,Tampa Bay Buccaneers,25,11,27,472,271,201,2,12,174,133,41,2,14.08,7.28,-1.78,phi
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,OT,Apr-00,Home,Washington Commanders,34,31,23,415,311,104,0,26,365,258,107,0,18.21,-17.68,2.47,phi
+4,5,Sun,2023-10-08,4:05PM ET,boxscore,W,NO,May-00,Away,Los Angeles Rams,23,14,28,454,295,159,1,17,249,195,54,0,16.56,-6.25,-2.84,phi
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,L,NO,1-May,Away,New York Jets,14,20,24,348,268,80,4,17,244,155,89,0,-5.91,7.52,-8.89,phi
+6,7,Sun,2023-10-22,8:20PM ET,boxscore,W,NO,1-Jun,Home,Miami Dolphins,31,17,26,355,256,99,2,12,244,199,45,1,11.06,7.17,-2.9,phi
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,1-Jul,Away,Washington Commanders,38,31,21,374,315,59,2,26,472,388,84,1,15.23,-10.32,4.32,phi
+8,9,Sun,2023-11-05,4:25PM ET,boxscore,W,NO,1-Aug,Home,Dallas Cowboys,28,23,20,292,183,109,0,27,406,333,73,1,15,-10.9,2.75,phi
+10,11,Mon,2023-11-20,8:15PM ET,boxscore,W,NO,1-Sep,Away,Kansas City Chiefs,21,17,16,238,124,114,1,23,336,168,168,2,-2.22,3.4,3.61,phi
+11,12,Sun,2023-11-26,4:25PM ET,boxscore,W,OT,1-Oct,Home,Buffalo Bills,37,34,24,378,193,185,2,29,505,332,173,1,7.6,-13.85,9.18,phi
+12,13,Sun,2023-12-03,4:25PM ET,boxscore,L,NO,2-Oct,Home,San Francisco 49ers,19,42,23,333,287,46,0,24,456,310,146,0,6.22,-33.55,2.11,phi
+13,14,Sun,2023-12-10,8:20PM ET,boxscore,L,NO,3-Oct,Away,Dallas Cowboys,13,33,17,324,218,106,3,24,394,256,138,1,-4.61,-10.85,-2.77,phi
+14,15,Sun,2023-12-18,8:15PM ET,boxscore,L,NO,4-Oct,Away,Seattle Seahawks,17,20,23,321,143,178,2,16,297,197,100,0,5.2,-6.27,0.39,phi
+15,16,Mon,2023-12-25,4:30PM ET,boxscore,W,NO,4-Nov,Home,New York Giants,33,25,28,465,295,170,2,14,292,186,106,1,10.41,0.93,-3.34,phi
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,5-Nov,Home,Arizona Cardinals,31,35,17,275,184,91,1,32,449,228,221,1,13.61,-21.16,3.99,phi
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,6-Nov,Away,New York Giants,10,27,19,299,166,133,4,22,415,306,109,1,-14.58,-7.04,4.08,phi
+19,Wild Card,Mon,2024-01-15,8:15PM ET,boxscore,L,NO,7-Nov,Away,Tampa Bay Buccaneers,9,32,13,276,234,42,0,23,426,307,119,0,-9,-14.65,0.96,phi
+0,1,Sun,2023-09-10,8:20PM ET,boxscore,L,NO,0-1,Home,Dallas Cowboys,0,40,14,171,63,108,3,18,265,143,122,0,-27.25,-9.37,-5.36,nyg
+1,2,Sun,2023-09-17,4:05PM ET,boxscore,W,NO,1-Jan,Away,Arizona Cardinals,31,28,26,439,312,127,1,24,379,228,151,0,16.76,-15.48,2.39,nyg
+2,3,Thu,2023-09-21,8:15PM ET,boxscore,L,NO,2-Jan,Away,San Francisco 49ers,12,30,10,150,121,29,1,26,441,300,141,0,-11.82,-19,9.72,nyg
+3,4,Mon,2023-10-02,8:15PM ET,boxscore,L,NO,3-Jan,Home,Seattle Seahawks,3,24,17,248,136,112,3,13,281,160,121,0,-29.37,7.86,-0.33,nyg
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,4-Jan,Away,Miami Dolphins,16,31,15,268,183,85,0,22,524,302,222,3,-6.46,-10.45,1.72,nyg
+5,6,Sun,2023-10-15,8:20PM ET,boxscore,L,NO,5-Jan,Away,Buffalo Bills,9,14,20,317,185,132,0,22,297,169,128,2,3.02,-2.9,6.7,nyg
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,5-Feb,Home,Washington Commanders,14,7,16,356,250,106,2,14,273,197,76,1,-3.64,16.05,-8.94,nyg
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,OT,6-Feb,Home,New York Jets,10,13,12,194,-9,203,0,12,251,193,58,2,-20.38,20.78,-1.41,nyg
+8,9,Sun,2023-11-05,4:25PM ET,boxscore,L,NO,7-Feb,Away,Las Vegas Raiders,6,30,15,277,154,123,2,15,334,209,125,0,-18.96,-1.99,-1.85,nyg
+9,10,Sun,2023-11-12,4:25PM ET,boxscore,L,NO,8-Feb,Away,Dallas Cowboys,17,49,16,172,61,111,1,32,640,472,168,2,-8.61,-31,8,nyg
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,8-Mar,Away,Washington Commanders,31,19,13,292,201,91,0,28,404,230,174,6,0.33,2.78,6.95,nyg
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,8-Apr,Home,New England Patriots,10,7,10,220,162,58,1,18,283,136,147,3,-12.44,12.51,2.86,nyg
+13,14,Mon,2023-12-11,8:15PM ET,boxscore,W,NO,8-May,Home,Green Bay Packers,24,22,18,367,158,209,2,19,326,203,123,3,2.39,-0.04,-0.2,nyg
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,NO,9-May,Away,New Orleans Saints,6,24,12,193,133,60,0,20,296,209,87,0,-15.39,-8.51,7.4,nyg
+15,16,Mon,2023-12-25,4:30PM ET,boxscore,L,NO,10-May,Away,Philadelphia Eagles,25,33,14,292,186,106,1,28,465,295,170,2,-0.93,-10.41,3.34,nyg
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,11-May,Home,Los Angeles Rams,25,26,17,389,284,105,1,22,391,286,105,3,-4.35,-2.7,4.87,nyg
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,11-Jun,Home,Philadelphia Eagles,27,10,22,415,306,109,1,19,299,166,133,4,7.04,14.58,-4.08,nyg
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Home,Arizona Cardinals,20,16,21,248,156,92,3,13,210,114,96,2,-9.25,19.87,-4.96,was
+1,2,Sun,2023-09-17,4:25PM ET,boxscore,W,NO,Feb-00,Away,Denver Broncos,35,33,26,388,266,122,0,21,399,277,122,2,16.73,-11.6,-3.13,was
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,1-Feb,Home,Buffalo Bills,3,37,15,230,125,105,5,20,386,218,168,1,-23.07,-10.16,1.39,was
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,OT,2-Feb,Away,Philadelphia Eagles,31,34,26,365,258,107,0,23,415,311,104,0,17.68,-18.21,-2.47,was
+4,5,Thu,2023-10-05,8:15PM ET,boxscore,L,NO,3-Feb,Home,Chicago Bears,20,40,23,388,359,29,2,18,451,273,178,0,4.63,-19.81,-0.51,was
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,3-Mar,Away,Atlanta Falcons,24,16,13,193,121,72,0,25,402,296,106,3,-0.45,5.68,3.28,was
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,4-Mar,Away,New York Giants,7,14,14,273,197,76,1,16,356,250,106,2,-16.05,3.64,8.94,was
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,5-Mar,Home,Philadelphia Eagles,31,38,26,472,388,84,1,21,374,315,59,2,10.32,-15.23,-4.32,was
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,5-Apr,Away,New England Patriots,20,17,23,432,308,124,2,18,327,220,107,1,3.37,-0.28,1.3,was
+9,10,Sun,2023-11-12,4:25PM ET,boxscore,L,NO,6-Apr,Away,Seattle Seahawks,26,29,16,356,288,68,1,27,489,369,120,0,7.66,-15.28,2.61,was
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,7-Apr,Home,New York Giants,19,31,28,404,230,174,6,13,292,201,91,0,-2.78,-0.33,-6.95,was
+11,12,Thu,2023-11-23,4:30PM ET,boxscore,L,NO,8-Apr,Away,Dallas Cowboys,10,45,23,376,268,108,1,21,431,331,100,0,-9.65,-25.86,2.36,was
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,9-Apr,Home,Miami Dolphins,15,45,11,245,107,138,1,20,406,283,123,0,-6.88,-25.98,0.52,was
+14,15,Sun,2023-12-17,4:05PM ET,boxscore,L,NO,10-Apr,Away,Los Angeles Rams,20,28,14,297,218,79,1,23,445,249,196,2,-2.14,-8.81,3.33,was
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,11-Apr,Away,New York Jets,28,30,18,245,143,102,3,26,381,217,164,2,-3.65,15.58,-8.61,was
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,12-Apr,Home,San Francisco 49ers,10,27,12,225,163,62,2,28,408,224,184,0,-6.62,-16.3,3.5,was
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,13-Apr,Home,Dallas Cowboys,10,38,12,180,130,50,3,31,440,309,131,1,-9.84,-25.23,7.97,was
+0,1,Thu,2023-09-07,8:20PM ET,boxscore,W,NO,Jan-00,Away,Kansas City Chiefs,21,20,19,368,250,118,1,17,316,226,90,1,2.6,4.17,-2.11,det
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,OT,1-Jan,Home,Seattle Seahawks,31,37,25,418,316,102,3,28,393,311,82,0,4.65,-18,7.35,det
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,1-Feb,Home,Atlanta Falcons,20,6,18,358,243,115,1,16,183,139,44,1,1.31,15.09,-0.59,det
+3,4,Thu,2023-09-28,8:15PM ET,boxscore,W,NO,1-Mar,Away,Green Bay Packers,34,20,25,401,190,211,1,15,230,203,27,2,8.47,8.6,2.13,det
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,1-Apr,Home,Carolina Panthers,42,24,23,377,218,159,0,26,342,243,99,3,21.57,-4.1,0.86,det
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,W,NO,1-May,Away,Tampa Bay Buccaneers,20,6,19,380,340,40,0,13,251,205,46,1,8.54,11.72,-6.91,det
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,2-May,Away,Baltimore Ravens,6,38,18,337,253,84,1,23,503,357,146,1,-6.4,-26.48,3.38,det
+7,8,Mon,2023-10-30,8:15PM ET,boxscore,W,NO,2-Jun,Home,Las Vegas Raiders,26,14,29,486,264,222,3,12,157,77,80,1,0.57,15.25,-2.81,det
+9,10,Sun,2023-11-12,4:05PM ET,boxscore,W,NO,2-Jul,Away,Los Angeles Chargers,41,38,23,533,333,200,0,24,421,323,98,1,31.55,-25.22,-2.59,det
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,2-Aug,Home,Chicago Bears,31,26,23,338,223,115,4,25,334,151,183,1,11.72,-4.18,-1.3,det
+11,12,Thu,2023-11-23,12:30PM ET,boxscore,L,NO,3-Aug,Home,Green Bay Packers,22,29,25,464,324,140,3,17,377,268,109,0,-1.02,-9.91,-1.64,det
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,3-Sep,Away,New Orleans Saints,33,28,18,347,205,142,0,23,362,249,113,2,9.55,-6.28,2.62,det
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,4-Sep,Away,Chicago Bears,13,28,13,267,127,140,3,20,336,194,142,0,-10.07,-3.69,0.72,det
+14,15,Sun,2023-12-16,8:15PM ET,boxscore,W,NO,4-Oct,Home,Denver Broncos,42,17,29,448,263,185,0,20,287,204,83,1,29.35,-3.2,-3.14,det
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,4-Nov,Away,Minnesota Vikings,30,24,28,389,246,143,1,19,390,373,17,4,15.44,-11.43,0.61,det
+16,17,Sat,2023-12-30,8:15PM ET,boxscore,L,NO,5-Nov,Away,Dallas Cowboys,19,20,21,420,295,125,2,17,384,323,61,2,-0.45,-0.39,-1.92,det
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,W,NO,5-Dec,Home,Minnesota Vikings,30,20,19,381,311,70,0,24,448,359,89,2,17.81,-4.55,1.13,det
+19,Wild Card,Sun,2024-01-14,8:15PM ET,boxscore,W,NO,13-5,Home,Los Angeles Rams,24,23,23,334,255,79,0,22,425,357,68,0,15.39,-19.93,4.78,det
+20,Division,Sun,2024-01-21,3:00PM ET,boxscore,W,NO,14-5,Home,Tampa Bay Buccaneers,31,23,26,391,277,114,0,23,408,319,89,2,15.79,-7.77,2.23,det
+21,Conf. Champ.,Sun,2024-01-28,6:30PM ET,boxscore,L,NO,14-6,Away,San Francisco 49ers,31,34,28,442,260,182,1,23,413,258,155,1,14.76,-19.87,1.23,det
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,W,NO,Jan-00,Away,Chicago Bears,38,20,15,329,237,92,0,22,311,189,122,2,8.05,6.45,2.11,gnb
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,1-Jan,Away,Atlanta Falcons,24,25,17,224,140,84,0,27,446,235,211,1,7.85,-13.12,0.97,gnb
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,W,NO,1-Feb,Home,New Orleans Saints,18,17,21,340,245,95,1,15,252,175,77,0,1.99,3.02,-6.26,gnb
+3,4,Thu,2023-09-28,8:15PM ET,boxscore,L,NO,2-Feb,Home,Detroit Lions,20,34,15,230,203,27,2,25,401,190,211,1,-8.6,-8.47,-2.13,gnb
+4,5,Mon,2023-10-09,8:15PM ET,boxscore,L,NO,3-Feb,Away,Las Vegas Raiders,13,17,18,285,175,110,3,19,279,183,96,1,-6.99,1.23,5.61,gnb
+6,7,Sun,2023-10-22,4:25PM ET,boxscore,L,NO,4-Feb,Away,Denver Broncos,17,19,20,331,194,137,1,18,339,194,145,0,11.33,-9.89,-2.65,gnb
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,5-Feb,Home,Minnesota Vikings,10,24,16,270,196,74,1,24,346,284,62,1,-10.54,-13.6,9.64,gnb
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,5-Mar,Home,Los Angeles Rams,20,3,21,391,207,184,2,10,187,119,68,2,2.46,20.49,-1.58,gnb
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,6-Mar,Away,Pittsburgh Steelers,19,23,17,399,283,116,2,21,324,119,205,0,8.81,-7.06,-3.18,gnb
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,W,NO,6-Apr,Home,Los Angeles Chargers,23,20,23,397,295,102,0,17,394,244,150,1,12.8,-2.45,-4.58,gnb
+11,12,Thu,2023-11-23,12:30PM ET,boxscore,W,NO,6-May,Away,Detroit Lions,29,22,17,377,268,109,0,25,464,324,140,3,9.91,1.02,1.64,gnb
+12,13,Sun,2023-12-03,8:20PM ET,boxscore,W,NO,6-Jun,Home,Kansas City Chiefs,27,19,24,382,253,129,0,25,337,189,148,1,19.21,-9.54,-0.96,gnb
+13,14,Mon,2023-12-11,8:15PM ET,boxscore,L,NO,7-Jun,Away,New York Giants,22,24,19,326,203,123,3,18,367,158,209,2,0.04,-2.39,0.2,gnb
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,NO,8-Jun,Home,Tampa Bay Buccaneers,20,34,18,321,261,60,1,22,452,353,99,1,5.02,-21.36,-0.81,gnb
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,8-Jul,Away,Carolina Panthers,33,30,25,369,207,162,0,26,394,298,96,0,19.16,-20.51,1.99,gnb
+16,17,Sun,2023-12-31,8:20PM ET,boxscore,W,NO,8-Aug,Away,Minnesota Vikings,33,10,28,470,293,177,1,13,211,144,67,2,22.54,14.27,-12.19,gnb
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,8-Sep,Home,Chicago Bears,17,9,24,432,308,124,1,13,192,117,75,0,20.31,1.05,-8.08,gnb
+19,Wild Card,Sun,2024-01-14,4:30PM ET,boxscore,W,NO,8-Oct,Away,Dallas Cowboys,48,32,22,415,272,143,0,37,510,387,123,2,27.79,-11.47,2.74,gnb
+20,Division,Sat,2024-01-20,8:15PM ET,boxscore,L,NO,9-Oct,Away,San Francisco 49ers,21,24,20,330,194,136,2,19,356,245,111,0,5.63,-12.57,1.49,gnb
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Home,Tampa Bay Buccaneers,17,20,18,369,328,41,3,16,242,169,73,0,0.1,3.09,-7.66,min
+1,2,Thu,2023-09-14,8:15PM ET,boxscore,L,NO,0-2,Away,Philadelphia Eagles,28,34,19,374,346,28,4,24,430,171,259,1,7.44,-14.53,0.51,min
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,0-3,Home,Los Angeles Chargers,24,28,29,475,345,130,2,24,475,445,30,1,8.26,-15.21,4.83,min
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,3-Jan,Away,Carolina Panthers,21,13,14,265,130,135,2,20,232,149,83,1,-5.73,14.29,0.38,min
+4,5,Sun,2023-10-08,4:25PM ET,boxscore,L,NO,4-Jan,Home,Kansas City Chiefs,20,27,24,329,259,70,1,21,333,266,67,0,10.22,-15.55,-0.17,min
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,W,NO,4-Feb,Away,Chicago Bears,19,13,12,220,174,46,1,18,275,113,162,3,-8.38,15.39,0.79,min
+6,7,Mon,2023-10-23,8:15PM ET,boxscore,W,NO,4-Mar,Home,San Francisco 49ers,22,17,24,452,378,74,1,19,325,260,65,3,16.3,-5.43,-6.07,min
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,4-Apr,Away,Green Bay Packers,24,10,24,346,284,62,1,16,270,196,74,1,13.6,10.54,-9.64,min
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,4-May,Away,Atlanta Falcons,31,28,23,363,217,146,2,18,370,260,110,2,1.9,3.4,-3.43,min
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,4-Jun,Home,New Orleans Saints,27,19,23,388,263,125,0,16,280,215,65,2,10.78,0.04,-4.27,min
+10,11,Sun,2023-11-19,8:20PM ET,boxscore,L,NO,5-Jun,Away,Denver Broncos,20,21,19,385,210,175,3,13,295,249,46,0,-1.96,3.68,-5.21,min
+11,12,Mon,2023-11-27,8:15PM ET,boxscore,L,NO,6-Jun,Home,Chicago Bears,10,12,15,242,169,73,4,18,317,199,118,2,-10.19,7.29,3.55,min
+13,14,Sun,2023-12-10,4:05PM ET,boxscore,W,NO,6-Jul,Away,Las Vegas Raiders,3,0,16,231,99,132,0,8,202,146,56,3,-10.05,20.46,-6.43,min
+14,15,Sun,2023-12-16,1:00PM ET,boxscore,L,OT,7-Jul,Away,Cincinnati Bengals,24,27,24,424,281,143,2,22,378,298,80,1,8.62,-9.29,-1.35,min
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,8-Jul,Home,Detroit Lions,24,30,19,390,373,17,4,28,389,246,143,1,11.43,-15.44,-0.61,min
+16,17,Sun,2023-12-31,8:20PM ET,boxscore,L,NO,9-Jul,Home,Green Bay Packers,10,33,13,211,144,67,2,28,470,293,177,1,-14.27,-22.54,12.19,min
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,L,NO,10-Jul,Away,Detroit Lions,20,30,24,448,359,89,2,19,381,311,70,0,4.55,-17.81,-1.13,min
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,L,NO,0-1,Home,Green Bay Packers,20,38,22,311,189,122,2,15,329,237,92,0,-6.45,-8.05,-2.11,chi
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,L,NO,0-2,Away,Tampa Bay Buccaneers,17,27,14,236,169,67,2,19,437,317,120,0,-7.04,-14.15,8.78,chi
+2,3,Sun,2023-09-24,4:25PM ET,boxscore,L,NO,0-3,Away,Kansas City Chiefs,10,41,11,203,87,116,2,31,456,303,153,2,-13.6,-20.09,1.47,chi
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,0-4,Home,Denver Broncos,28,31,26,471,300,171,2,17,311,214,97,0,13.11,-13.54,-1.5,chi
+4,5,Thu,2023-10-05,8:15PM ET,boxscore,W,NO,4-Jan,Away,Washington Commanders,40,20,18,451,273,178,0,23,388,359,29,2,19.81,-4.63,0.51,chi
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,5-Jan,Home,Minnesota Vikings,13,19,18,275,113,162,3,12,220,174,46,1,-15.39,8.38,-0.79,chi
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,5-Feb,Home,Las Vegas Raiders,30,12,23,323,150,173,0,20,235,196,39,3,12.58,6.37,2.41,chi
+7,8,Sun,2023-10-29,8:20PM ET,boxscore,L,NO,6-Feb,Away,Los Angeles Chargers,13,30,17,295,222,73,2,20,352,298,54,1,-6.71,-7.29,-5.12,chi
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,7-Feb,Away,New Orleans Saints,17,24,20,368,212,156,5,18,301,214,87,0,-5.71,-5.1,-3.16,chi
+9,10,Thu,2023-11-09,8:15PM ET,boxscore,W,NO,7-Mar,Home,Carolina Panthers,16,13,21,295,162,133,0,12,213,170,43,0,-0.42,6.28,-1.84,chi
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,8-Mar,Away,Detroit Lions,26,31,25,334,151,183,1,23,338,223,115,4,4.18,-11.72,1.3,chi
+11,12,Mon,2023-11-27,8:15PM ET,boxscore,W,NO,8-Apr,Away,Minnesota Vikings,12,10,18,317,199,118,2,15,242,169,73,4,-7.29,10.19,-3.55,chi
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,8-May,Home,Detroit Lions,28,13,20,336,194,142,0,13,267,127,140,3,3.69,10.07,-0.72,chi
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,NO,9-May,Away,Cleveland Browns,17,20,12,236,148,88,3,14,377,348,29,3,-20.51,20.66,-3.15,chi
+15,16,Sun,2023-12-24,4:25PM ET,boxscore,W,NO,9-Jun,Home,Arizona Cardinals,27,16,22,420,170,250,1,16,306,213,93,0,9.8,4.06,-4.35,chi
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,9-Jul,Home,Atlanta Falcons,37,17,22,432,240,192,0,15,307,173,134,4,10.27,4.29,7.6,chi
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,10-Jul,Away,Green Bay Packers,9,17,13,192,117,75,0,24,432,308,124,1,-1.05,-20.31,8.08,chi
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Away,Minnesota Vikings,20,17,16,242,169,73,0,18,369,328,41,3,-3.09,-0.1,7.66,tam
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,Feb-00,Home,Chicago Bears,27,17,19,437,317,120,0,14,236,169,67,2,14.15,7.04,-8.78,tam
+2,3,Mon,2023-09-25,7:15PM ET,boxscore,L,NO,1-Feb,Home,Philadelphia Eagles,11,25,12,174,133,41,2,27,472,271,201,2,-7.28,-14.08,1.78,tam
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,NO,1-Mar,Away,New Orleans Saints,26,9,21,353,239,114,1,16,197,127,70,3,3.79,14.93,-2.25,tam
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,L,NO,2-Mar,Home,Detroit Lions,6,20,13,251,205,46,1,19,380,340,40,0,-11.72,-8.54,6.91,tam
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,L,NO,3-Mar,Home,Atlanta Falcons,13,16,21,329,256,73,2,20,401,245,156,3,-2.11,0.8,-1.89,tam
+7,8,Thu,2023-10-26,8:15PM ET,boxscore,L,NO,4-Mar,Away,Buffalo Bills,18,24,17,302,224,78,0,25,427,312,115,1,3.38,-9.78,1.24,tam
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,5-Mar,Away,Houston Texans,37,39,21,332,251,81,1,26,496,443,53,1,13.23,-16.65,5.81,tam
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,5-Apr,Home,Tennessee Titans,20,6,19,340,263,77,1,14,209,167,42,1,7.05,14.75,-4.53,tam
+10,11,Sun,2023-11-19,4:05PM ET,boxscore,L,NO,6-Apr,Away,San Francisco 49ers,14,27,22,287,221,66,2,22,420,305,115,0,-2.05,-14.22,2.57,tam
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,7-Apr,Away,Indianapolis Colts,20,27,17,298,173,125,2,26,394,239,155,1,-0.3,-10.81,-1.18,tam
+12,13,Sun,2023-12-03,4:05PM ET,boxscore,W,NO,7-May,Home,Carolina Panthers,21,18,15,322,194,128,1,15,282,149,133,1,1.83,4.36,-1.51,tam
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,7-Jun,Away,Atlanta Falcons,29,25,16,290,142,148,0,23,434,338,96,1,0.22,-7.82,9.28,tam
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,NO,7-Jul,Away,Green Bay Packers,34,20,22,452,353,99,1,18,321,261,60,1,21.36,-5.02,0.81,tam
+15,16,Sun,2023-12-24,4:05PM ET,boxscore,W,NO,7-Aug,Home,Jacksonville Jaguars,30,12,22,335,265,70,0,23,305,268,37,4,8.09,9.43,4.78,tam
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,8-Aug,Home,New Orleans Saints,13,23,13,349,292,57,4,20,310,202,108,0,-3.93,-0.67,-5.28,tam
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,W,NO,8-Sep,Away,Carolina Panthers,9,0,14,228,115,113,0,11,199,68,131,2,-7.74,13.18,6.13,tam
+19,Wild Card,Mon,2024-01-15,8:15PM ET,boxscore,W,NO,8-Oct,Home,Philadelphia Eagles,32,9,23,426,307,119,0,13,276,234,42,0,14.65,9,-0.96,tam
+20,Division,Sun,2024-01-21,3:00PM ET,boxscore,L,NO,9-Oct,Away,Detroit Lions,23,31,23,408,319,89,2,26,391,277,114,0,7.77,-15.79,-2.23,tam
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Home,Tennessee Titans,16,15,15,351,282,69,2,16,285,181,104,3,0.83,8.64,-4.03,nor
+1,2,Mon,2023-09-18,7:15PM ET,boxscore,W,NO,Feb-00,Away,Carolina Panthers,20,17,23,341,207,134,1,14,239,139,100,1,3.81,6.94,-6.1,nor
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,1-Feb,Away,Green Bay Packers,17,18,15,252,175,77,0,21,340,245,95,1,-3.02,-1.99,6.26,nor
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,2-Feb,Home,Tampa Bay Buccaneers,9,26,16,197,127,70,3,21,353,239,114,1,-14.93,-3.79,2.25,nor
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,2-Mar,Away,New England Patriots,34,0,17,304,168,136,0,8,156,111,45,3,-1.91,33.72,3.4,nor
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,3-Mar,Away,Houston Texans,13,20,24,430,341,89,2,19,297,177,120,1,5.96,-8.1,-3.91,nor
+6,7,Thu,2023-10-19,8:15PM ET,boxscore,L,NO,4-Mar,Home,Jacksonville Jaguars,24,31,25,407,295,112,1,18,330,217,113,2,-4.83,-2.64,1.15,nor
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,4-Apr,Away,Indianapolis Colts,38,27,24,511,350,161,1,19,371,207,164,1,23.78,-8.38,-3.03,nor
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,W,NO,4-May,Home,Chicago Bears,24,17,18,301,214,87,0,20,368,212,156,5,5.1,5.71,3.16,nor
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,L,NO,5-May,Away,Minnesota Vikings,19,27,16,280,215,65,2,23,388,263,125,0,-0.04,-10.78,4.27,nor
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,6-May,Away,Atlanta Falcons,15,24,22,444,296,148,2,25,396,168,228,2,-3.48,-7.53,0.04,nor
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,L,NO,7-May,Home,Detroit Lions,28,33,23,362,249,113,2,18,347,205,142,0,6.28,-9.55,-2.62,nor
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,W,NO,7-Jun,Home,Carolina Panthers,28,6,14,207,110,97,1,16,303,99,204,2,-2.19,20.04,1.99,nor
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,NO,7-Jul,Home,New York Giants,24,6,20,296,209,87,0,12,193,133,60,0,8.51,15.39,-7.4,nor
+15,16,Thu,2023-12-21,8:15PM ET,boxscore,L,NO,8-Jul,Away,Los Angeles Rams,22,30,18,339,304,35,1,23,458,325,133,0,1.69,-18.19,4.89,nor
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,8-Aug,Away,Tampa Bay Buccaneers,23,13,20,310,202,108,0,13,349,292,57,4,0.67,3.93,5.28,nor
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,W,NO,8-Sep,Home,Atlanta Falcons,48,17,27,400,246,154,0,14,389,311,78,3,20.65,11.97,-3.08,nor
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Home,Carolina Panthers,24,10,13,221,91,130,0,20,281,127,154,3,-2.92,16.61,-0.2,atl
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,NO,Feb-00,Home,Green Bay Packers,25,24,27,446,235,211,1,17,224,140,84,0,13.12,-7.85,-0.97,atl
+2,3,Sun,2023-09-24,1:00PM ET,boxscore,L,NO,1-Feb,Away,Detroit Lions,6,20,16,183,139,44,1,18,358,243,115,1,-15.09,-1.31,0.59,atl
+3,4,Sun,2023-10-01,9:30AM ET,boxscore,L,NO,2-Feb,Away,Jacksonville Jaguars,7,23,17,287,160,127,3,16,300,195,105,0,-15.78,-0.72,0.86,atl
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,W,NO,2-Mar,Home,Houston Texans,21,19,26,447,351,96,2,17,313,249,64,0,6.01,-2.73,-1.01,atl
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,3-Mar,Home,Washington Commanders,16,24,25,402,296,106,3,13,193,121,72,0,-5.68,0.45,-3.28,atl
+6,7,Sun,2023-10-22,1:00PM ET,boxscore,W,NO,3-Apr,Away,Tampa Bay Buccaneers,16,13,20,401,245,156,3,21,329,256,73,2,-0.8,2.11,1.89,atl
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,4-Apr,Away,Tennessee Titans,23,28,17,342,202,140,1,17,375,226,149,1,-3.34,-4.14,-0.17,atl
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,5-Apr,Home,Minnesota Vikings,28,31,18,370,260,110,2,23,363,217,146,2,-3.4,-1.9,3.43,atl
+9,10,Sun,2023-11-12,4:05PM ET,boxscore,L,NO,6-Apr,Away,Arizona Cardinals,23,25,20,254,70,184,0,20,352,230,122,1,4.7,-0.59,-6.18,atl
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,W,NO,6-May,Home,New Orleans Saints,24,15,25,396,168,228,2,22,444,296,148,2,7.53,3.48,-0.04,atl
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,6-Jun,Away,New York Jets,13,8,15,194,104,90,0,14,259,197,62,3,-11.41,20.36,-1.05,atl
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,7-Jun,Home,Tampa Bay Buccaneers,25,29,23,434,338,96,1,16,290,142,148,0,7.82,-0.22,-9.28,atl
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,L,NO,8-Jun,Away,Carolina Panthers,7,9,12,204,152,52,2,17,283,154,129,0,-10.46,9.24,-0.79,atl
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,8-Jul,Home,Indianapolis Colts,29,10,23,406,229,177,0,20,262,170,92,1,13.44,4.99,-1.88,atl
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,9-Jul,Away,Chicago Bears,17,37,15,307,173,134,4,22,432,240,192,0,-4.29,-10.27,-7.6,atl
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,L,NO,10-Jul,Away,New Orleans Saints,17,48,14,389,311,78,3,27,400,246,154,0,-11.97,-20.65,3.08,atl
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Away,Atlanta Falcons,10,24,20,281,127,154,3,13,221,91,130,0,-16.61,2.92,0.2,car
+1,2,Mon,2023-09-18,7:15PM ET,boxscore,L,NO,0-2,Home,New Orleans Saints,17,20,14,239,139,100,1,23,341,207,134,1,-6.94,-3.81,6.1,car
+2,3,Sun,2023-09-24,4:05PM ET,boxscore,L,NO,0-3,Away,Seattle Seahawks,27,37,23,378,334,44,0,27,425,279,146,1,6.08,-10.21,-4.29,car
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,L,NO,0-4,Home,Minnesota Vikings,13,21,20,232,149,83,1,14,265,130,135,2,-14.29,5.73,-0.38,car
+4,5,Sun,2023-10-08,1:00PM ET,boxscore,L,NO,0-5,Away,Detroit Lions,24,42,26,342,243,99,3,23,377,218,159,0,4.1,-21.57,-0.86,car
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,0-6,Away,Miami Dolphins,21,42,21,296,188,108,0,23,424,262,162,1,-6.44,-14.79,0.33,car
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,W,NO,6-Jan,Home,Houston Texans,15,13,20,224,180,44,0,16,229,119,110,1,0.91,3.6,-2.13,car
+8,9,Sun,2023-11-05,4:05PM ET,boxscore,L,NO,7-Jan,Home,Indianapolis Colts,13,27,17,275,137,138,3,17,198,120,78,1,-23.07,3.93,2.92,car
+9,10,Thu,2023-11-09,8:15PM ET,boxscore,L,NO,8-Jan,Away,Chicago Bears,13,16,12,213,170,43,0,21,295,162,133,0,-6.28,0.42,1.84,car
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,9-Jan,Home,Dallas Cowboys,10,33,13,187,77,110,2,23,311,204,107,0,-13.81,-14.98,6.04,car
+11,12,Sun,2023-11-26,1:00PM ET,boxscore,L,NO,10-Jan,Away,Tennessee Titans,10,17,19,258,162,96,1,15,264,184,80,0,-7.57,-0.52,-0.58,car
+12,13,Sun,2023-12-03,4:05PM ET,boxscore,L,NO,11-Jan,Away,Tampa Bay Buccaneers,18,21,15,282,149,133,1,15,322,194,128,1,-4.36,-1.83,1.51,car
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,NO,12-Jan,Away,New Orleans Saints,6,28,16,303,99,204,2,14,207,110,97,1,-20.04,2.19,-1.99,car
+14,15,Sun,2023-12-17,1:00PM ET,boxscore,W,NO,12-Feb,Home,Atlanta Falcons,9,7,17,283,154,129,0,12,204,152,52,2,-9.24,10.46,0.79,car
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,L,NO,13-Feb,Home,Green Bay Packers,30,33,26,394,298,96,0,25,369,207,162,0,20.51,-19.16,-1.99,car
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,L,NO,14-Feb,Away,Jacksonville Jaguars,0,26,7,124,67,57,1,16,317,162,155,0,-24.8,-6.77,4.36,car
+17,18,Sun,2024-01-07,1:00PM ET,boxscore,L,NO,15-Feb,Home,Tampa Bay Buccaneers,0,9,11,199,68,131,2,14,228,115,113,0,-13.18,7.74,-6.13,car
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,W,NO,Jan-00,Away,Pittsburgh Steelers,30,7,22,391,203,188,1,15,239,198,41,2,9.73,13.55,-0.78,sfo
+1,2,Sun,2023-09-17,4:05PM ET,boxscore,W,NO,Feb-00,Away,Los Angeles Rams,30,23,21,365,206,159,0,28,386,297,89,2,12.36,-3.31,-2.05,sfo
+2,3,Thu,2023-09-21,8:15PM ET,boxscore,W,NO,Mar-00,Home,New York Giants,30,12,26,441,300,141,0,10,150,121,29,1,19,11.82,-9.72,sfo
+3,4,Sun,2023-10-01,4:25PM ET,boxscore,W,NO,Apr-00,Home,Arizona Cardinals,35,16,30,395,271,124,0,23,362,257,105,0,30.46,-9.72,-1.63,sfo
+4,5,Sun,2023-10-08,8:20PM ET,boxscore,W,NO,May-00,Home,Dallas Cowboys,42,10,25,421,251,170,1,8,197,140,57,4,12.84,23.12,-5.21,sfo
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,1-May,Away,Cleveland Browns,17,19,15,215,107,108,1,18,334,174,160,2,-6.05,11.32,-7.34,sfo
+6,7,Mon,2023-10-23,8:15PM ET,boxscore,L,NO,2-May,Away,Minnesota Vikings,17,22,19,325,260,65,3,24,452,378,74,1,5.43,-16.3,6.07,sfo
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,L,NO,3-May,Home,Cincinnati Bengals,17,31,24,460,347,113,3,29,400,266,134,1,9.25,-18.3,2.48,sfo
+9,10,Sun,2023-11-12,1:00PM ET,boxscore,W,NO,3-Jun,Away,Jacksonville Jaguars,34,3,20,437,293,144,0,12,221,162,59,4,15.13,18.16,-3.53,sfo
+10,11,Sun,2023-11-19,4:05PM ET,boxscore,W,NO,3-Jul,Home,Tampa Bay Buccaneers,27,14,22,420,305,115,0,22,287,221,66,2,14.22,2.05,-2.57,sfo
+11,12,Thu,2023-11-23,8:20PM ET,boxscore,W,NO,3-Aug,Away,Seattle Seahawks,31,13,23,377,208,169,1,14,220,132,88,2,8.06,10.62,-0.59,sfo
+12,13,Sun,2023-12-03,4:25PM ET,boxscore,W,NO,3-Sep,Away,Philadelphia Eagles,42,19,24,456,310,146,0,23,333,287,46,0,33.55,-6.22,-2.11,sfo
+13,14,Sun,2023-12-10,4:05PM ET,boxscore,W,NO,3-Oct,Home,Seattle Seahawks,28,16,19,527,354,173,2,17,324,254,70,2,19.7,1.61,-3.47,sfo
+14,15,Sun,2023-12-17,4:05PM ET,boxscore,W,NO,3-Nov,Away,Arizona Cardinals,45,29,24,406,262,144,0,22,436,202,234,2,26.28,-5.83,-1.07,sfo
+15,16,Mon,2023-12-25,8:15PM ET,boxscore,L,NO,4-Nov,Home,Baltimore Ravens,19,33,21,429,308,121,5,23,343,241,102,0,-4.26,-11.84,1.31,sfo
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,4-Dec,Away,Washington Commanders,27,10,28,408,224,184,0,12,225,163,62,2,16.3,6.62,-3.5,sfo
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,5-Dec,Home,Los Angeles Rams,20,21,20,300,175,125,1,19,258,149,109,1,9.48,-11.3,-2.42,sfo
+19,Division,Sat,2024-01-20,8:15PM ET,boxscore,W,NO,13-5,Home,Green Bay Packers,24,21,19,356,245,111,0,20,330,194,136,2,12.57,-5.63,-1.49,sfo
+20,Conf. Champ.,Sun,2024-01-28,6:30PM ET,boxscore,W,NO,14-5,Home,Detroit Lions,34,31,23,413,258,155,1,28,442,260,182,1,19.87,-14.76,-1.23,sfo
+21,SuperBowl,Sun,2024-02-11,6:30PM ET,boxscore,L,OT,14-6,Away,Kansas City Chiefs,22,25,23,382,272,110,2,24,455,325,130,2,4.68,-3.42,-3.39,sfo
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,W,NO,Jan-00,Away,Seattle Seahawks,30,13,27,426,334,92,0,13,180,95,85,0,20.95,1.77,-5.73,ram
+1,2,Sun,2023-09-17,4:05PM ET,boxscore,L,NO,1-Jan,Home,San Francisco 49ers,23,30,28,386,297,89,2,21,365,206,159,0,3.31,-12.36,2.05,ram
+2,3,Mon,2023-09-25,8:15PM ET,boxscore,L,NO,2-Jan,Away,Cincinnati Bengals,16,19,15,292,221,71,2,19,309,242,67,1,-7.34,8,-3.79,ram
+3,4,Sun,2023-10-01,1:00PM ET,boxscore,W,OT,2-Feb,Away,Indianapolis Colts,29,23,27,467,303,164,1,19,329,196,133,1,15.52,-5.51,-0.74,ram
+4,5,Sun,2023-10-08,4:05PM ET,boxscore,L,NO,3-Feb,Home,Philadelphia Eagles,14,23,17,249,195,54,0,28,454,295,159,1,6.25,-16.56,2.84,ram
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,W,NO,3-Mar,Home,Arizona Cardinals,26,9,17,382,203,179,1,20,345,215,130,2,10.25,12.85,-7.36,ram
+6,7,Sun,2023-10-22,4:05PM ET,boxscore,L,NO,4-Mar,Home,Pittsburgh Steelers,17,24,19,354,219,135,1,17,300,214,86,0,3.06,-4.14,-6.47,ram
+7,8,Sun,2023-10-29,1:00PM ET,boxscore,L,NO,5-Mar,Away,Dallas Cowboys,20,43,15,280,188,92,1,24,387,285,102,1,-8.68,-15.46,-1.87,ram
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,6-Mar,Away,Green Bay Packers,3,20,10,187,119,68,2,21,391,207,184,2,-20.49,-2.46,1.58,ram
+10,11,Sun,2023-11-19,4:25PM ET,boxscore,W,NO,6-Apr,Home,Seattle Seahawks,17,16,20,267,185,82,1,16,291,223,68,1,2.26,-0.28,0.2,ram
+11,12,Sun,2023-11-26,4:05PM ET,boxscore,W,NO,6-May,Away,Arizona Cardinals,37,14,25,457,229,228,1,19,292,219,73,0,22.85,1.35,-4.78,ram
+12,13,Sun,2023-12-03,4:25PM ET,boxscore,W,NO,6-Jun,Home,Cleveland Browns,36,19,20,399,279,120,0,20,327,240,87,1,16.49,1.73,-1.43,ram
+13,14,Sun,2023-12-10,1:00PM ET,boxscore,L,OT,7-Jun,Away,Baltimore Ravens,31,37,24,410,282,128,0,23,449,310,139,1,7.96,-13.48,-0.55,ram
+14,15,Sun,2023-12-17,4:05PM ET,boxscore,W,NO,7-Jul,Home,Washington Commanders,28,20,23,445,249,196,2,14,297,218,79,1,8.81,2.14,-3.33,ram
+15,16,Thu,2023-12-21,8:15PM ET,boxscore,W,NO,7-Aug,Home,New Orleans Saints,30,22,23,458,325,133,0,18,339,304,35,1,18.19,-1.69,-4.89,ram
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,7-Sep,Away,New York Giants,26,25,22,391,286,105,3,17,389,284,105,1,2.7,4.35,-4.87,ram
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,7-Oct,Away,San Francisco 49ers,21,20,19,258,149,109,1,20,300,175,125,1,11.3,-9.48,2.42,ram
+19,Wild Card,Sun,2024-01-14,8:15PM ET,boxscore,L,NO,8-Oct,Away,Detroit Lions,23,24,22,425,357,68,0,23,334,255,79,0,19.93,-15.39,-4.78,ram
+0,1,Sun,2023-09-10,4:25PM ET,boxscore,L,NO,0-1,Home,Los Angeles Rams,13,30,13,180,95,85,0,27,426,334,92,0,-1.77,-20.95,5.73,sea
+1,2,Sun,2023-09-17,1:00PM ET,boxscore,W,OT,1-Jan,Away,Detroit Lions,37,31,28,393,311,82,0,25,418,316,102,3,18,-4.65,-7.35,sea
+2,3,Sun,2023-09-24,4:05PM ET,boxscore,W,NO,1-Feb,Home,Carolina Panthers,37,27,27,425,279,146,1,23,378,334,44,0,10.21,-6.08,4.29,sea
+3,4,Mon,2023-10-02,8:15PM ET,boxscore,W,NO,1-Mar,Away,New York Giants,24,3,13,281,160,121,0,17,248,136,112,3,-7.86,29.37,0.33,sea
+5,6,Sun,2023-10-15,1:00PM ET,boxscore,L,NO,2-Mar,Away,Cincinnati Bengals,13,17,24,384,297,87,2,15,214,168,46,1,-3.89,1.37,-1.98,sea
+6,7,Sun,2023-10-22,4:05PM ET,boxscore,W,NO,2-Apr,Home,Arizona Cardinals,20,10,18,318,203,115,3,15,249,122,127,0,2.2,10.34,-3.57,sea
+7,8,Sun,2023-10-29,4:05PM ET,boxscore,W,NO,2-May,Home,Cleveland Browns,24,20,17,362,248,114,2,23,385,230,155,3,6.04,0,2.5,sea
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,3-May,Away,Baltimore Ravens,3,37,6,151,123,28,2,29,515,217,298,2,-21.73,-17.08,5.23,sea
+9,10,Sun,2023-11-12,4:25PM ET,boxscore,W,NO,3-Jun,Home,Washington Commanders,29,26,27,489,369,120,0,16,356,288,68,1,15.28,-7.66,-2.61,sea
+10,11,Sun,2023-11-19,4:25PM ET,boxscore,L,NO,4-Jun,Away,Los Angeles Rams,16,17,16,291,223,68,1,20,267,185,82,1,0.28,-2.26,-0.2,sea
+11,12,Thu,2023-11-23,8:20PM ET,boxscore,L,NO,5-Jun,Home,San Francisco 49ers,13,31,14,220,132,88,2,23,377,208,169,1,-10.62,-8.06,0.59,sea
+12,13,Thu,2023-11-30,8:15PM ET,boxscore,L,NO,6-Jun,Away,Dallas Cowboys,35,41,25,406,334,72,1,33,411,275,136,0,20.82,-24.14,-3.78,sea
+13,14,Sun,2023-12-10,4:05PM ET,boxscore,L,NO,7-Jun,Away,San Francisco 49ers,16,28,17,324,254,70,2,19,527,354,173,2,-1.61,-19.7,3.47,sea
+14,15,Sun,2023-12-18,8:15PM ET,boxscore,W,NO,7-Jul,Home,Philadelphia Eagles,20,17,16,297,197,100,0,23,321,143,178,2,6.27,-5.2,-0.39,sea
+15,16,Sun,2023-12-24,1:00PM ET,boxscore,W,NO,7-Aug,Away,Tennessee Titans,20,17,21,273,215,58,0,23,287,125,162,0,13.04,-9.37,0.67,sea
+16,17,Sun,2023-12-31,4:05PM ET,boxscore,L,NO,8-Aug,Home,Pittsburgh Steelers,23,30,17,369,281,88,1,25,468,266,202,0,7.51,-20.36,0.67,sea
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,W,NO,8-Sep,Away,Arizona Cardinals,21,20,18,327,189,138,0,24,466,260,206,0,10.16,-18.03,6.27,sea
+0,1,Sun,2023-09-10,1:00PM ET,boxscore,L,NO,0-1,Away,Washington Commanders,16,20,13,210,114,96,2,21,248,156,92,3,-19.87,9.25,4.96,crd
+1,2,Sun,2023-09-17,4:05PM ET,boxscore,L,NO,0-2,Home,New York Giants,28,31,24,379,228,151,0,26,439,312,127,1,15.48,-16.76,-2.39,crd
+2,3,Sun,2023-09-24,4:25PM ET,boxscore,W,NO,2-Jan,Home,Dallas Cowboys,28,16,20,400,178,222,0,26,416,231,185,1,18.46,-6.78,1.14,crd
+3,4,Sun,2023-10-01,4:25PM ET,boxscore,L,NO,3-Jan,Away,San Francisco 49ers,16,35,23,362,257,105,0,30,395,271,124,0,9.72,-30.46,1.63,crd
+4,5,Sun,2023-10-08,4:05PM ET,boxscore,L,NO,4-Jan,Home,Cincinnati Bengals,20,34,15,294,152,142,3,27,380,287,93,1,-9.49,-4.11,-0.68,crd
+5,6,Sun,2023-10-15,4:25PM ET,boxscore,L,NO,5-Jan,Away,Los Angeles Rams,9,26,20,345,215,130,2,17,382,203,179,1,-12.85,-10.25,7.36,crd
+6,7,Sun,2023-10-22,4:05PM ET,boxscore,L,NO,6-Jan,Away,Seattle Seahawks,10,20,15,249,122,127,0,18,318,203,115,3,-10.34,-2.2,3.57,crd
+7,8,Sun,2023-10-29,4:25PM ET,boxscore,L,NO,7-Jan,Home,Baltimore Ravens,24,31,22,310,181,129,2,21,268,138,130,0,-3.72,-9.2,1.65,crd
+8,9,Sun,2023-11-05,1:00PM ET,boxscore,L,NO,8-Jan,Away,Cleveland Browns,0,27,7,58,17,41,3,17,326,213,113,0,-35.86,-0.59,7.62,crd
+9,10,Sun,2023-11-12,4:05PM ET,boxscore,W,NO,8-Feb,Home,Atlanta Falcons,25,23,20,352,230,122,1,20,254,70,184,0,0.59,-4.7,6.18,crd
+10,11,Sun,2023-11-19,1:00PM ET,boxscore,L,NO,9-Feb,Away,Houston Texans,16,21,20,319,196,123,2,22,419,308,111,3,-1.11,-4.22,0.49,crd
+11,12,Sun,2023-11-26,4:05PM ET,boxscore,L,NO,10-Feb,Home,Los Angeles Rams,14,37,19,292,219,73,0,25,457,229,228,1,-1.35,-22.85,4.78,crd
+12,13,Sun,2023-12-03,1:00PM ET,boxscore,W,NO,10-Mar,Away,Pittsburgh Steelers,24,10,18,282,132,150,0,18,317,187,130,1,6.39,2.22,7.39,crd
+14,15,Sun,2023-12-17,4:05PM ET,boxscore,L,NO,11-Mar,Home,San Francisco 49ers,29,45,22,436,202,234,2,24,406,262,144,0,5.83,-26.28,1.07,crd
+15,16,Sun,2023-12-24,4:25PM ET,boxscore,L,NO,12-Mar,Away,Chicago Bears,16,27,16,306,213,93,0,22,420,170,250,1,-4.06,-9.8,4.35,crd
+16,17,Sun,2023-12-31,1:00PM ET,boxscore,W,NO,12-Apr,Away,Philadelphia Eagles,35,31,32,449,228,221,1,17,275,184,91,1,21.16,-13.61,-3.99,crd
+17,18,Sun,2024-01-07,4:25PM ET,boxscore,L,NO,13-Apr,Home,Seattle Seahawks,20,21,24,466,260,206,0,18,327,189,138,0,18.03,-10.16,-6.27,crd
+0,1,Thu,2022-09-08,8:20PM ET,boxscore,W,NO,Jan-00,Away,Los Angeles Rams,31,10,23,413,292,121,4,19,243,191,52,3,13.89,10.29,-3.96,buf
+1,2,Mon,2022-09-19,7:15PM ET,boxscore,W,NO,Feb-00,Home,Tennessee Titans,41,7,23,414,313,101,0,12,187,107,80,4,17.69,18.01,1.55,buf
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,1-Feb,Away,Miami Dolphins,19,21,31,497,382,115,1,15,212,171,41,0,15.88,-7.45,-4.86,buf
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,1-Mar,Away,Baltimore Ravens,23,20,22,326,201,125,2,22,296,134,162,2,2.1,2.66,-1.69,buf
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,1-Apr,Home,Pittsburgh Steelers,38,3,21,552,432,120,2,23,364,310,54,2,20.66,9.42,3.54,buf
+5,6,Sun,2022-10-16,4:25PM ET,boxscore,W,NO,1-May,Away,Kansas City Chiefs,24,20,26,443,318,125,1,23,387,319,68,2,11.13,-6.45,0.56,buf
+7,8,Sun,2022-10-30,8:20PM ET,boxscore,W,NO,1-Jun,Home,Green Bay Packers,27,17,20,369,216,153,2,21,398,190,208,1,12.79,-5.55,4.01,buf
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,2-Jun,Away,New York Jets,17,20,19,317,183,134,2,21,310,136,174,1,0.54,-7.64,2.11,buf
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,OT,3-Jun,Home,Minnesota Vikings,30,33,29,486,311,175,4,24,481,334,147,2,1.45,-4.8,-0.39,buf
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,3-Jul,Home,Cleveland Browns,31,23,22,357,186,171,0,27,396,316,80,1,6,-10.86,13.72,buf
+11,12,Thu,2022-11-24,12:30PM ET,boxscore,W,NO,3-Aug,Away,Detroit Lions,28,25,28,401,237,164,1,22,326,230,96,2,16.07,-12.71,-3.07,buf
+12,13,Thu,2022-12-01,8:15PM ET,boxscore,W,NO,3-Sep,Away,New England Patriots,24,10,22,355,223,132,1,14,242,182,60,0,9.5,1.41,3.26,buf
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,3-Oct,Home,New York Jets,20,12,14,232,130,102,0,19,309,233,76,2,-5.17,12.35,3.77,buf
+14,15,Sat,2022-12-17,8:15PM ET,boxscore,W,NO,3-Nov,Home,Miami Dolphins,32,29,29,446,296,150,1,20,405,217,188,0,19.07,-10.87,-4.2,buf
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,3-Dec,Away,Chicago Bears,35,13,20,426,172,254,3,11,209,129,80,2,9.47,20.55,-9.39,buf
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,13-3,Home,New England Patriots,35,23,18,327,237,90,3,20,341,234,107,3,5.28,2.57,7.7,buf
+19,Wild Card,Sun,2023-01-15,1:00PM ET,boxscore,W,NO,14-3,Home,Miami Dolphins,34,31,25,423,316,107,3,16,231,189,42,2,-2.41,15.56,-6.64,buf
+20,Division,Sun,2023-01-22,3:00PM ET,boxscore,L,NO,14-4,Home,Cincinnati Bengals,10,27,19,325,261,64,1,30,412,240,172,0,3.52,-22.03,1.83,buf
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,Jan-00,Home,New England Patriots,20,7,18,307,242,65,0,17,271,193,78,3,6.08,8.28,1.98,mia
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,Feb-00,Away,Baltimore Ravens,42,38,27,547,461,86,2,23,473,318,155,0,32,-20.31,-7.09,mia
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,Mar-00,Home,Buffalo Bills,21,19,15,212,171,41,0,31,497,382,115,1,7.45,-15.88,4.86,mia
+3,4,Thu,2022-09-29,8:15PM ET,boxscore,L,NO,Mar-24,Away,Cincinnati Bengals,15,27,20,378,293,85,2,16,371,304,67,0,0.48,-9.11,-3.73,mia
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,2-Mar,Away,New York Jets,17,40,19,295,158,137,2,21,322,187,135,0,-6.15,-11.86,-3.66,mia
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,3-Mar,Home,Minnesota Vikings,16,24,23,458,385,73,3,11,234,156,78,0,-8.38,4.43,-4.75,mia
+6,7,Sun,2022-10-23,8:20PM ET,boxscore,W,NO,3-Apr,Home,Pittsburgh Steelers,16,10,17,372,261,111,0,19,341,246,95,3,0.04,6.72,-2.49,mia
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,3-May,Away,Detroit Lions,31,27,27,476,369,107,1,22,393,311,82,0,25.47,-19.14,-0.59,mia
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,3-Jun,Away,Chicago Bears,35,32,21,379,302,77,0,23,368,116,252,0,19.83,-17.18,2.01,mia
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,3-Jul,Home,Cleveland Browns,39,17,29,491,296,195,0,20,297,185,112,1,28.5,1.04,-4.93,mia
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,3-Aug,Home,Houston Texans,30,15,25,339,273,66,1,14,210,174,36,3,-1.9,22.74,-3.97,mia
+12,13,Sun,2022-12-04,4:05PM ET,boxscore,L,NO,4-Aug,Away,San Francisco 49ers,17,33,14,308,275,33,4,24,351,230,121,1,-13.36,-1.78,-1,mia
+13,14,Sun,2022-12-11,8:20PM ET,boxscore,L,NO,5-Aug,Away,Los Angeles Chargers,17,23,14,219,127,92,0,24,432,350,82,0,1.14,-9.39,1.98,mia
+14,15,Sat,2022-12-17,8:15PM ET,boxscore,L,NO,6-Aug,Away,Buffalo Bills,29,32,20,405,217,188,0,29,446,296,150,1,10.87,-19.07,4.2,mia
+15,16,Sun,2022-12-25,1:00PM ET,boxscore,L,NO,7-Aug,Home,Green Bay Packers,20,26,15,376,294,82,4,17,301,222,79,1,-2.13,3.46,-6.52,mia
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,8-Aug,Away,New England Patriots,21,23,21,333,247,86,2,14,249,173,76,0,-1.36,1.2,-1.03,mia
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,8-Sep,Home,New York Jets,11,6,17,302,140,162,0,11,187,149,38,0,-3.96,7.03,1.31,mia
+19,Wild Card,Sun,2023-01-15,1:00PM ET,boxscore,L,NO,9-Sep,Away,Buffalo Bills,31,34,16,231,189,42,2,25,423,316,107,3,-15.56,2.41,6.64,mia
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Away,Miami Dolphins,7,20,17,271,193,78,3,18,307,242,65,0,-8.28,-6.08,-1.98,nwe
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,1-Jan,Away,Pittsburgh Steelers,17,14,18,376,252,124,1,16,243,152,91,2,6.14,3.44,-3.25,nwe
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,2-Jan,Home,Baltimore Ravens,26,37,22,447,302,145,4,19,394,206,188,2,3.5,-11.67,-3.18,nwe
+3,4,Sun,2022-10-02,4:25PM ET,boxscore,L,OT,3-Jan,Away,Green Bay Packers,24,27,17,271,104,167,1,24,443,244,199,2,-2,-5.17,2.64,nwe
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,3-Feb,Home,Detroit Lions,29,0,22,364,188,176,1,17,312,211,101,2,10.08,22.04,-3.38,nwe
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,3-Mar,Away,Cleveland Browns,38,15,20,399,301,98,1,16,328,258,70,4,11.3,12.35,-0.09,nwe
+6,7,Mon,2022-10-24,8:15PM ET,boxscore,L,NO,4-Mar,Home,Chicago Bears,14,33,12,260,190,70,4,24,390,147,243,1,-10.97,-8.77,-0.11,nwe
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,4-Apr,Away,New York Jets,22,17,19,288,161,127,1,17,387,336,51,3,-9.31,2.3,12.01,nwe
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,4-May,Home,Indianapolis Colts,26,3,11,203,133,70,1,8,121,43,78,1,-9.55,31.93,-1.05,nwe
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,4-Jun,Home,New York Jets,10,3,13,297,198,99,0,6,103,44,59,0,-9.78,18.64,-5.4,nwe
+11,12,Thu,2022-11-24,8:20PM ET,boxscore,L,NO,5-Jun,Away,Minnesota Vikings,26,33,17,409,364,45,0,23,358,301,57,1,11.53,-9.14,-7.59,nwe
+12,13,Thu,2022-12-01,8:15PM ET,boxscore,L,NO,6-Jun,Home,Buffalo Bills,10,24,14,242,182,60,0,22,355,223,132,1,-1.41,-9.5,-3.26,nwe
+13,14,Mon,2022-12-12,8:15PM ET,boxscore,W,NO,6-Jul,Away,Arizona Cardinals,27,13,18,328,225,103,1,19,323,210,113,2,-0.47,17.43,-0.9,nwe
+14,15,Sun,2022-12-18,4:05PM ET,boxscore,L,NO,7-Jul,Away,Las Vegas Raiders,24,30,19,318,112,206,1,18,308,211,97,1,-7.82,2.33,-2.58,nwe
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,8-Jul,Home,Cincinnati Bengals,18,22,15,285,224,61,1,28,442,369,73,3,-5,-0.86,-1.12,nwe
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,8-Aug,Home,Miami Dolphins,23,21,14,249,173,76,0,21,333,247,86,2,-1.2,1.36,1.03,nwe
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,9-Aug,Away,Buffalo Bills,23,35,20,341,234,107,3,18,327,237,90,3,-2.57,-5.28,-7.7,nwe
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Home,Baltimore Ravens,9,24,24,380,297,83,2,13,274,211,63,1,-8.07,-3.65,-5.04,nyj
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,1-Jan,Away,Cleveland Browns,31,30,20,402,309,93,1,29,405,221,184,1,15.19,-17.92,5.38,nyj
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,2-Jan,Home,Cincinnati Bengals,12,27,19,328,252,76,4,20,330,261,69,1,-16.45,-3.99,6.98,nyj
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,2-Feb,Away,Pittsburgh Steelers,24,20,19,348,250,98,2,20,297,178,119,4,-1.46,2.55,2.91,nyj
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,2-Mar,Home,Miami Dolphins,40,17,21,322,187,135,0,19,295,158,137,2,11.86,6.15,3.66,nyj
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,2-Apr,Away,Green Bay Packers,27,10,14,278,99,179,0,15,278,218,60,1,-2.59,16.24,4.32,nyj
+6,7,Sun,2022-10-23,4:05PM ET,boxscore,W,NO,2-May,Away,Denver Broncos,16,9,10,260,105,155,0,21,324,219,105,1,-8.14,8.53,8.12,nyj
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,3-May,Home,New England Patriots,17,22,17,387,336,51,3,19,288,161,127,1,-2.3,9.31,-12.01,nyj
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,3-Jun,Home,Buffalo Bills,20,17,21,310,136,174,1,19,317,183,134,2,7.64,-0.54,-2.11,nyj
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,4-Jun,Away,New England Patriots,3,10,6,103,44,59,0,13,297,198,99,0,-18.64,9.78,5.4,nyj
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,4-Jul,Home,Chicago Bears,31,10,22,466,308,158,0,14,292,165,127,1,20.96,3.97,-3.63,nyj
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,5-Jul,Away,Minnesota Vikings,22,27,23,486,366,120,2,21,287,159,128,0,1.01,-5.08,-0.01,nyj
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,6-Jul,Away,Buffalo Bills,12,20,19,309,233,76,2,14,232,130,102,0,-12.35,5.17,-3.77,nyj
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,NO,7-Jul,Home,Detroit Lions,17,20,18,337,287,50,1,17,359,252,107,0,3.71,-2.21,-2.44,nyj
+15,16,Thu,2022-12-22,8:15PM ET,boxscore,L,NO,8-Jul,Home,Jacksonville Jaguars,3,19,10,227,161,66,2,19,365,218,147,1,-14.15,-3,5.11,nyj
+16,17,Sun,2023-01-01,4:05PM ET,boxscore,L,NO,9-Jul,Away,Seattle Seahawks,6,23,20,279,204,75,3,20,346,148,198,0,-16.78,-3.31,4.05,nyj
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,10-Jul,Away,Miami Dolphins,6,11,11,187,149,38,0,17,302,140,162,0,-7.03,3.96,-1.31,nyj
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,OT,0-1,Home,Pittsburgh Steelers,20,23,32,432,299,133,5,13,267,192,75,0,-7.49,8.41,-4.85,cin
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,L,NO,0-2,Away,Dallas Cowboys,17,20,19,254,165,89,0,19,337,230,107,1,0.76,-6.08,1.25,cin
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,2-Jan,Away,New York Jets,27,12,20,330,261,69,1,19,328,252,76,4,3.99,16.45,-6.98,cin
+3,4,Thu,2022-09-29,8:15PM ET,boxscore,W,NO,2-Feb,Home,Miami Dolphins,27,15,16,371,304,67,0,20,378,293,85,2,9.11,-0.48,3.73,cin
+4,5,Sun,2022-10-09,8:20PM ET,boxscore,L,NO,3-Feb,Away,Baltimore Ravens,17,19,20,291,190,101,1,22,325,170,155,1,3.22,-3.89,-1.19,cin
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,3-Mar,Away,New Orleans Saints,30,26,21,348,273,75,1,22,399,171,228,0,17.18,-9.06,-2.4,cin
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,3-Apr,Home,Atlanta Falcons,35,17,29,537,459,78,0,13,214,107,107,0,33.05,-3.19,-6.33,cin
+7,8,Mon,2022-10-31,8:15PM ET,boxscore,L,NO,4-Apr,Away,Cleveland Browns,13,32,15,229,193,36,2,24,440,268,172,2,-3.49,-15.92,-2.71,cin
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,4-May,Home,Carolina Panthers,42,21,30,464,223,241,0,13,228,164,64,3,30.2,-0.37,-12.97,cin
+10,11,Sun,2022-11-20,4:25PM ET,boxscore,W,NO,4-Jun,Away,Pittsburgh Steelers,37,30,22,408,346,62,2,17,351,249,102,0,9.45,-3.17,2.27,cin
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,4-Jul,Away,Tennessee Titans,20,16,21,374,266,108,0,15,344,281,63,0,5.39,-4.57,5.94,cin
+12,13,Sun,2022-12-04,4:25PM ET,boxscore,W,NO,4-Aug,Home,Kansas City Chiefs,27,24,26,431,279,152,0,20,349,211,138,1,19.79,-16.21,1.75,cin
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,4-Sep,Home,Cleveland Browns,23,10,23,363,227,136,1,18,344,273,71,1,7.01,8.32,-3.29,cin
+14,15,Sun,2022-12-18,4:25PM ET,boxscore,W,NO,4-Oct,Away,Tampa Bay Buccaneers,34,23,20,237,184,53,1,25,396,304,92,4,1.78,1.98,7.2,cin
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,4-Nov,Away,New England Patriots,22,18,28,442,369,73,3,15,285,224,61,1,0.86,5,1.12,cin
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,4-Dec,Home,Baltimore Ravens,27,16,15,257,202,55,1,20,386,276,110,4,-9.98,13.37,2.37,cin
+19,Wild Card,Sun,2023-01-15,8:15PM ET,boxscore,W,NO,13-4,Home,Baltimore Ravens,24,17,18,234,183,51,1,23,364,209,155,2,0.7,1.77,2.72,cin
+20,Division,Sun,2023-01-22,3:00PM ET,boxscore,W,NO,14-4,Away,Buffalo Bills,27,10,30,412,240,172,0,19,325,261,64,1,22.03,-3.52,-1.83,cin
+21,Conf. Champ.,Sun,2023-01-29,6:30PM ET,boxscore,L,NO,14-5,Away,Kansas City Chiefs,20,23,18,309,238,71,2,23,357,315,42,1,4.06,-8.86,3.07,cin
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,Jan-00,Away,New York Jets,24,9,13,274,211,63,1,24,380,297,83,2,3.65,8.07,5.04,rav
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,1-Jan,Home,Miami Dolphins,38,42,23,473,318,155,0,27,547,461,86,2,20.31,-32,7.09,rav
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,Feb-24,Away,New England Patriots,37,26,19,394,206,188,2,22,447,302,145,4,11.67,-3.5,3.18,rav
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,2-Feb,Home,Buffalo Bills,20,23,22,296,134,162,2,22,326,201,125,2,-2.66,-2.1,1.69,rav
+4,5,Sun,2022-10-09,8:20PM ET,boxscore,W,NO,2-Mar,Home,Cincinnati Bengals,19,17,22,325,170,155,1,20,291,190,101,1,3.89,-3.22,1.19,rav
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,3-Mar,Away,New York Giants,20,24,23,406,195,211,2,18,238,155,83,1,6,-4.93,-8.06,rav
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,3-Apr,Home,Cleveland Browns,23,20,17,254,94,160,1,18,336,223,113,2,1.58,-6.61,7.18,rav
+7,8,Thu,2022-10-27,8:15PM ET,boxscore,W,NO,3-May,Away,Tampa Bay Buccaneers,27,22,27,453,222,231,0,20,349,305,44,1,11.24,-8.68,6.73,rav
+8,9,Mon,2022-11-07,8:15PM ET,boxscore,W,NO,3-Jun,Away,New Orleans Saints,27,13,23,319,131,188,0,13,243,195,48,1,11.91,3.99,-1.6,rav
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,3-Jul,Home,Carolina Panthers,13,3,19,308,193,115,1,13,205,169,36,3,-5.63,20.39,-3.58,rav
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,4-Jul,Away,Jacksonville Jaguars,27,28,24,415,253,162,2,18,332,294,38,1,8.53,-5.31,-1.38,rav
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,4-Aug,Home,Denver Broncos,10,9,20,285,182,103,2,12,272,184,88,0,-2.33,4.43,-1.45,rav
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,4-Sep,Away,Pittsburgh Steelers,16,14,18,309,94,215,0,23,329,264,65,3,1.06,-7.51,6.16,rav
+14,15,Sat,2022-12-17,4:30PM ET,boxscore,L,NO,5-Sep,Away,Cleveland Browns,3,13,17,324,126,198,2,19,283,140,143,0,-7.94,-2.64,-0.26,rav
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,5-Oct,Home,Atlanta Falcons,17,9,15,299,115,184,0,17,327,212,115,1,2.18,7.26,-3.42,rav
+16,17,Sun,2023-01-01,8:20PM ET,boxscore,L,NO,6-Oct,Home,Pittsburgh Steelers,13,16,15,240,120,120,1,22,351,153,198,0,-0.15,-9.3,6.66,rav
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,7-Oct,Away,Cincinnati Bengals,16,27,20,386,276,110,4,15,257,202,55,1,-13.37,9.98,-2.37,rav
+19,Wild Card,Sun,2023-01-15,8:15PM ET,boxscore,L,NO,8-Oct,Away,Cincinnati Bengals,17,24,23,364,209,155,2,18,234,183,51,1,-1.77,-0.7,-2.72,rav
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,OT,1-Jan,Away,Cincinnati Bengals,23,20,13,267,192,75,0,32,432,299,133,5,-8.41,7.49,4.85,pit
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,1-Jan,Home,New England Patriots,14,17,16,243,152,91,2,18,376,252,124,1,-3.44,-6.14,3.25,pit
+2,3,Thu,2022-09-22,8:15PM ET,boxscore,L,NO,Jan-24,Away,Cleveland Browns,17,29,20,308,204,104,1,22,376,205,171,0,-1.19,-10.79,-0.62,pit
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,3-Jan,Home,New York Jets,20,24,20,297,178,119,4,19,348,250,98,2,-2.55,1.46,-2.91,pit
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,4-Jan,Away,Buffalo Bills,3,38,23,364,310,54,2,21,552,432,120,2,-9.42,-20.66,-3.54,pit
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,4-Feb,Home,Tampa Bay Buccaneers,20,18,15,270,193,77,0,20,304,229,75,0,2.61,-0.17,2.77,pit
+6,7,Sun,2022-10-23,8:20PM ET,boxscore,L,NO,5-Feb,Away,Miami Dolphins,10,16,19,341,246,95,3,17,372,261,111,0,-6.72,-0.04,2.49,pit
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,6-Feb,Away,Philadelphia Eagles,13,35,21,302,158,144,2,20,401,290,111,0,-4.96,-23.31,2.01,pit
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,6-Mar,Home,New Orleans Saints,20,10,28,379,162,217,0,10,186,157,29,2,13.42,10.6,-11.01,pit
+10,11,Sun,2022-11-20,4:25PM ET,boxscore,L,NO,7-Mar,Home,Cincinnati Bengals,30,37,17,351,249,102,0,22,408,346,62,2,3.17,-9.45,-2.27,pit
+11,12,Mon,2022-11-28,8:15PM ET,boxscore,W,NO,7-Apr,Away,Indianapolis Colts,24,17,22,323,151,172,0,19,290,180,110,2,7.95,3.22,-7.37,pit
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,7-May,Away,Atlanta Falcons,19,16,22,351,197,154,0,18,306,160,146,1,9.6,-0.33,-1.33,pit
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,8-May,Home,Baltimore Ravens,14,16,23,329,264,65,3,18,309,94,215,0,7.51,-1.06,-6.16,pit
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,NO,8-Jun,Away,Carolina Panthers,24,16,22,325,169,156,0,12,209,188,21,0,12.16,-3.72,1.58,pit
+15,16,Sat,2022-12-24,8:15PM ET,boxscore,W,NO,8-Jul,Home,Las Vegas Raiders,13,10,19,350,244,106,1,13,201,143,58,3,2.33,9.12,-5.58,pit
+16,17,Sun,2023-01-01,8:20PM ET,boxscore,W,NO,8-Aug,Away,Baltimore Ravens,16,13,22,351,153,198,0,15,240,120,120,1,9.3,0.15,-6.66,pit
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,8-Sep,Home,Cleveland Browns,28,14,23,333,189,144,1,18,307,173,134,2,10.81,-3.47,2.18,pit
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,1-Jan,Away,Carolina Panthers,26,24,23,355,138,217,0,15,261,207,54,1,6.82,-5.38,1.66,cle
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,1-Jan,Home,New York Jets,30,31,29,405,221,184,1,20,402,309,93,1,17.92,-15.19,-5.38,cle
+2,3,Thu,2022-09-22,8:15PM ET,boxscore,W,NO,Feb-24,Home,Pittsburgh Steelers,29,17,22,376,205,171,0,20,308,204,104,1,10.79,1.19,0.62,cle
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,2-Feb,Away,Atlanta Falcons,20,23,22,403,226,177,2,19,333,131,202,1,5.25,-5.92,-1.44,cle
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,3-Feb,Home,Los Angeles Chargers,28,30,27,443,230,213,1,26,465,227,238,0,16.53,-16.01,-4.92,cle
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,4-Feb,Home,New England Patriots,15,38,16,328,258,70,4,20,399,301,98,1,-12.35,-11.3,0.09,cle
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,5-Feb,Away,Baltimore Ravens,20,23,18,336,223,113,2,17,254,94,160,1,6.61,-1.58,-7.18,cle
+7,8,Mon,2022-10-31,8:15PM ET,boxscore,W,NO,5-Mar,Home,Cincinnati Bengals,32,13,24,440,268,172,2,15,229,193,36,2,15.92,3.49,2.71,cle
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,6-Mar,Away,Miami Dolphins,17,39,20,297,185,112,1,29,491,296,195,0,-1.04,-28.5,4.93,cle
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,7-Mar,Away,Buffalo Bills,23,31,27,396,316,80,1,22,357,186,171,0,10.86,-6,-13.72,cle
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,OT,7-Apr,Home,Tampa Bay Buccaneers,23,17,22,367,178,189,1,16,325,229,96,0,2.41,1.81,1.78,cle
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,7-May,Away,Houston Texans,27,14,14,304,130,174,2,16,283,201,82,4,-13.96,23.84,5.52,cle
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,8-May,Away,Cincinnati Bengals,10,23,18,344,273,71,1,23,363,227,136,1,-8.32,-7.01,3.29,cle
+14,15,Sat,2022-12-17,4:30PM ET,boxscore,W,NO,8-Jun,Home,Baltimore Ravens,13,3,19,283,140,143,0,17,324,126,198,2,2.64,7.94,0.26,cle
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,9-Jun,Home,New Orleans Saints,10,17,15,249,125,124,1,14,244,92,152,1,-12.78,4.01,2.04,cle
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,9-Jul,Away,Washington Commanders,24,10,16,301,155,146,0,17,260,124,136,3,7.26,7.5,-0.54,cle
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,10-Jul,Away,Pittsburgh Steelers,14,28,18,307,173,134,2,23,333,189,144,1,3.47,-10.81,-2.18,cle
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Away,Washington Commanders,22,28,24,383,260,123,1,26,390,305,85,3,3.64,-9.54,-0.26,jax
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,1-Jan,Home,Indianapolis Colts,24,0,21,331,235,96,0,9,218,164,54,3,7.05,20.67,-3.43,jax
+2,3,Sun,2022-09-25,4:05PM ET,boxscore,W,NO,1-Feb,Away,Los Angeles Chargers,38,10,25,413,262,151,0,16,312,286,26,2,18.06,10.35,-2.6,jax
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,2-Feb,Away,Philadelphia Eagles,21,29,13,219,148,71,5,25,401,191,210,1,-11.06,0.18,1.97,jax
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,3-Feb,Home,Houston Texans,6,13,22,422,286,136,2,15,248,132,116,0,-2.39,2,-3.89,jax
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,4-Feb,Away,Indianapolis Colts,27,34,25,379,136,243,1,29,434,389,45,0,16.47,-21.98,-3.81,jax
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,5-Feb,Home,New York Giants,17,23,27,452,310,142,1,27,436,200,236,0,14.14,-17,2.5,jax
+7,8,Sun,2022-10-30,9:30AM ET,boxscore,L,NO,6-Feb,Home,Denver Broncos,17,21,24,305,114,191,2,18,331,230,101,1,-1.81,-4.66,-3.24,jax
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,6-Mar,Home,Las Vegas Raiders,27,20,22,403,235,168,1,16,321,248,73,1,13.11,0.43,-2.69,jax
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,7-Mar,Away,Kansas City Chiefs,17,27,17,315,240,75,0,26,486,331,155,3,3.86,-23.27,7.32,jax
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,7-Apr,Home,Baltimore Ravens,28,27,18,332,294,38,1,24,415,253,162,2,5.31,-8.53,1.38,jax
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,8-Apr,Away,Detroit Lions,14,40,14,266,171,95,1,31,437,337,100,0,-3.84,-25.2,-0.8,jax
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,8-May,Away,Tennessee Titans,36,22,22,428,368,60,0,22,364,227,137,4,13.06,3.01,-3.47,jax
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,OT,8-Jun,Home,Dallas Cowboys,40,34,26,503,311,192,3,24,397,243,154,2,16.24,-8.92,0.94,jax
+15,16,Thu,2022-12-22,8:15PM ET,boxscore,W,NO,8-Jul,Away,New York Jets,19,3,19,365,218,147,1,10,227,161,66,2,3,14.15,-5.11,jax
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,8-Aug,Away,Houston Texans,31,3,20,337,168,169,2,13,277,193,84,1,4.68,23.38,-4.1,jax
+17,18,Sat,2023-01-07,8:15PM ET,boxscore,W,NO,8-Sep,Home,Tennessee Titans,20,16,13,222,203,19,1,19,312,165,147,2,-4.3,9.68,-1.28,jax
+19,Wild Card,Sat,2023-01-14,8:15PM ET,boxscore,W,NO,8-Oct,Home,Los Angeles Chargers,31,30,24,390,273,117,5,18,320,253,67,0,3.13,-3.29,0.98,jax
+20,Division,Sat,2023-01-21,4:30PM ET,boxscore,L,NO,9-Oct,Away,Kansas City Chiefs,20,27,20,349,205,144,2,23,362,218,144,0,4.86,-13.73,0.1,jax
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,L,NO,0-1,Home,New York Giants,20,21,19,359,266,93,1,19,394,156,238,2,5.97,-3.72,-2.44,oti
+1,2,Mon,2022-09-19,7:15PM ET,boxscore,L,NO,0-2,Away,Buffalo Bills,7,41,12,187,107,80,4,23,414,313,101,0,-18.01,-17.69,-1.55,oti
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,2-Jan,Home,Las Vegas Raiders,24,22,19,361,252,109,1,24,396,300,96,1,9.1,-9.09,4.28,oti
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,2-Feb,Away,Indianapolis Colts,24,17,19,243,116,127,0,21,365,327,38,3,5.33,-3.36,6.98,oti
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,2-Mar,Away,Washington Commanders,21,17,15,241,136,105,0,17,385,342,43,1,0.25,-1.03,3.63,oti
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,2-Apr,Home,Indianapolis Colts,19,10,16,254,116,138,1,17,292,227,65,3,-4.47,12.48,2.52,oti
+7,8,Sun,2022-10-30,4:05PM ET,boxscore,W,NO,2-May,Away,Houston Texans,17,10,16,354,40,314,2,10,161,118,43,1,2.29,14.53,-7.78,oti
+8,9,Sun,2022-11-06,8:20PM ET,boxscore,L,OT,3-May,Away,Kansas City Chiefs,17,20,9,229,57,172,0,29,499,422,77,1,-3.85,-5.59,5.59,oti
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,3-Jun,Home,Denver Broncos,17,10,14,307,244,63,1,18,313,248,65,1,-3.15,5.39,4.06,oti
+10,11,Thu,2022-11-17,8:15PM ET,boxscore,W,NO,3-Jul,Away,Green Bay Packers,27,17,21,408,320,88,1,15,271,215,56,0,15.39,0.61,-2.77,oti
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,4-Jul,Home,Cincinnati Bengals,16,20,15,344,281,63,0,21,374,266,108,0,4.57,-5.39,-5.94,oti
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,5-Jul,Away,Philadelphia Eagles,10,35,11,209,122,87,0,26,453,386,67,0,-8.95,-25.58,6.75,oti
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,6-Jul,Home,Jacksonville Jaguars,22,36,22,364,227,137,4,22,428,368,60,0,-3.01,-13.06,3.47,oti
+14,15,Sun,2022-12-18,4:25PM ET,boxscore,L,NO,7-Jul,Away,Los Angeles Chargers,14,17,17,284,157,127,1,23,365,291,74,2,-2.21,-1.7,1.72,oti
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,8-Jul,Home,Houston Texans,14,19,16,272,88,184,3,15,285,215,70,1,-10.96,5.71,2.1,oti
+16,17,Thu,2022-12-29,8:15PM ET,boxscore,L,NO,9-Jul,Home,Dallas Cowboys,13,27,17,317,220,97,2,26,361,274,87,3,-5.83,-8.93,1.28,oti
+17,18,Sat,2023-01-07,8:15PM ET,boxscore,L,NO,10-Jul,Away,Jacksonville Jaguars,16,20,19,312,165,147,2,13,222,203,19,1,-9.68,4.3,1.28,oti
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,T,OT,0-0-1,Away,Houston Texans,20,20,33,517,340,177,2,20,299,222,77,1,5.67,2.14,-9.43,clt
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,0-1-1,Away,Jacksonville Jaguars,0,24,9,218,164,54,3,21,331,235,96,0,-20.67,-7.05,3.43,clt
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,1/1/2001,Home,Kansas City Chiefs,20,17,19,259,177,82,1,20,315,257,58,2,-7.1,-1.78,13.31,clt
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,1/2/2001,Home,Tennessee Titans,17,24,21,365,327,38,3,19,243,116,127,0,3.36,-5.33,-6.98,clt
+4,5,Thu,2022-10-06,8:15PM ET,boxscore,W,OT,2/2/2001,Away,Denver Broncos,12,9,19,306,200,106,2,18,375,250,125,2,-14.91,11.36,7.4,clt
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,3/2/2001,Home,Jacksonville Jaguars,34,27,29,434,389,45,0,25,379,136,243,1,21.98,-16.47,3.81,clt
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,3/3/2001,Away,Tennessee Titans,10,19,17,292,227,65,3,16,254,116,138,1,-12.48,4.47,-2.52,clt
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,L,NO,3/4/2001,Home,Washington Commanders,16,17,15,324,189,135,2,20,362,266,96,1,-0.42,-2.38,2.42,clt
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,3/5/2001,Away,New England Patriots,3,26,8,121,43,78,1,11,203,133,70,1,-31.93,9.55,1.05,clt
+9,10,Sun,2022-11-13,4:05PM ET,boxscore,W,NO,4/5/2001,Away,Las Vegas Raiders,25,20,20,415,208,207,1,18,309,232,77,0,10.87,0.17,-8.65,clt
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,4/6/2001,Home,Philadelphia Eagles,16,17,14,284,185,99,1,18,314,173,141,2,-9.33,3.73,1.97,clt
+11,12,Mon,2022-11-28,8:15PM ET,boxscore,L,NO,4/7/2001,Home,Pittsburgh Steelers,17,24,19,290,180,110,2,22,323,151,172,0,-3.22,-7.95,7.37,clt
+12,13,Sun,2022-12-04,8:20PM ET,boxscore,L,NO,4/8/2001,Away,Dallas Cowboys,19,54,18,309,203,106,5,23,385,165,220,1,-16.86,-22.27,4.5,clt
+14,15,Sat,2022-12-17,1:00PM ET,boxscore,L,OT,4/9/2001,Away,Minnesota Vikings,36,39,20,341,170,171,1,32,518,426,92,3,-10.7,-4.19,12.83,clt
+15,16,Mon,2022-12-26,8:15PM ET,boxscore,L,NO,4/10/2001,Home,Los Angeles Chargers,3,20,10,173,104,69,3,17,314,213,101,2,-22.57,2.36,3.6,clt
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,4/11/2001,Away,New York Giants,10,38,14,252,124,128,1,26,394,177,217,1,-5.92,-17.59,-2.69,clt
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,4/12/2001,Home,Houston Texans,31,32,25,398,202,196,3,18,360,301,59,3,3.77,0.16,-3.89,clt
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,T,OT,0-0-1,Home,Indianapolis Colts,20,20,20,299,222,77,1,33,517,340,177,2,-2.14,-5.67,9.43,htx
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,L,NO,0-1-1,Away,Denver Broncos,9,16,15,234,154,80,0,20,350,201,149,1,-12.19,-3.38,5.2,htx
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,0-2-1,Away,Chicago Bears,20,23,17,329,237,92,2,17,363,82,281,2,-1.75,-2.69,1.18,htx
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,0-3-1,Home,Los Angeles Chargers,24,34,16,346,215,131,2,22,419,338,81,1,2.14,-15.96,4.62,htx
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,1/3/2001,Away,Jacksonville Jaguars,13,6,15,248,132,116,0,22,422,286,136,2,-2,2.39,3.89,htx
+6,7,Sun,2022-10-23,4:05PM ET,boxscore,L,NO,1/4/2001,Away,Las Vegas Raiders,20,38,21,404,296,108,1,25,400,236,164,0,5.28,-23.48,1.03,htx
+7,8,Sun,2022-10-30,4:05PM ET,boxscore,L,NO,1/5/2001,Home,Tennessee Titans,10,17,10,161,118,43,1,16,354,40,314,2,-14.53,-2.29,7.78,htx
+8,9,Thu,2022-11-03,8:15PM ET,boxscore,L,NO,1/6/2001,Home,Philadelphia Eagles,17,29,20,303,135,168,2,24,360,217,143,1,1.89,-17.84,2.38,htx
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,1/7/2001,Away,New York Giants,16,24,22,387,286,101,2,19,367,176,191,0,0.4,-10.29,0.41,htx
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,1/8/2001,Home,Washington Commanders,10,23,11,148,127,21,2,20,344,191,153,0,-15.79,-4.31,2.12,htx
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,1/9/2001,Away,Miami Dolphins,15,30,14,210,174,36,3,25,339,273,66,1,-22.74,1.9,3.97,htx
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,1/10/2001,Home,Cleveland Browns,14,27,16,283,201,82,4,14,304,130,174,2,-23.84,13.96,-5.52,htx
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,1/11/2001,Away,Dallas Cowboys,23,27,16,327,213,114,2,21,404,277,127,3,-8.28,-1.61,6.35,htx
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,OT,1/12/2001,Home,Kansas City Chiefs,24,30,18,219,125,94,1,33,502,313,189,2,2.21,-13.62,6.34,htx
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,2/12/2001,Away,Tennessee Titans,19,14,15,285,215,70,1,16,272,88,184,3,-5.71,10.96,-2.1,htx
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,2/13/2001,Home,Jacksonville Jaguars,3,31,13,277,193,84,1,20,337,168,169,2,-23.38,-4.68,4.1,htx
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,3/13/2001,Away,Indianapolis Colts,32,31,18,360,301,59,3,25,398,202,196,3,-0.16,-3.77,3.89,htx
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,W,NO,1/1/2000,Away,Arizona Cardinals,44,21,33,488,360,128,1,18,282,179,103,0,33.41,-2.29,-6.88,kan
+1,2,Thu,2022-09-15,8:15PM ET,boxscore,W,NO,2/1/2000,Home,Los Angeles Chargers,27,24,15,319,226,93,0,21,401,326,75,1,5.54,-4.12,3.72,kan
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,Feb-24,Away,Indianapolis Colts,17,20,20,315,257,58,2,19,259,177,82,1,1.78,7.1,-13.31,kan
+3,4,Sun,2022-10-02,8:20PM ET,boxscore,W,NO,Mar-24,Away,Tampa Bay Buccaneers,41,31,27,417,228,189,1,27,376,373,3,2,17.12,-14.15,5.33,kan
+4,5,Mon,2022-10-10,8:15PM ET,boxscore,W,NO,1-Apr,Home,Las Vegas Raiders,30,29,29,368,265,103,0,18,378,223,155,0,14.21,-11.65,0.35,kan
+5,6,Sun,2022-10-16,4:25PM ET,boxscore,L,NO,2-Apr,Home,Buffalo Bills,20,24,23,387,319,68,2,26,443,318,125,1,6.45,-11.13,-0.56,kan
+6,7,Sun,2022-10-23,4:25PM ET,boxscore,W,NO,2-May,Away,San Francisco 49ers,44,23,24,529,417,112,2,25,444,343,101,3,30.58,-3.59,-8.5,kan
+8,9,Sun,2022-11-06,8:20PM ET,boxscore,W,OT,2-Jun,Home,Tennessee Titans,20,17,29,499,422,77,1,9,229,57,172,0,5.59,3.85,-5.59,kan
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,2-Jul,Home,Jacksonville Jaguars,27,17,26,486,331,155,3,17,315,240,75,0,23.27,-3.86,-7.32,kan
+10,11,Sun,2022-11-20,8:20PM ET,boxscore,W,NO,2-Aug,Away,Los Angeles Chargers,30,27,23,485,322,163,1,22,365,250,115,2,19.64,-8.61,-2.61,kan
+11,12,Sun,2022-11-27,4:25PM ET,boxscore,W,NO,2-Sep,Home,Los Angeles Rams,26,10,29,437,320,117,2,13,198,82,116,2,13.96,9.01,-8.76,kan
+12,13,Sun,2022-12-04,4:25PM ET,boxscore,L,NO,3-Sep,Away,Cincinnati Bengals,24,27,20,349,211,138,1,26,431,279,152,0,16.21,-19.79,-1.75,kan
+13,14,Sun,2022-12-11,4:20PM ET,boxscore,W,NO,3-Oct,Away,Denver Broncos,34,28,20,431,342,89,3,17,320,214,106,2,7.21,0.63,-0.09,kan
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,OT,3-Nov,Away,Houston Texans,30,24,33,502,313,189,2,18,219,125,94,1,13.62,-2.21,-6.34,kan
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,3-Dec,Home,Seattle Seahawks,24,10,14,297,220,77,0,19,333,200,133,1,3.1,11.64,-2.23,kan
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,13-3,Home,Denver Broncos,27,24,22,374,328,46,2,21,307,190,117,2,10.69,2.92,-6.78,kan
+17,18,Sat,2023-01-07,4:30PM ET,boxscore,W,NO,14-3,Away,Las Vegas Raiders,31,13,21,349,181,168,0,21,279,180,99,2,16.83,5.67,-1.37,kan
+19,Division,Sat,2023-01-21,4:30PM ET,boxscore,W,NO,15-3,Home,Jacksonville Jaguars,27,20,23,362,218,144,0,20,349,205,144,2,13.73,-4.86,-0.1,kan
+20,Conf. Champ.,Sun,2023-01-29,6:30PM ET,boxscore,W,NO,16-3,Home,Cincinnati Bengals,23,20,23,357,315,42,1,18,309,238,71,2,8.86,-4.06,-3.07,kan
+21,SuperBowl,Sun,2023-02-12,6:30PM ET,boxscore,W,NO,17-3,Home,Philadelphia Eagles,38,35,21,340,182,158,0,25,417,302,115,1,19.2,-16.09,0.1,kan
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,W,NO,Jan-00,Home,Las Vegas Raiders,24,19,18,355,279,76,0,18,320,256,64,3,6.3,2.73,-1.95,sdg
+1,2,Thu,2022-09-15,8:15PM ET,boxscore,L,NO,1-Jan,Away,Kansas City Chiefs,24,27,21,401,326,75,1,15,319,226,93,0,4.12,-5.54,-3.72,sdg
+2,3,Sun,2022-09-25,4:05PM ET,boxscore,L,NO,Jan-24,Home,Jacksonville Jaguars,10,38,16,312,286,26,2,25,413,262,151,0,-10.35,-18.06,2.6,sdg
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,2-Feb,Away,Houston Texans,34,24,22,419,338,81,1,16,346,215,131,2,15.96,-2.14,-4.62,sdg
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,2-Mar,Away,Cleveland Browns,30,28,26,465,227,238,0,27,443,230,213,1,16.01,-16.53,4.92,sdg
+5,6,Mon,2022-10-17,8:15PM ET,boxscore,W,OT,2-Apr,Home,Denver Broncos,19,16,24,297,224,73,1,13,258,160,98,1,-1.03,3.11,0.92,sdg
+6,7,Sun,2022-10-23,4:25PM ET,boxscore,L,NO,3-Apr,Home,Seattle Seahawks,23,37,21,329,276,53,2,24,404,191,213,2,-4.6,-12.13,1.1,sdg
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,3-May,Away,Atlanta Falcons,20,17,19,336,245,91,2,19,315,114,201,2,5.12,-1.74,-0.66,sdg
+9,10,Sun,2022-11-13,8:20PM ET,boxscore,L,NO,4-May,Away,San Francisco 49ers,16,22,12,238,187,51,1,22,387,230,157,1,-7.29,-6.2,5.38,sdg
+10,11,Sun,2022-11-20,8:20PM ET,boxscore,L,NO,5-May,Home,Kansas City Chiefs,27,30,22,365,250,115,2,23,485,322,163,1,8.61,-19.64,2.61,sdg
+11,12,Sun,2022-11-27,4:05PM ET,boxscore,W,NO,5-Jun,Away,Arizona Cardinals,25,24,22,311,246,65,0,20,366,185,181,2,6.53,-7.69,1.25,sdg
+12,13,Sun,2022-12-04,4:25PM ET,boxscore,L,NO,6-Jun,Away,Las Vegas Raiders,20,27,22,386,314,72,1,21,404,250,154,2,0.15,-5.34,1.56,sdg
+13,14,Sun,2022-12-11,8:20PM ET,boxscore,W,NO,6-Jul,Home,Miami Dolphins,23,17,24,432,350,82,0,14,219,127,92,0,9.39,-1.14,-1.98,sdg
+14,15,Sun,2022-12-18,4:25PM ET,boxscore,W,NO,6-Aug,Home,Tennessee Titans,17,14,23,365,291,74,2,17,284,157,127,1,1.7,2.21,-1.72,sdg
+15,16,Mon,2022-12-26,8:15PM ET,boxscore,W,NO,6-Sep,Away,Indianapolis Colts,20,3,17,314,213,101,2,10,173,104,69,3,-2.36,22.57,-3.6,sdg
+16,17,Sun,2023-01-01,4:25PM ET,boxscore,W,NO,6-Oct,Home,Los Angeles Rams,31,10,22,431,239,192,0,12,277,111,166,1,21.57,0.47,-0.25,sdg
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,L,NO,7-Oct,Away,Denver Broncos,28,31,21,352,293,59,2,22,471,266,205,2,2.63,-16.37,8.58,sdg
+19,Wild Card,Sat,2023-01-14,8:15PM ET,boxscore,L,NO,8-Oct,Away,Jacksonville Jaguars,30,31,18,320,253,67,0,24,390,273,117,5,3.29,-3.13,-0.98,sdg
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,L,NO,0-1,Away,Los Angeles Chargers,19,24,18,320,256,64,3,18,355,279,76,0,-2.73,-6.3,1.95,rai
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,L,OT,0-2,Home,Arizona Cardinals,23,29,20,324,244,80,1,28,413,270,143,1,4.86,-12,-1.75,rai
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,0-3,Away,Tennessee Titans,22,24,24,396,300,96,1,19,361,252,109,1,9.09,-9.1,-4.28,rai
+3,4,Sun,2022-10-02,4:25PM ET,boxscore,W,NO,3-Jan,Home,Denver Broncos,32,23,25,385,173,212,0,12,299,214,85,1,12.04,6.65,-6.95,rai
+4,5,Mon,2022-10-10,8:15PM ET,boxscore,L,NO,4-Jan,Away,Kansas City Chiefs,29,30,18,378,223,155,0,29,368,265,103,0,11.65,-14.21,-0.35,rai
+6,7,Sun,2022-10-23,4:05PM ET,boxscore,W,NO,4-Feb,Home,Houston Texans,38,20,25,400,236,164,0,21,404,296,108,1,23.48,-5.28,-1.03,rai
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,5-Feb,Away,New Orleans Saints,0,24,13,183,145,38,1,22,367,231,136,0,-8.49,-16.76,6.72,rai
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,6-Feb,Away,Jacksonville Jaguars,20,27,16,321,248,73,1,22,403,235,168,1,-0.43,-13.11,2.69,rai
+9,10,Sun,2022-11-13,4:05PM ET,boxscore,L,NO,7-Feb,Home,Indianapolis Colts,20,25,18,309,232,77,0,20,415,208,207,1,-0.17,-10.87,8.65,rai
+10,11,Sun,2022-11-20,4:05PM ET,boxscore,W,OT,7-Mar,Away,Denver Broncos,22,16,20,407,298,109,0,19,320,226,94,0,5.95,-4.11,4.44,rai
+11,12,Sun,2022-11-27,4:05PM ET,boxscore,W,OT,7-Apr,Away,Seattle Seahawks,40,34,27,576,293,283,2,22,372,307,65,2,16.24,-6.66,-6.76,rai
+12,13,Sun,2022-12-04,4:25PM ET,boxscore,W,NO,7-May,Home,Los Angeles Chargers,27,20,21,404,250,154,2,22,386,314,72,1,5.34,-0.15,-1.56,rai
+13,14,Thu,2022-12-08,8:15PM ET,boxscore,L,NO,8-May,Away,Los Angeles Rams,16,17,17,302,137,165,2,20,282,211,71,1,0.55,-5.59,4.09,rai
+14,15,Sun,2022-12-18,4:05PM ET,boxscore,W,NO,8-Jun,Home,New England Patriots,30,24,18,308,211,97,1,19,318,112,206,1,-2.33,7.82,2.58,rai
+15,16,Sat,2022-12-24,8:15PM ET,boxscore,L,NO,9-Jun,Away,Pittsburgh Steelers,10,13,13,201,143,58,3,19,350,244,106,1,-9.12,-2.33,5.58,rai
+16,17,Sun,2023-01-01,4:05PM ET,boxscore,L,OT,10-Jun,Home,San Francisco 49ers,34,37,29,500,365,135,2,27,454,284,170,1,13.83,-23.25,6.49,rai
+17,18,Sat,2023-01-07,4:30PM ET,boxscore,L,NO,11-Jun,Home,Kansas City Chiefs,13,31,21,279,180,99,2,21,349,181,168,0,-5.67,-16.83,1.37,rai
+0,1,Mon,2022-09-12,8:20PM ET,boxscore,L,NO,0-1,Away,Seattle Seahawks,16,17,20,433,330,103,2,19,253,177,76,1,9.94,-4.1,-6.84,den
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,W,NO,1-Jan,Home,Houston Texans,16,9,20,350,201,149,1,15,234,154,80,0,3.38,12.19,-5.2,den
+2,3,Sun,2022-09-25,8:20PM ET,boxscore,W,NO,1-Feb,Home,San Francisco 49ers,11,10,14,261,160,101,0,13,267,179,88,3,-13.59,16.39,1.26,den
+3,4,Sun,2022-10-02,4:25PM ET,boxscore,L,NO,2-Feb,Away,Las Vegas Raiders,23,32,12,299,214,85,1,25,385,173,212,0,-6.65,-12.04,6.95,den
+4,5,Thu,2022-10-06,8:15PM ET,boxscore,L,OT,3-Feb,Home,Indianapolis Colts,9,12,18,375,250,125,2,19,306,200,106,2,-11.36,14.91,-7.4,den
+5,6,Mon,2022-10-17,8:15PM ET,boxscore,L,OT,4-Feb,Away,Los Angeles Chargers,16,19,13,258,160,98,1,24,297,224,73,1,-3.11,1.03,-0.92,den
+6,7,Sun,2022-10-23,4:05PM ET,boxscore,L,NO,5-Feb,Home,New York Jets,9,16,21,324,219,105,1,10,260,105,155,0,-8.53,8.14,-8.12,den
+7,8,Sun,2022-10-30,9:30AM ET,boxscore,W,NO,5-Mar,Away,Jacksonville Jaguars,21,17,18,331,230,101,1,24,305,114,191,2,4.66,1.81,3.24,den
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,6-Mar,Away,Tennessee Titans,10,17,18,313,248,65,1,14,307,244,63,1,-5.39,3.15,-4.06,den
+10,11,Sun,2022-11-20,4:05PM ET,boxscore,L,OT,7-Mar,Home,Las Vegas Raiders,16,22,19,320,226,94,0,20,407,298,109,0,4.11,-5.95,-4.44,den
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,8-Mar,Away,Carolina Panthers,10,23,14,246,125,121,2,19,349,164,185,1,-9.5,-6.49,1.36,den
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,9-Mar,Away,Baltimore Ravens,9,10,12,272,184,88,0,20,285,182,103,2,-4.43,2.33,1.45,den
+13,14,Sun,2022-12-11,4:20PM ET,boxscore,L,NO,10-Mar,Home,Kansas City Chiefs,28,34,17,320,214,106,2,20,431,342,89,3,-0.63,-7.21,0.09,den
+14,15,Sun,2022-12-18,4:05PM ET,boxscore,W,NO,10-Apr,Home,Arizona Cardinals,24,15,23,324,156,168,2,13,240,167,73,3,-0.79,19.01,-6.6,den
+15,16,Sun,2022-12-25,4:30PM ET,boxscore,L,NO,11-Apr,Away,Los Angeles Rams,14,51,18,323,219,104,4,26,388,230,158,0,-13.18,-22.61,-1.14,den
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,12-Apr,Away,Kansas City Chiefs,24,27,21,307,190,117,2,22,374,328,46,2,-2.92,-10.69,6.78,den
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,W,NO,12-May,Home,Los Angeles Chargers,31,28,22,471,266,205,2,21,352,293,59,2,16.37,-2.63,-8.58,den
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,1-Jan,Away,Detroit Lions,38,35,27,455,239,216,0,23,386,205,181,1,21.15,-15.67,-0.78,phi
+1,2,Mon,2022-09-19,8:30PM ET,boxscore,W,NO,1-Feb,Home,Minnesota Vikings,24,7,25,486,323,163,1,20,264,202,62,3,14.26,7.86,-7.37,phi
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,Mar-00,Away,Washington Commanders,24,8,21,400,328,72,0,20,240,153,87,1,9.65,18.29,-8.92,phi
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,Apr-00,Home,Jacksonville Jaguars,29,21,25,401,191,210,1,13,219,148,71,5,-0.18,11.06,-1.97,phi
+4,5,Sun,2022-10-09,4:25PM ET,boxscore,W,NO,May-00,Away,Arizona Cardinals,20,17,24,357,218,139,0,23,363,239,124,1,10.63,-12.33,5.16,phi
+5,6,Sun,2022-10-16,8:20PM ET,boxscore,W,NO,Jun-00,Home,Dallas Cowboys,26,17,22,268,132,136,0,21,315,181,134,3,7.95,0.04,3.76,phi
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,Jul-00,Home,Pittsburgh Steelers,35,13,20,401,290,111,0,21,302,158,144,2,23.31,4.96,-2.01,phi
+8,9,Thu,2022-11-03,8:15PM ET,boxscore,W,NO,Aug-00,Away,Houston Texans,29,17,24,360,217,143,1,20,303,135,168,2,17.84,-1.89,-2.38,phi
+9,10,Mon,2022-11-14,8:15PM ET,boxscore,L,NO,Aug-24,Home,Washington Commanders,21,32,18,264,170,94,4,25,330,178,152,2,-1.89,-4.13,-5.98,phi
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,Sep-24,Away,Indianapolis Colts,17,16,18,314,173,141,2,14,284,185,99,1,-3.73,9.33,-1.97,phi
+11,12,Sun,2022-11-27,8:20PM ET,boxscore,W,NO,1-Oct,Home,Green Bay Packers,40,33,29,500,137,363,1,19,342,236,106,2,20.82,-11.56,0.51,phi
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,1-Nov,Home,Tennessee Titans,35,10,26,453,386,67,0,11,209,122,87,0,25.58,8.95,-6.75,phi
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,1-Dec,Away,New York Giants,48,22,27,437,184,253,0,18,304,181,123,1,28.9,1.45,-1.98,phi
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,NO,13-1,Away,Chicago Bears,25,20,20,421,309,112,3,15,248,91,157,1,5.25,6.32,-2.12,phi
+15,16,Sat,2022-12-24,4:25PM ET,boxscore,L,NO,13-2,Away,Dallas Cowboys,34,40,25,442,355,87,4,25,419,304,115,1,7.76,-12.39,-0.74,phi
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,13-3,Home,New Orleans Saints,10,20,11,313,246,67,1,19,313,184,129,1,-12.38,2.95,-0.32,phi
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,W,NO,14-3,Home,New York Giants,22,16,23,342,207,135,1,18,284,155,129,0,0.69,1.86,4.64,phi
+19,Division,Sat,2023-01-21,8:15PM ET,boxscore,W,NO,15-3,Home,New York Giants,38,7,26,416,148,268,0,13,227,109,118,1,23.74,9.27,-4.67,phi
+20,Conf. Champ.,Sun,2023-01-29,3:00PM ET,boxscore,W,NO,16-3,Home,San Francisco 49ers,31,7,25,269,121,148,0,11,164,83,81,3,11.52,15.56,-2.56,phi
+21,SuperBowl,Sun,2023-02-12,6:30PM ET,boxscore,L,NO,16-4,Home,Kansas City Chiefs,35,38,25,417,302,115,1,21,340,182,158,0,16.09,-19.2,-0.1,phi
+0,1,Sun,2022-09-11,8:20PM ET,boxscore,L,NO,0-1,Home,Tampa Bay Buccaneers,3,19,12,244,173,71,1,18,347,195,152,1,-19.4,-0.55,2.24,dal
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,W,NO,1-Jan,Home,Cincinnati Bengals,20,17,19,337,230,107,1,19,254,165,89,0,6.08,-0.76,-1.25,dal
+2,3,Mon,2022-09-26,8:15PM ET,boxscore,W,NO,1-Feb,Away,New York Giants,23,16,23,391,215,176,0,22,336,169,167,1,10.78,0.51,-0.01,dal
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,1-Mar,Home,Washington Commanders,25,10,15,279,217,62,0,17,297,155,142,2,4.19,13.42,-3.3,dal
+4,5,Sun,2022-10-09,4:25PM ET,boxscore,W,NO,1-Apr,Away,Los Angeles Rams,22,10,10,239,76,163,0,14,323,285,38,3,-8.44,11.11,6.98,dal
+5,6,Sun,2022-10-16,8:20PM ET,boxscore,L,NO,2-Apr,Away,Philadelphia Eagles,17,26,21,315,181,134,3,22,268,132,136,0,-0.04,-7.95,-3.76,dal
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,2-May,Home,Detroit Lions,24,6,21,330,191,139,1,18,312,195,117,5,4.39,12.68,1.61,dal
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,2-Jun,Home,Chicago Bears,49,29,24,442,242,200,1,22,371,131,240,1,26.47,-1.52,-3.05,dal
+9,10,Sun,2022-11-13,4:25PM ET,boxscore,L,OT,3-Jun,Away,Green Bay Packers,28,31,24,421,262,159,2,20,415,208,207,2,2.81,-17.21,10.13,dal
+10,11,Sun,2022-11-20,4:25PM ET,boxscore,W,NO,3-Jul,Away,Minnesota Vikings,40,3,23,458,307,151,0,16,183,110,73,1,24.31,14.35,-0.94,dal
+11,12,Thu,2022-11-24,4:30PM ET,boxscore,W,NO,3-Aug,Home,New York Giants,28,20,26,430,261,169,2,21,300,210,90,0,16.03,-0.13,-6.25,dal
+12,13,Sun,2022-12-04,8:20PM ET,boxscore,W,NO,3-Sep,Home,Indianapolis Colts,54,19,23,385,165,220,1,18,309,203,106,5,22.27,16.86,-4.5,dal
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,3-Oct,Home,Houston Texans,27,23,21,404,277,127,3,16,327,213,114,2,1.61,8.28,-6.35,dal
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,OT,4-Oct,Away,Jacksonville Jaguars,34,40,24,397,243,154,2,26,503,311,192,3,8.92,-16.24,-0.94,dal
+15,16,Sat,2022-12-24,4:25PM ET,boxscore,W,NO,4-Nov,Home,Philadelphia Eagles,40,34,25,419,304,115,1,25,442,355,87,4,12.39,-7.76,0.74,dal
+16,17,Thu,2022-12-29,8:15PM ET,boxscore,W,NO,4-Dec,Away,Tennessee Titans,27,13,26,361,274,87,3,17,317,220,97,2,8.93,5.83,-1.28,dal
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,L,NO,5-Dec,Away,Washington Commanders,6,26,10,182,118,64,2,16,309,158,151,1,-28.06,5.2,4.66,dal
+19,Wild Card,Mon,2023-01-16,8:15PM ET,boxscore,W,NO,13-5,Away,Tampa Bay Buccaneers,31,14,26,425,297,128,0,24,386,334,52,1,25.18,2,-9.31,dal
+20,Division,Sun,2023-01-22,6:30PM ET,boxscore,L,NO,13-6,Away,San Francisco 49ers,12,19,15,282,206,76,2,21,312,199,113,1,-6.08,-6.35,4.19,dal
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,W,NO,Jan-00,Away,Tennessee Titans,21,20,19,394,156,238,2,19,359,266,93,1,3.72,-5.97,2.44,nyg
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,Feb-00,Home,Carolina Panthers,19,16,18,265,162,103,0,18,275,129,146,2,-6.2,2.09,6.13,nyg
+2,3,Mon,2022-09-26,8:15PM ET,boxscore,L,NO,Feb-24,Home,Dallas Cowboys,16,23,22,336,169,167,1,23,391,215,176,0,-0.51,-10.78,0.01,nyg
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,Mar-24,Home,Chicago Bears,20,12,21,333,71,262,2,16,304,155,149,3,9.33,6.69,-7.79,nyg
+4,5,Sun,2022-10-09,9:30AM ET,boxscore,W,NO,1-Apr,Away,Green Bay Packers,27,22,24,338,213,125,0,22,301,207,94,0,16.07,-5.67,-4.63,nyg
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,1-May,Home,Baltimore Ravens,24,20,18,238,155,83,1,23,406,195,211,2,4.93,-6,8.06,nyg
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,1-Jun,Away,Jacksonville Jaguars,23,17,27,436,200,236,0,27,452,310,142,1,17,-14.14,-2.5,nyg
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,L,NO,2-Jun,Away,Seattle Seahawks,13,27,14,225,147,78,2,19,277,190,87,1,-10.8,2.79,-8.31,nyg
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,2-Jul,Home,Houston Texans,24,16,19,367,176,191,0,22,387,286,101,2,10.29,-0.4,-0.41,nyg
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,3-Jul,Home,Detroit Lions,18,31,25,413,324,89,3,23,325,165,160,0,0.64,-9.36,-7.69,nyg
+11,12,Thu,2022-11-24,4:30PM ET,boxscore,L,NO,4-Jul,Away,Dallas Cowboys,20,28,21,300,210,90,0,26,430,261,169,2,0.13,-16.03,6.25,nyg
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,T,OT,4-Jul,Home,Washington Commanders,20,20,20,316,182,134,1,25,411,246,165,1,-2.71,-2.87,5.65,nyg
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,5-Jul,Home,Philadelphia Eagles,22,48,18,304,181,123,1,27,437,184,253,0,-1.45,-28.9,1.98,nyg
+14,15,Sun,2022-12-18,8:15PM ET,boxscore,W,NO,8/5/2001,Away,Washington Commanders,20,12,19,288,160,128,0,20,387,228,159,2,0.95,3.08,2.25,nyg
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,8/6/2001,Away,Minnesota Vikings,24,27,23,445,319,126,2,23,353,270,83,0,6.2,-7.38,-3.12,nyg
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,9/6/2001,Home,Indianapolis Colts,38,10,26,394,177,217,1,14,252,124,128,1,17.59,5.92,2.69,nyg
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,L,NO,9/7/2001,Away,Philadelphia Eagles,16,22,18,284,155,129,0,23,342,207,135,1,-1.86,-0.69,-4.64,nyg
+19,Wild Card,Sun,2023-01-15,4:30PM ET,boxscore,W,NO,10/7/2001,Away,Minnesota Vikings,31,24,28,431,289,142,0,21,332,271,61,0,24,-13.86,-3.74,nyg
+20,Division,Sat,2023-01-21,8:15PM ET,boxscore,L,NO,10/8/2001,Away,Philadelphia Eagles,7,38,13,227,109,118,1,26,416,148,268,0,-9.27,-23.74,4.67,nyg
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,1/1/2000,Home,Jacksonville Jaguars,28,22,26,390,305,85,3,24,383,260,123,1,9.54,-3.64,0.26,was
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,1/1/2024,Away,Detroit Lions,27,36,21,396,308,88,1,17,425,234,191,0,5.79,-7.13,-10.29,was
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,Jan-24,Home,Philadelphia Eagles,8,24,20,240,153,87,1,21,400,328,72,0,-18.29,-9.65,8.92,was
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,3-Jan,Away,Dallas Cowboys,10,25,17,297,155,142,2,15,279,217,62,0,-13.42,-4.19,3.3,was
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,4-Jan,Home,Tennessee Titans,17,21,17,385,342,43,1,15,241,136,105,0,1.03,-0.25,-3.63,was
+5,6,Thu,2022-10-13,8:15PM ET,boxscore,W,NO,4-Feb,Away,Chicago Bears,12,7,14,214,86,128,0,20,391,154,237,2,-7.28,2.22,6.24,was
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,4-Mar,Home,Green Bay Packers,23,21,22,364,198,166,1,16,232,194,38,1,0.7,-1.83,0.57,was
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,W,NO,4-Apr,Away,Indianapolis Colts,17,16,20,362,266,96,1,15,324,189,135,2,2.38,0.42,-2.42,was
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,5-Apr,Home,Minnesota Vikings,17,20,18,263,126,137,1,17,301,245,56,1,-1.76,2.12,-2.55,was
+9,10,Mon,2022-11-14,8:15PM ET,boxscore,W,NO,5-May,Away,Philadelphia Eagles,32,21,25,330,178,152,2,18,264,170,94,4,4.13,1.89,5.98,was
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,5-Jun,Away,Houston Texans,23,10,20,344,191,153,0,11,148,127,21,2,4.31,15.79,-2.12,was
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,5-Jul,Home,Atlanta Falcons,19,13,20,314,138,176,1,18,332,165,167,1,3.96,-1.62,2.06,was
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,T,OT,5-Jul,Away,New York Giants,20,20,25,411,246,165,1,20,316,182,134,1,2.87,2.71,-5.65,was
+14,15,Sun,2022-12-18,8:15PM ET,boxscore,L,NO,6-Jul,Home,New York Giants,12,20,20,387,228,159,2,19,288,160,128,0,-3.08,-0.95,-2.25,was
+15,16,Sat,2022-12-24,4:05PM ET,boxscore,L,NO,7/7/2001,Away,San Francisco 49ers,20,37,21,349,270,79,2,14,371,218,153,1,-2.45,-9.41,-3.02,was
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,7/8/2001,Home,Cleveland Browns,10,24,17,260,124,136,3,16,301,155,146,0,-7.5,-7.26,0.54,was
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,W,NO,8/8/2001,Home,Dallas Cowboys,26,6,16,309,158,151,1,10,182,118,64,2,-5.2,28.06,-4.66,was
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,W,NO,1/1/2000,Home,Green Bay Packers,23,7,19,395,269,126,0,21,338,227,111,2,9.99,1.89,1.12,min
+1,2,Mon,2022-09-19,8:30PM ET,boxscore,L,NO,1/1/2024,Away,Philadelphia Eagles,7,24,20,264,202,62,3,25,486,323,163,1,-7.86,-14.26,7.37,min
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,Feb-24,Home,Detroit Lions,28,24,30,373,250,123,1,23,416,277,139,1,11.58,-8.25,1.93,min
+3,4,Sun,2022-10-02,9:30AM ET,boxscore,W,NO,1-Mar,Away,New Orleans Saints,28,25,23,344,263,81,1,19,338,227,111,2,6.41,-7.36,2.69,min
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,1-Apr,Home,Chicago Bears,29,22,29,429,312,117,1,14,271,193,78,1,21.45,-1.82,-9.74,min
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,1-May,Away,Miami Dolphins,24,16,11,234,156,78,0,23,458,385,73,3,-4.43,8.38,4.75,min
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,1-Jun,Home,Arizona Cardinals,34,26,25,381,208,173,1,25,375,297,78,3,10.22,-2.87,3.71,min
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,1-Jul,Away,Washington Commanders,20,17,17,301,245,56,1,18,263,126,137,1,-2.12,1.76,2.55,min
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,OT,1-Aug,Away,Buffalo Bills,33,30,24,481,334,147,2,29,486,311,175,4,4.8,-1.45,0.39,min
+10,11,Sun,2022-11-20,4:25PM ET,boxscore,L,NO,2-Aug,Home,Dallas Cowboys,3,40,16,183,110,73,1,23,458,307,151,0,-14.35,-24.31,0.94,min
+11,12,Thu,2022-11-24,8:20PM ET,boxscore,W,NO,2-Sep,Home,New England Patriots,33,26,23,358,301,57,1,17,409,364,45,0,9.14,-11.53,7.59,min
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,2-Oct,Home,New York Jets,27,22,21,287,159,128,0,23,486,366,120,2,5.08,-1.01,0.01,min
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,L,NO,3-Oct,Away,Detroit Lions,23,34,23,416,394,22,2,23,464,330,134,0,7.96,-19.88,0.55,min
+14,15,Sat,2022-12-17,1:00PM ET,boxscore,W,OT,3-Nov,Home,Indianapolis Colts,39,36,32,518,426,92,3,20,341,170,171,1,4.19,10.7,-12.83,min
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,3-Dec,Home,New York Giants,27,24,23,353,270,83,0,23,445,319,126,2,7.38,-6.2,3.12,min
+16,17,Sun,2023-01-01,4:25PM ET,boxscore,L,NO,4-Dec,Away,Green Bay Packers,17,41,18,346,244,102,4,20,315,152,163,0,-10.2,-9.54,-4.19,min
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,13-4,Away,Chicago Bears,29,13,28,482,341,141,2,13,259,141,118,2,16.54,5.75,-5.65,min
+19,Wild Card,Sun,2023-01-15,4:30PM ET,boxscore,L,NO,13-5,Home,New York Giants,24,31,21,332,271,61,0,28,431,289,142,0,13.86,-24,3.74,min
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Home,Philadelphia Eagles,35,38,23,386,205,181,1,27,455,239,216,0,15.67,-21.15,0.78,det
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,1-Jan,Home,Washington Commanders,36,27,17,425,234,191,0,21,396,308,88,1,7.13,-5.79,10.29,det
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,2-Jan,Away,Minnesota Vikings,24,28,23,416,277,139,1,30,373,250,123,1,8.25,-11.58,-1.93,det
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,3-Jan,Home,Seattle Seahawks,45,48,27,520,375,145,2,27,555,320,235,1,22.12,-32.93,3.99,det
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,4-Jan,Away,New England Patriots,0,29,17,312,211,101,2,22,364,188,176,1,-22.04,-10.08,3.38,det
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,5-Jan,Away,Dallas Cowboys,6,24,18,312,195,117,5,21,330,191,139,1,-12.68,-4.39,-1.61,det
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,6-Jan,Home,Miami Dolphins,27,31,22,393,311,82,0,27,476,369,107,1,19.14,-25.47,0.59,det
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,W,NO,6-Feb,Home,Green Bay Packers,15,9,19,254,137,117,1,19,389,283,106,3,-1.35,5.25,2.44,det
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,W,NO,6-Mar,Away,Chicago Bears,31,30,25,323,228,95,0,19,408,150,258,1,13.55,-9.38,2.09,det
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,6-Apr,Away,New York Giants,31,18,23,325,165,160,0,25,413,324,89,3,9.36,-0.64,7.69,det
+11,12,Thu,2022-11-24,12:30PM ET,boxscore,L,NO,7-Apr,Home,Buffalo Bills,25,28,22,326,230,96,2,28,401,237,164,1,12.71,-16.07,3.07,det
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,7-May,Home,Jacksonville Jaguars,40,14,31,437,337,100,0,14,266,171,95,1,25.2,3.84,0.8,det
+13,14,Sun,2022-12-11,1:00PM ET,boxscore,W,NO,7-Jun,Home,Minnesota Vikings,34,23,23,464,330,134,0,23,416,394,22,2,19.88,-7.96,-0.55,det
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,NO,7-Jul,Away,New York Jets,20,17,17,359,252,107,0,18,337,287,50,1,2.21,-3.71,2.44,det
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,8-Jul,Away,Carolina Panthers,23,37,22,381,336,45,1,30,570,250,320,0,9.31,-30.2,3.52,det
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,8-Aug,Home,Chicago Bears,41,10,26,504,239,265,0,9,230,30,200,2,22.92,10.91,-6.73,det
+17,18,Sun,2023-01-08,8:20PM ET,boxscore,W,NO,8-Sep,Away,Green Bay Packers,20,16,21,323,219,104,0,17,291,188,103,2,10.66,-0.31,-1.59,det
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,L,NO,0-1,Away,Minnesota Vikings,7,23,21,338,227,111,2,19,395,269,126,0,-1.89,-9.99,-1.12,gnb
+1,2,Sun,2022-09-18,8:20PM ET,boxscore,W,NO,1-Jan,Home,Chicago Bears,27,10,26,414,211,203,1,11,228,48,180,1,16.87,4.4,-1.71,gnb
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,W,NO,1-Feb,Away,Tampa Bay Buccaneers,14,12,14,315,248,67,2,19,285,251,34,2,-4.08,9.14,-0.3,gnb
+3,4,Sun,2022-10-02,4:25PM ET,boxscore,W,OT,1-Mar,Home,New England Patriots,27,24,24,443,244,199,2,17,271,104,167,1,5.17,2,-2.64,gnb
+4,5,Sun,2022-10-09,9:30AM ET,boxscore,L,NO,2-Mar,Home,New York Giants,22,27,22,301,207,94,0,24,338,213,125,0,5.67,-16.07,4.63,gnb
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,3-Mar,Home,New York Jets,10,27,15,278,218,60,1,14,278,99,179,0,-16.24,2.59,-4.32,gnb
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,4-Mar,Away,Washington Commanders,21,23,16,232,194,38,1,22,364,198,166,1,1.83,-0.7,-0.57,gnb
+7,8,Sun,2022-10-30,8:20PM ET,boxscore,L,NO,5-Mar,Away,Buffalo Bills,17,27,21,398,190,208,1,20,369,216,153,2,5.55,-12.79,-4.01,gnb
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,6-Mar,Away,Detroit Lions,9,15,19,389,283,106,3,19,254,137,117,1,-5.25,1.35,-2.44,gnb
+9,10,Sun,2022-11-13,4:25PM ET,boxscore,W,OT,6-Apr,Home,Dallas Cowboys,31,28,20,415,208,207,2,24,421,262,159,2,17.21,-2.81,-10.13,gnb
+10,11,Thu,2022-11-17,8:15PM ET,boxscore,L,NO,7-Apr,Home,Tennessee Titans,17,27,15,271,215,56,0,21,408,320,88,1,-0.61,-15.39,2.77,gnb
+11,12,Sun,2022-11-27,8:20PM ET,boxscore,L,NO,8-Apr,Away,Philadelphia Eagles,33,40,19,342,236,106,2,29,500,137,363,1,11.56,-20.82,-0.51,gnb
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,W,NO,8-May,Away,Chicago Bears,28,19,21,357,182,175,0,15,409,254,155,3,13.69,-7.73,-0.33,gnb
+14,15,Mon,2022-12-19,8:15PM ET,boxscore,W,NO,8-Jun,Home,Los Angeles Rams,24,12,27,345,207,138,2,13,156,84,72,1,13.03,1.29,0.81,gnb
+15,16,Sun,2022-12-25,1:00PM ET,boxscore,W,NO,8-Jul,Away,Miami Dolphins,26,20,17,301,222,79,1,15,376,294,82,4,-3.46,2.13,6.52,gnb
+16,17,Sun,2023-01-01,4:25PM ET,boxscore,W,NO,8-Aug,Home,Minnesota Vikings,41,17,20,315,152,163,0,18,346,244,102,4,9.54,10.2,4.19,gnb
+17,18,Sun,2023-01-08,8:20PM ET,boxscore,L,NO,9-Aug,Home,Detroit Lions,16,20,17,291,188,103,2,21,323,219,104,0,0.31,-10.66,1.59,gnb
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,1-Jan,Home,San Francisco 49ers,19,10,15,204,105,99,1,17,331,155,176,2,0.67,11.26,-0.42,chi
+1,2,Sun,2022-09-18,8:20PM ET,boxscore,L,NO,1-Jan,Away,Green Bay Packers,10,27,11,228,48,180,1,26,414,211,203,1,-4.4,-16.87,1.71,chi
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,Feb-24,Home,Houston Texans,23,20,17,363,82,281,2,17,329,237,92,2,2.69,1.75,-1.18,chi
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,L,NO,2-Feb,Away,New York Giants,12,20,16,304,155,149,3,21,333,71,262,2,-6.69,-9.33,7.79,chi
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,3-Feb,Away,Minnesota Vikings,22,29,14,271,193,78,1,29,429,312,117,1,1.82,-21.45,9.74,chi
+5,6,Thu,2022-10-13,8:15PM ET,boxscore,L,NO,4-Feb,Home,Washington Commanders,7,12,20,391,154,237,2,14,214,86,128,0,-2.22,7.28,-6.24,chi
+6,7,Mon,2022-10-24,8:15PM ET,boxscore,W,NO,4-Mar,Away,New England Patriots,33,14,24,390,147,243,1,12,260,190,70,4,8.77,10.97,0.11,chi
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,5-Mar,Away,Dallas Cowboys,29,49,22,371,131,240,1,24,442,242,200,1,1.52,-26.47,3.05,chi
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,6-Mar,Home,Miami Dolphins,32,35,23,368,116,252,0,21,379,302,77,0,17.18,-19.83,-2.01,chi
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,7-Mar,Home,Detroit Lions,30,31,19,408,150,258,1,25,323,228,95,0,9.38,-13.55,-2.09,chi
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,8-Mar,Away,Atlanta Falcons,24,27,20,288,128,160,1,18,280,131,149,2,3.91,-4.06,-5.42,chi
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,9-Mar,Away,New York Jets,10,31,14,292,165,127,1,22,466,308,158,0,-3.97,-20.96,3.63,chi
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,10-Mar,Home,Green Bay Packers,19,28,15,409,254,155,3,21,357,182,175,0,7.73,-13.69,0.33,chi
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,NO,11-Mar,Home,Philadelphia Eagles,20,25,15,248,91,157,1,20,421,309,112,3,-6.32,-5.25,2.12,chi
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,12-Mar,Home,Buffalo Bills,13,35,11,209,129,80,2,20,426,172,254,3,-20.55,-9.47,9.39,chi
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,13-Mar,Away,Detroit Lions,10,41,9,230,30,200,2,26,504,239,265,0,-10.91,-22.92,6.73,chi
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,14-Mar,Home,Minnesota Vikings,13,29,13,259,141,118,2,28,482,341,141,2,-5.75,-16.54,5.65,chi
+0,1,Sun,2022-09-11,8:20PM ET,boxscore,W,NO,1-Jan,Away,Dallas Cowboys,19,3,18,347,195,152,1,12,244,173,71,1,0.55,19.4,-2.24,tam
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,W,NO,1-Feb,Away,New Orleans Saints,20,10,13,260,188,72,1,18,308,208,100,5,-9.2,18.41,2.71,tam
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,L,NO,Feb-24,Home,Green Bay Packers,12,14,19,285,251,34,2,14,315,248,67,2,-9.14,4.08,0.3,tam
+3,4,Sun,2022-10-02,8:20PM ET,boxscore,L,NO,Feb-24,Home,Kansas City Chiefs,31,41,27,376,373,3,2,27,417,228,189,1,14.15,-17.12,-5.33,tam
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,2-Mar,Home,Atlanta Falcons,21,15,26,420,351,69,0,19,261,110,151,0,13.3,-3.9,-1.34,tam
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,3-Mar,Away,Pittsburgh Steelers,18,20,20,304,229,75,0,15,270,193,77,0,0.17,-2.61,-2.77,tam
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,4-Mar,Away,Carolina Panthers,3,21,17,322,276,46,0,14,343,170,173,0,-5.31,-7.39,-3.31,tam
+7,8,Thu,2022-10-27,8:15PM ET,boxscore,L,NO,5-Mar,Home,Baltimore Ravens,22,27,20,349,305,44,1,27,453,222,231,0,8.68,-11.24,-6.73,tam
+8,9,Sun,2022-11-06,4:25PM ET,boxscore,W,NO,5-Apr,Home,Los Angeles Rams,16,13,18,323,272,51,0,9,206,138,68,0,-8.87,10.99,1.37,tam
+9,10,Sun,2022-11-13,9:30AM ET,boxscore,W,NO,5-May,Home,Seattle Seahawks,21,16,26,419,258,161,2,19,283,244,39,1,13.2,0.15,-7.78,tam
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,OT,6-May,Away,Cleveland Browns,17,23,16,325,229,96,0,22,367,178,189,1,-1.81,-2.41,-1.78,tam
+12,13,Mon,2022-12-05,8:15PM ET,boxscore,W,NO,6-Jun,Home,New Orleans Saints,17,16,25,350,274,76,2,14,298,232,66,0,2.62,0.04,-2.46,tam
+13,14,Sun,2022-12-11,4:25PM ET,boxscore,L,NO,7-Jun,Away,San Francisco 49ers,7,35,18,322,253,69,3,24,404,195,209,1,-13.41,-18.39,0.43,tam
+14,15,Sun,2022-12-18,4:25PM ET,boxscore,L,NO,8-Jun,Home,Cincinnati Bengals,23,34,25,396,304,92,4,20,237,184,53,1,-1.98,-1.78,-7.2,tam
+15,16,Sun,2022-12-25,8:20PM ET,boxscore,W,OT,8-Jul,Away,Arizona Cardinals,19,16,21,396,281,115,2,16,325,204,121,3,-4.6,13.64,-6.77,tam
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,8-Aug,Home,Carolina Panthers,30,24,25,478,411,67,1,22,400,326,74,3,10.73,-4.36,-6.36,tam
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,9-Aug,Away,Atlanta Falcons,17,30,12,222,136,86,1,22,382,208,174,1,-6.05,-8.84,1.56,tam
+19,Wild Card,Mon,2023-01-16,8:15PM ET,boxscore,L,NO,10-Aug,Home,Dallas Cowboys,14,31,24,386,334,52,1,26,425,297,128,0,-2,-25.18,9.31,tam
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Home,Cleveland Browns,24,26,15,261,207,54,1,23,355,138,217,0,5.38,-6.82,-1.66,car
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,0-2,Away,New York Giants,16,19,18,275,129,146,2,18,265,162,103,0,-2.09,6.2,-6.13,car
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,W,NO,2-Jan,Home,New Orleans Saints,22,14,12,293,148,145,0,19,426,342,84,3,-9.01,4.57,11.38,car
+3,4,Sun,2022-10-02,4:05PM ET,boxscore,L,NO,3-Jan,Home,Arizona Cardinals,16,26,11,220,180,40,3,20,338,206,132,1,-19.54,6.14,1.9,car
+4,5,Sun,2022-10-09,4:05PM ET,boxscore,L,NO,4-Jan,Home,San Francisco 49ers,15,37,15,308,244,64,1,22,397,244,153,1,-13.22,-16.04,7.82,car
+5,6,Sun,2022-10-16,4:05PM ET,boxscore,L,NO,5-Jan,Away,Los Angeles Rams,10,24,8,203,110,93,1,22,360,249,111,1,-11.74,-3.51,2.53,car
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,W,NO,5-Feb,Home,Tampa Bay Buccaneers,21,3,14,343,170,173,0,17,322,276,46,0,7.39,5.31,3.31,car
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,OT,6-Feb,Away,Atlanta Falcons,34,37,23,478,309,169,1,21,406,239,167,2,9.83,-9.4,-1.64,car
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,7-Feb,Away,Cincinnati Bengals,21,42,13,228,164,64,3,30,464,223,241,0,0.37,-30.2,12.97,car
+9,10,Thu,2022-11-10,8:15PM ET,boxscore,W,NO,7-Mar,Home,Atlanta Falcons,25,15,18,333,101,232,0,20,291,153,138,1,2.11,6.14,0.94,car
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,8-Mar,Away,Baltimore Ravens,3,13,13,205,169,36,3,19,308,193,115,1,-20.39,5.63,3.58,car
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,W,NO,8-Apr,Home,Denver Broncos,23,10,19,349,164,185,1,14,246,125,121,2,6.49,9.5,-1.36,car
+13,14,Sun,2022-12-11,4:25PM ET,boxscore,W,NO,8-May,Away,Seattle Seahawks,30,24,24,328,105,223,0,16,287,241,46,2,9.49,-1.49,0.23,car
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,NO,9-May,Home,Pittsburgh Steelers,16,24,12,209,188,21,0,22,325,169,156,0,3.72,-12.16,-1.58,car
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,9-Jun,Home,Detroit Lions,37,23,30,570,250,320,0,22,381,336,45,1,30.2,-9.31,-3.52,car
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,10-Jun,Away,Tampa Bay Buccaneers,24,30,22,400,326,74,3,25,478,411,67,1,4.36,-10.73,6.36,car
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,10-Jul,Away,New Orleans Saints,10,7,14,203,32,171,2,16,304,161,143,1,-8.41,4.13,7.85,car
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,W,NO,1-Jan,Away,Atlanta Falcons,27,26,18,385,234,151,1,26,416,215,201,2,4.62,-7.5,-0.51,nor
+1,2,Sun,2022-09-18,1:00PM ET,boxscore,L,NO,1-Jan,Home,Tampa Bay Buccaneers,10,20,18,308,208,100,5,13,260,188,72,1,-18.41,9.2,-2.71,nor
+2,3,Sun,2022-09-25,1:00PM ET,boxscore,L,NO,Jan-24,Away,Carolina Panthers,14,22,19,426,342,84,3,12,293,148,145,0,-4.57,9.01,-11.38,nor
+3,4,Sun,2022-10-02,9:30AM ET,boxscore,L,NO,3-Jan,Home,Minnesota Vikings,25,28,19,338,227,111,2,23,344,263,81,1,7.36,-6.41,-2.69,nor
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,W,NO,3-Feb,Home,Seattle Seahawks,39,32,26,438,203,235,2,15,396,245,151,1,15.05,-4.57,-0.32,nor
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,4-Feb,Home,Cincinnati Bengals,26,30,22,399,171,228,0,21,348,273,75,1,9.06,-17.18,2.4,nor
+6,7,Thu,2022-10-20,8:15PM ET,boxscore,L,NO,5-Feb,Away,Arizona Cardinals,34,42,25,494,409,85,3,21,326,189,137,0,5.93,-13.74,-1.75,nor
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,NO,5-Mar,Home,Las Vegas Raiders,24,0,22,367,231,136,0,13,183,145,38,1,16.76,8.49,-6.72,nor
+8,9,Mon,2022-11-07,8:15PM ET,boxscore,L,NO,6-Mar,Home,Baltimore Ravens,13,27,13,243,195,48,1,23,319,131,188,0,-3.99,-11.91,1.6,nor
+9,10,Sun,2022-11-13,1:00PM ET,boxscore,L,NO,7-Mar,Away,Pittsburgh Steelers,10,20,10,186,157,29,2,28,379,162,217,0,-10.6,-13.42,11.01,nor
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,7-Apr,Home,Los Angeles Rams,27,20,19,323,235,88,0,17,336,188,148,0,8.99,-3.06,2.98,nor
+11,12,Sun,2022-11-27,4:25PM ET,boxscore,L,NO,8-Apr,Away,San Francisco 49ers,0,13,14,260,197,63,2,21,317,221,96,0,-8.15,-2.05,-2.22,nor
+12,13,Mon,2022-12-05,8:15PM ET,boxscore,L,NO,9-Apr,Away,Tampa Bay Buccaneers,16,17,14,298,232,66,0,25,350,274,76,2,-0.04,-2.62,2.46,nor
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,W,NO,9-May,Home,Atlanta Falcons,21,18,17,348,214,134,1,21,320,89,231,1,6.38,-8.41,1.86,nor
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,W,NO,9-Jun,Away,Cleveland Browns,17,10,14,244,92,152,1,15,249,125,124,1,-4.01,12.78,-2.04,nor
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,9-Jul,Away,Philadelphia Eagles,20,10,19,313,184,129,1,11,313,246,67,1,-2.95,12.38,0.32,nor
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,L,NO,10-Jul,Home,Carolina Panthers,7,10,16,304,161,143,1,14,203,32,171,2,-4.13,8.41,-7.85,nor
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Home,New Orleans Saints,26,27,26,416,215,201,2,18,385,234,151,1,7.5,-4.62,0.51,atl
+1,2,Sun,2022-09-18,4:05PM ET,boxscore,L,NO,0-2,Away,Los Angeles Rams,27,31,17,261,171,90,3,24,337,272,65,3,-3.49,-8.46,8.11,atl
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,W,NO,2-Jan,Away,Seattle Seahawks,27,23,24,386,207,179,2,23,420,308,112,1,20.84,-15.09,1.2,atl
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,2-Feb,Home,Cleveland Browns,23,20,19,333,131,202,1,22,403,226,177,2,5.92,-5.25,1.44,atl
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,3-Feb,Away,Tampa Bay Buccaneers,15,21,19,261,110,151,0,26,420,351,69,0,3.9,-13.3,1.34,atl
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,W,NO,3-Mar,Home,San Francisco 49ers,28,14,18,289,121,168,0,21,346,296,50,3,11.56,-0.59,-1.69,atl
+6,7,Sun,2022-10-23,1:00PM ET,boxscore,L,NO,4-Mar,Away,Cincinnati Bengals,17,35,13,214,107,107,0,29,537,459,78,0,3.19,-33.05,6.33,atl
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,W,OT,4-Apr,Home,Carolina Panthers,37,34,21,406,239,167,2,23,478,309,169,1,9.4,-9.83,1.64,atl
+8,9,Sun,2022-11-06,1:00PM ET,boxscore,L,NO,5-Apr,Home,Los Angeles Chargers,17,20,19,315,114,201,2,19,336,245,91,2,1.74,-5.12,0.66,atl
+9,10,Thu,2022-11-10,8:15PM ET,boxscore,L,NO,6-Apr,Away,Carolina Panthers,15,25,20,291,153,138,1,18,333,101,232,0,-6.14,-2.11,-0.94,atl
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,W,NO,6-May,Home,Chicago Bears,27,24,18,280,131,149,2,20,288,128,160,1,4.06,-3.91,5.42,atl
+11,12,Sun,2022-11-27,1:00PM ET,boxscore,L,NO,7-May,Away,Washington Commanders,13,19,18,332,165,167,1,20,314,138,176,1,1.62,-3.96,-2.06,atl
+12,13,Sun,2022-12-04,1:00PM ET,boxscore,L,NO,8-May,Home,Pittsburgh Steelers,16,19,18,306,160,146,1,22,351,197,154,0,0.33,-9.6,1.33,atl
+14,15,Sun,2022-12-18,1:00PM ET,boxscore,L,NO,9-May,Away,New Orleans Saints,18,21,21,320,89,231,1,17,348,214,134,1,8.41,-6.38,-1.86,atl
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,10-May,Away,Baltimore Ravens,9,17,17,327,212,115,1,15,299,115,184,0,-7.26,-2.18,3.42,atl
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,W,NO,10-Jun,Home,Arizona Cardinals,20,19,20,298,166,132,1,22,339,213,126,0,3.27,-6.1,5.1,atl
+17,18,Sun,2023-01-08,1:00PM ET,boxscore,W,NO,10-Jul,Home,Tampa Bay Buccaneers,30,17,22,382,208,174,1,12,222,136,86,1,8.84,6.05,-1.56,atl
+0,1,Sun,2022-09-11,1:00PM ET,boxscore,L,NO,0-1,Away,Chicago Bears,10,19,17,331,155,176,2,15,204,105,99,1,-11.26,-0.67,0.42,sfo
+1,2,Sun,2022-09-18,4:05PM ET,boxscore,W,NO,1-Jan,Home,Seattle Seahawks,27,7,25,373,184,189,0,14,216,180,36,3,16.39,9.18,-7.67,sfo
+2,3,Sun,2022-09-25,8:20PM ET,boxscore,L,NO,2-Jan,Away,Denver Broncos,10,11,13,267,179,88,3,14,261,160,101,0,-16.39,13.59,-1.26,sfo
+3,4,Mon,2022-10-03,8:15PM ET,boxscore,W,NO,2-Feb,Home,Los Angeles Rams,24,9,13,327,239,88,0,21,257,200,57,2,10.05,11.56,-7.93,sfo
+4,5,Sun,2022-10-09,4:05PM ET,boxscore,W,NO,2-Mar,Away,Carolina Panthers,37,15,22,397,244,153,1,15,308,244,64,1,16.04,13.22,-7.82,sfo
+5,6,Sun,2022-10-16,1:00PM ET,boxscore,L,NO,3-Mar,Away,Atlanta Falcons,14,28,21,346,296,50,3,18,289,121,168,0,0.59,-11.56,1.69,sfo
+6,7,Sun,2022-10-23,4:25PM ET,boxscore,L,NO,4-Mar,Home,Kansas City Chiefs,23,44,25,444,343,101,3,24,529,417,112,2,3.59,-30.58,8.5,sfo
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,W,NO,4-Apr,Away,Los Angeles Rams,31,14,22,368,257,111,0,16,223,167,56,0,23.18,-3.37,-2.48,sfo
+9,10,Sun,2022-11-13,8:20PM ET,boxscore,W,NO,4-May,Home,Los Angeles Chargers,22,16,22,387,230,157,1,12,238,187,51,1,6.2,7.29,-5.38,sfo
+10,11,Mon,2022-11-21,8:15PM ET,boxscore,W,NO,4-Jun,Away,Arizona Cardinals,38,10,21,387,228,159,0,19,314,247,67,2,20.26,9.44,-1.43,sfo
+11,12,Sun,2022-11-27,4:25PM ET,boxscore,W,NO,4-Jul,Home,New Orleans Saints,13,0,21,317,221,96,0,14,260,197,63,2,2.05,8.15,2.22,sfo
+12,13,Sun,2022-12-04,4:05PM ET,boxscore,W,NO,4-Aug,Home,Miami Dolphins,33,17,24,351,230,121,1,14,308,275,33,4,1.78,13.36,1,sfo
+13,14,Sun,2022-12-11,4:25PM ET,boxscore,W,NO,4-Sep,Home,Tampa Bay Buccaneers,35,7,24,404,195,209,1,18,322,253,69,3,18.39,13.41,-0.43,sfo
+14,15,Thu,2022-12-15,8:15PM ET,boxscore,W,NO,4-Oct,Away,Seattle Seahawks,21,13,15,381,211,170,0,16,277,207,70,1,9.75,11.24,-8.96,sfo
+15,16,Sat,2022-12-24,4:05PM ET,boxscore,W,NO,4-Nov,Home,Washington Commanders,37,20,14,371,218,153,1,21,349,270,79,2,9.41,2.45,3.02,sfo
+16,17,Sun,2023-01-01,4:05PM ET,boxscore,W,OT,4-Dec,Away,Las Vegas Raiders,37,34,27,454,284,170,1,29,500,365,135,2,23.25,-13.83,-6.49,sfo
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,W,NO,13-4,Home,Arizona Cardinals,38,13,21,311,142,169,0,11,255,194,61,4,9.62,15.23,0.8,sfo
+19,Wild Card,Sat,2023-01-14,4:30PM ET,boxscore,W,NO,14-4,Home,Seattle Seahawks,41,23,24,505,324,181,0,22,332,228,104,2,27.6,-6.41,-0.62,sfo
+20,Division,Sun,2023-01-22,6:30PM ET,boxscore,W,NO,15-4,Home,Dallas Cowboys,19,12,21,312,199,113,1,15,282,206,76,2,6.35,6.08,-4.19,sfo
+21,Conf. Champ.,Sun,2023-01-29,3:00PM ET,boxscore,L,NO,15-5,Away,Philadelphia Eagles,7,31,11,164,83,81,3,25,269,121,148,0,-15.56,-11.52,2.56,sfo
+0,1,Mon,2022-09-12,8:20PM ET,boxscore,W,NO,Jan-00,Home,Denver Broncos,17,16,19,253,177,76,1,20,433,330,103,2,4.1,-9.94,6.84,sea
+1,2,Sun,2022-09-18,4:05PM ET,boxscore,L,NO,1-Jan,Away,San Francisco 49ers,7,27,14,216,180,36,3,25,373,184,189,0,-9.18,-16.39,7.67,sea
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,L,NO,Jan-24,Home,Atlanta Falcons,23,27,23,420,308,112,1,24,386,207,179,2,15.09,-20.84,-1.2,sea
+3,4,Sun,2022-10-02,1:00PM ET,boxscore,W,NO,2-Feb,Away,Detroit Lions,48,45,27,555,320,235,1,27,520,375,145,2,32.93,-22.12,-3.99,sea
+4,5,Sun,2022-10-09,1:00PM ET,boxscore,L,NO,3-Feb,Away,New Orleans Saints,32,39,15,396,245,151,1,26,438,203,235,2,4.57,-15.05,0.32,sea
+5,6,Sun,2022-10-16,4:05PM ET,boxscore,W,NO,3-Mar,Home,Arizona Cardinals,19,9,19,296,160,136,1,15,315,171,144,2,-8.22,14.01,5.25,sea
+6,7,Sun,2022-10-23,4:25PM ET,boxscore,W,NO,3-Apr,Away,Los Angeles Chargers,37,23,24,404,191,213,2,21,329,276,53,2,12.13,4.6,-1.1,sea
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,W,NO,3-May,Home,New York Giants,27,13,19,277,190,87,1,14,225,147,78,2,-2.79,10.8,8.31,sea
+8,9,Sun,2022-11-06,4:05PM ET,boxscore,W,NO,3-Jun,Away,Arizona Cardinals,31,21,27,421,263,158,1,15,262,140,122,1,10.67,5.02,0.9,sea
+9,10,Sun,2022-11-13,9:30AM ET,boxscore,L,NO,4-Jun,Away,Tampa Bay Buccaneers,16,21,19,283,244,39,1,26,419,258,161,2,-0.15,-13.2,7.78,sea
+11,12,Sun,2022-11-27,4:05PM ET,boxscore,L,OT,5-Jun,Home,Las Vegas Raiders,34,40,22,372,307,65,2,27,576,293,283,2,6.66,-16.24,6.76,sea
+12,13,Sun,2022-12-04,4:05PM ET,boxscore,W,NO,5-Jul,Away,Los Angeles Rams,27,23,25,438,348,90,2,20,319,148,171,2,12.57,-4.46,-3.11,sea
+13,14,Sun,2022-12-11,4:25PM ET,boxscore,L,NO,6-Jul,Home,Carolina Panthers,24,30,16,287,241,46,2,24,328,105,223,0,1.49,-9.49,-0.23,sea
+14,15,Thu,2022-12-15,8:15PM ET,boxscore,L,NO,7-Jul,Home,San Francisco 49ers,13,21,16,277,207,70,1,15,381,211,170,0,-11.24,-9.75,8.96,sea
+15,16,Sat,2022-12-24,1:00PM ET,boxscore,L,NO,8-Jul,Away,Kansas City Chiefs,10,24,19,333,200,133,1,14,297,220,77,0,-11.64,-3.1,2.23,sea
+16,17,Sun,2023-01-01,4:05PM ET,boxscore,W,NO,8-Aug,Home,New York Jets,23,6,20,346,148,198,0,20,279,204,75,3,3.31,16.78,-4.05,sea
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,W,OT,8-Sep,Home,Los Angeles Rams,19,16,22,402,205,197,2,14,269,123,146,1,-3.11,3.8,2.32,sea
+19,Wild Card,Sat,2023-01-14,4:30PM ET,boxscore,L,NO,9-Sep,Away,San Francisco 49ers,23,41,22,332,228,104,2,24,505,324,181,0,6.41,-27.6,0.62,sea
+0,1,Thu,2022-09-08,8:20PM ET,boxscore,L,NO,0-1,Home,Buffalo Bills,10,31,19,243,191,52,3,23,413,292,121,4,-10.29,-13.89,3.96,ram
+1,2,Sun,2022-09-18,4:05PM ET,boxscore,W,NO,1-Jan,Home,Atlanta Falcons,31,27,24,337,272,65,3,17,261,171,90,3,8.46,3.49,-8.11,ram
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,W,NO,1-Feb,Away,Arizona Cardinals,20,12,15,339,239,100,1,23,365,295,70,0,5.31,-0.8,5.72,ram
+3,4,Mon,2022-10-03,8:15PM ET,boxscore,L,NO,2-Feb,Away,San Francisco 49ers,9,24,21,257,200,57,2,13,327,239,88,0,-11.56,-10.05,7.93,ram
+4,5,Sun,2022-10-09,4:25PM ET,boxscore,L,NO,3-Feb,Home,Dallas Cowboys,10,22,14,323,285,38,3,10,239,76,163,0,-11.11,8.44,-6.98,ram
+5,6,Sun,2022-10-16,4:05PM ET,boxscore,W,NO,3-Mar,Home,Carolina Panthers,24,10,22,360,249,111,1,8,203,110,93,1,3.51,11.74,-2.53,ram
+7,8,Sun,2022-10-30,4:25PM ET,boxscore,L,NO,4-Mar,Home,San Francisco 49ers,14,31,16,223,167,56,0,22,368,257,111,0,3.37,-23.18,2.48,ram
+8,9,Sun,2022-11-06,4:25PM ET,boxscore,L,NO,5-Mar,Away,Tampa Bay Buccaneers,13,16,9,206,138,68,0,18,323,272,51,0,-10.99,8.87,-1.37,ram
+9,10,Sun,2022-11-13,4:25PM ET,boxscore,L,NO,6-Mar,Home,Arizona Cardinals,17,27,18,256,190,66,2,18,298,220,78,0,-5.36,-5.83,0.48,ram
+10,11,Sun,2022-11-20,1:00PM ET,boxscore,L,NO,7-Mar,Away,New Orleans Saints,20,27,17,336,188,148,0,19,323,235,88,0,3.06,-8.99,-2.98,ram
+11,12,Sun,2022-11-27,4:25PM ET,boxscore,L,NO,8-Mar,Away,Kansas City Chiefs,10,26,13,198,82,116,2,29,437,320,117,2,-9.01,-13.96,8.76,ram
+12,13,Sun,2022-12-04,4:05PM ET,boxscore,L,NO,9-Mar,Home,Seattle Seahawks,23,27,20,319,148,171,2,25,438,348,90,2,4.46,-12.57,3.11,ram
+13,14,Thu,2022-12-08,8:15PM ET,boxscore,W,NO,9-Apr,Home,Las Vegas Raiders,17,16,20,282,211,71,1,17,302,137,165,2,5.59,-0.55,-4.09,ram
+14,15,Mon,2022-12-19,8:15PM ET,boxscore,L,NO,10-Apr,Away,Green Bay Packers,12,24,13,156,84,72,1,27,345,207,138,2,-1.29,-13.03,-0.81,ram
+15,16,Sun,2022-12-25,4:30PM ET,boxscore,W,NO,10-May,Home,Denver Broncos,51,14,26,388,230,158,0,18,323,219,104,4,22.61,13.18,1.14,ram
+16,17,Sun,2023-01-01,4:25PM ET,boxscore,L,NO,11-May,Away,Los Angeles Chargers,10,31,12,277,111,166,1,22,431,239,192,0,-0.47,-21.57,0.25,ram
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,L,OT,12-May,Away,Seattle Seahawks,16,19,14,269,123,146,1,22,402,205,197,2,-3.8,3.11,-2.32,ram
+0,1,Sun,2022-09-11,4:25PM ET,boxscore,L,NO,0-1,Home,Kansas City Chiefs,21,44,18,282,179,103,0,33,488,360,128,1,2.29,-33.41,6.88,crd
+1,2,Sun,2022-09-18,4:25PM ET,boxscore,W,OT,1-Jan,Away,Las Vegas Raiders,29,23,28,413,270,143,1,20,324,244,80,1,12,-4.86,1.75,crd
+2,3,Sun,2022-09-25,4:25PM ET,boxscore,L,NO,2-Jan,Home,Los Angeles Rams,12,20,23,365,295,70,0,15,339,239,100,1,0.8,-5.31,-5.72,crd
+3,4,Sun,2022-10-02,4:05PM ET,boxscore,W,NO,2-Feb,Away,Carolina Panthers,26,16,20,338,206,132,1,11,220,180,40,3,-6.14,19.54,-1.9,crd
+4,5,Sun,2022-10-09,4:25PM ET,boxscore,L,NO,3-Feb,Home,Philadelphia Eagles,17,20,23,363,239,124,1,24,357,218,139,0,12.33,-10.63,-5.16,crd
+5,6,Sun,2022-10-16,4:05PM ET,boxscore,L,NO,4-Feb,Away,Seattle Seahawks,9,19,15,315,171,144,2,19,296,160,136,1,-14.01,8.22,-5.25,crd
+6,7,Thu,2022-10-20,8:15PM ET,boxscore,W,NO,4-Mar,Home,New Orleans Saints,42,34,21,326,189,137,0,25,494,409,85,3,13.74,-5.93,1.75,crd
+7,8,Sun,2022-10-30,1:00PM ET,boxscore,L,NO,5-Mar,Away,Minnesota Vikings,26,34,25,375,297,78,3,25,381,208,173,1,2.87,-10.22,-3.71,crd
+8,9,Sun,2022-11-06,4:05PM ET,boxscore,L,NO,6-Mar,Home,Seattle Seahawks,21,31,15,262,140,122,1,27,421,263,158,1,-5.02,-10.67,-0.9,crd
+9,10,Sun,2022-11-13,4:25PM ET,boxscore,W,NO,6-Apr,Away,Los Angeles Rams,27,17,18,298,220,78,0,18,256,190,66,2,5.83,5.36,-0.48,crd
+10,11,Mon,2022-11-21,8:15PM ET,boxscore,L,NO,7-Apr,Home,San Francisco 49ers,10,38,19,314,247,67,2,21,387,228,159,0,-9.44,-20.26,1.43,crd
+11,12,Sun,2022-11-27,4:05PM ET,boxscore,L,NO,8-Apr,Home,Los Angeles Chargers,24,25,20,366,185,181,2,22,311,246,65,0,7.69,-6.53,-1.25,crd
+13,14,Mon,2022-12-12,8:15PM ET,boxscore,L,NO,9-Apr,Home,New England Patriots,13,27,19,323,210,113,2,18,328,225,103,1,-17.43,0.47,0.9,crd
+14,15,Sun,2022-12-18,4:05PM ET,boxscore,L,NO,10-Apr,Away,Denver Broncos,15,24,13,240,167,73,3,23,324,156,168,2,-19.01,0.79,6.6,crd
+15,16,Sun,2022-12-25,8:20PM ET,boxscore,L,OT,11-Apr,Home,Tampa Bay Buccaneers,16,19,16,325,204,121,3,21,396,281,115,2,-13.64,4.6,6.77,crd
+16,17,Sun,2023-01-01,1:00PM ET,boxscore,L,NO,12-Apr,Away,Atlanta Falcons,19,20,22,339,213,126,0,20,298,166,132,1,6.1,-3.27,-5.1,crd
+17,18,Sun,2023-01-08,4:25PM ET,boxscore,L,NO,13-Apr,Away,San Francisco 49ers,13,38,11,255,194,61,4,21,311,142,169,0,-15.23,-9.62,-0.8,crd
